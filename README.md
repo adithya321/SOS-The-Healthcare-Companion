@@ -15,4 +15,5 @@ We’ve built an android application which we believe tackles some of these impo
 The app also has an user-friendly introduction for first-timers that briefs on the capabilities of the app.
 
 Youtube Demo: [https://youtu.be/EDdsUSuxibc](https://youtu.be/EDdsUSuxibc)
+
 APK link: [app-release.apk](https://github.com/adithya321/SOS-The-Healthcare-Companion/blob/master/app-release.apk)
