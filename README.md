@@ -17,3 +17,7 @@ The app also has an user-friendly introduction for first-timers that briefs on t
 Youtube Demo: [https://youtu.be/EDdsUSuxibc](https://youtu.be/EDdsUSuxibc)
 
 APK link: [app-release.apk](https://github.com/adithya321/SOS-The-Healthcare-Companion/blob/master/app-release.apk)
+
+![Screenshots Row 1](https://raw.githubusercontent.com/adithya321/SOS-The-Healthcare-Companion/master/GRAPHICS/row_1.png)
+
+![Screenshots Row 2](https://raw.githubusercontent.com/adithya321/SOS-The-Healthcare-Companion/master/GRAPHICS/row_2.png)
