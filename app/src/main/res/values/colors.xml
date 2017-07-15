@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ SOS
+  ~ Copyright (C) 2016  zDuo (Adithya J, Vazbloke)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<resources>
+    <color name="primary">#315e97</color>
+    <color name="primaryDark">#294E7D</color>
+    <color name="accent">#897dae</color>
+    <color name="accentLight">#ff988db6</color>
+    <color name="background">#eeeeee</color>
+    <color name="lightGray">#e6e6e6</color>
+    <color name="textLightGray">#8f8f8f</color>
+    <color name="textGreyHeader">#ff818181</color>
+    <color name="notificationContentText">#737373</color>
+    <color name="error">#da1b21</color>
+    <color name="iconTint">#8e8e8e</color>
+    <color name="default_colour_grey">#8e8e8e</color>
+    <color name="emptyColour">#bababa</color>
+    <color name="shortcut_fire">#F27F2F</color>
+    <color name="shortcut_police">#558A34</color>
+    <color name="shortcut_ambulance">#4FB9AE</color>
+    <color name="shortcut_blood">#EB5453</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="light_grey">#bdbdbd</color>
+    <color name="glucosio_pink">#E84579</color>
+    <color name="glucosio_pink_light">#ec6a93</color>
+    <color name="glucosio_pink_graph_2">#99FCE2EA</color>
+    <color name="glucosio_pink_graph_1">#80FCE2EA</color>
+    <color name="glucosio_pink_dark">#C23965</color>
+    <color name="glucosio_accent">#f0d04c</color>
+    <color name="glucosio_fab_glucose">#E84579</color>
+    <color name="glucosio_fab_HB1AC">#E86445</color>
+    <color name="glucosio_fab_cholesterol">#E7B85D</color>
+    <color name="glucosio_fab_pressure">#749756</color>
+    <color name="glucosio_fab_ketones">#4B8DDB</color>
+    <color name="glucosio_fab_weight">#7e57c2</color>
+    <color name="glucosio_separator">#eaeaea</color>
+    <color name="glucosio_gray_light">#D1D1D1</color>
+    <color name="glucosio_text">#323232</color>
+    <color name="glucosio_text_dark">#000000</color>
+    <color name="glucosio_text_light">#686E71</color>
+    <color name="glucosio_text_green">#46a644</color>
+    <color name="glucosio_light_grey_background">#F9F9F9</color>
+    <color name="glucosio_grey_action_icon">#7c7c7c</color>
+    <color name="mdtp_accent_color_dark">@color/glucosio_pink_dark</color>
+    <color name="glucosio_reading_ok">#749756</color>
+    <color name="glucosio_reading_hyper">#E86445</color>
+    <color name="glucosio_reading_low">#4B8DDB</color>
+    <color name="glucosio_reading_high">#E7B85D</color>
+    <color name="glucosio_reading_hypo">#6F4EAB</color>
+
+    <color name="fab_red">#F44336</color>
+    <color name="fab_green">#8BC34A</color>
+    <color name="fab_yellow">#F8D235</color>
+    <color name="fab_brown">#795548</color>
+</resources>

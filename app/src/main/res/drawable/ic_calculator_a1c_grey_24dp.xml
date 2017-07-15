@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ SOS
+  ~ Copyright (C) 2016  zDuo (Adithya J, Vazbloke)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportHeight="128"
+    android:viewportWidth="128">
+
+    <path
+        android:fillColor="#FF757575"
+        android:pathData="M93.573,15.973H34.427v12.86h7.143c-0.117,0.824-0.185,1.707-0.185,2.671v57.908
+c0,12.49,10.125,22.614,22.614,22.614s22.614-10.125,22.614-22.614V31.505c0-0.965-0.067-1.848-0.185-2.671h7.143V15.973z
+M73.692,89.413c0,5.344-4.348,9.692-9.692,9.692s-9.692-4.348-9.692-9.692V32.134c2.595-0.381,7.044-0.381,9.692-0.381
+c2.647,0,7.097,0,9.692,0.381V89.413z" />
+    <path
+        android:fillColor="#FF757575"
+        android:pathData="M58.606,88.868c0,2.974,2.42,5.394,5.394,5.394s5.394-2.42,5.394-5.394V61.27H58.606V88.868z" />
+</vector>

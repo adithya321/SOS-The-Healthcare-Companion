@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ SOS
+  ~ Copyright (C) 2016  zDuo (Adithya J, Vazbloke)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/view_coordinator"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ContentDescription">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/view_header_padding_bottom">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="?attr/colorPrimary"
+                android:theme="@style/Toolbar"
+                app:popupTheme="@style/Theme.AppCompat.Light.DarkActionBar" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="15dp">
+
+                <include layout="@layout/notification" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:id="@+id/toolbar_shadow"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/toolbar_shadow_height"
+            android:background="@drawable/toolbar_shadow"
+            android:visibility="gone" />
+
+        <ScrollView
+            android:id="@+id/scroll"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/white">
+
+            <LinearLayout
+                android:id="@+id/detail_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/list_padding"
+                android:paddingRight="@dimen/list_padding"
+                android:paddingTop="5dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="@dimen/table_row_view_padding"
+                    android:paddingTop="@dimen/table_row_view_padding"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/view_image_margin_side"
+                        android:layout_marginStart="@dimen/view_image_margin_side"
+                        android:src="@drawable/ic_access_time_white_24dp"
+                        android:tint="@color/iconTint" />
+
+                    <TextView
+                        android:id="@+id/time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_view_margin_side"
+                        android:layout_marginStart="@dimen/text_view_margin_side"
+                        android:textColor="@android:color/black"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="@dimen/table_row_view_padding"
+                    android:paddingTop="@dimen/table_row_view_padding"
+                    android:weightSum="1">
+
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/view_image_margin_side"
+                        android:layout_marginStart="@dimen/view_image_margin_side"
+                        android:src="@drawable/ic_today_white_24dp"
+                        android:tint="@color/iconTint" />
+
+                    <TextView
+                        android:id="@+id/date"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_view_margin_side"
+                        android:layout_marginStart="@dimen/text_view_margin_side"
+                        android:textColor="@android:color/black"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="@dimen/table_row_view_padding"
+                    android:paddingTop="@dimen/table_row_view_padding"
+                    android:weightSum="1">
+
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/view_image_margin_side"
+                        android:layout_marginStart="@dimen/view_image_margin_side"
+                        android:src="@drawable/ic_refresh_white_24dp"
+                        android:tint="@color/iconTint" />
+
+                    <TextView
+                        android:id="@+id/repeat"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_view_margin_side"
+                        android:layout_marginStart="@dimen/text_view_margin_side"
+                        android:lineSpacingExtra="4dp"
+                        android:textColor="@android:color/black"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="@dimen/table_row_view_padding"
+                    android:paddingTop="@dimen/table_row_view_padding"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/view_image_margin_side"
+                        android:layout_marginStart="@dimen/view_image_margin_side"
+                        android:src="@drawable/ic_remove_circle_white_24dp"
+                        android:tint="@color/iconTint" />
+
+                    <TextView
+                        android:id="@+id/dosage"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_view_margin_side"
+                        android:layout_marginStart="@dimen/text_view_margin_side"
+                        android:layout_weight="1"
+                        android:textColor="@android:color/black"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="@dimen/table_row_view_padding"
+                    android:paddingTop="@dimen/table_row_view_padding"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/view_image_margin_side"
+                        android:layout_marginStart="@dimen/view_image_margin_side"
+                        android:src="@drawable/ic_remove_red_eye_white_24dp"
+                        android:tint="@color/iconTint" />
+
+                    <TextView
+                        android:id="@+id/shown"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_view_margin_side"
+                        android:layout_marginStart="@dimen/text_view_margin_side"
+                        android:layout_weight="1"
+                        android:textColor="@android:color/black"
+                        android:textSize="16sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

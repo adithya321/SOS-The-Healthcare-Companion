@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ SOS
+  ~ Copyright (C) 2016  zDuo (Adithya J, Vazbloke)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/create_coordinator"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ContentDescription">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary"
+            android:orientation="vertical"
+            android:paddingBottom="14dp"
+            android:paddingLeft="@dimen/title_padding_left"
+            android:paddingRight="@dimen/title_padding_right"
+            android:paddingTop="14dp">
+
+            <EditText
+                android:id="@+id/your_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:hint="@string/your_name"
+                android:inputType="textPersonName"
+                android:tag="@string/your_name"
+                android:textColor="@android:color/white"
+                android:textColorHighlight="@color/accentLight"
+                android:textColorHint="@color/textLightGray"
+                android:textSize="28sp"
+                android:theme="@style/TitleEditText" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/toolbar_shadow"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/toolbar_shadow_height"
+            android:layout_marginBottom="@dimen/toolbar_shadow_adjust"
+            android:background="@drawable/toolbar_shadow" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="@dimen/create_scroll_view_padding"
+            android:paddingStart="@dimen/create_scroll_view_padding">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:animateLayoutChanges="true"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackground"
+                    android:clickable="true"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side"
+                    android:paddingTop="@dimen/table_row_default_horizontal_padding"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:src="@drawable/ic_info_white_24dp"
+                        android:tint="@color/default_colour_grey" />
+
+                    <TextView
+                        android:id="@+id/sos_id"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side"
+                        android:background="@android:color/transparent"
+                        android:hint="@string/emergency_contact"
+                        android:tag="@string/emergency_contact"
+                        android:textColorHighlight="@color/accentLight"
+                        android:textColorHint="@color/textLightGray"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side"
+                    android:paddingTop="22dp"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:src="@drawable/ic_group_work_white_24dp"
+                        android:tint="@color/iconTint" />
+
+                    <Spinner
+                        android:id="@+id/blood_group"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/line_separator_height"
+                    android:layout_marginLeft="@dimen/line_separator_margin_side_large"
+                    android:layout_marginStart="@dimen/line_separator_margin_side_large"
+                    android:background="@color/lightGray" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackground"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side"
+                    android:paddingTop="@dimen/table_row_default_horizontal_padding"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:src="@drawable/ic_contact_phone_white_24dp"
+                        android:tint="@color/iconTint" />
+
+                    <EditText
+                        android:id="@+id/contact_no"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side"
+                        android:background="@android:color/transparent"
+                        android:hint="@string/contact_no"
+                        android:inputType="phone"
+                        android:tag="@string/contact_no"
+                        android:textColorHighlight="@color/accentLight"
+                        android:textColorHint="@color/textLightGray"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/line_separator_height"
+                    android:layout_marginLeft="@dimen/line_separator_margin_side_large"
+                    android:layout_marginStart="@dimen/line_separator_margin_side_large"
+                    android:background="@color/lightGray" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackground"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side"
+                    android:paddingTop="@dimen/table_row_default_horizontal_padding"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:src="@drawable/ic_supervisor_account_white_24dp"
+                        android:tint="@color/iconTint" />
+
+                    <EditText
+                        android:id="@+id/doctor_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side"
+                        android:background="@android:color/transparent"
+                        android:hint="@string/doctor_name"
+                        android:inputType="textCapSentences|textAutoCorrect"
+                        android:tag="@string/doctor_name"
+                        android:textColorHighlight="@color/accentLight"
+                        android:textColorHint="@color/textLightGray"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/line_separator_height"
+                    android:layout_marginLeft="@dimen/line_separator_margin_side_large"
+                    android:layout_marginStart="@dimen/line_separator_margin_side_large"
+                    android:background="@color/lightGray" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackground"
+                    android:clickable="true"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side"
+                    android:paddingTop="@dimen/table_row_default_horizontal_padding"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:src="@drawable/ic_announcement_white_24dp"
+                        android:tint="@color/default_colour_grey" />
+
+                    <TextView
+                        android:id="@+id/emergency_contact"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side"
+                        android:background="@android:color/transparent"
+                        android:hint="@string/emergency_contact"
+                        android:tag="@string/emergency_contact"
+                        android:textColorHighlight="@color/accentLight"
+                        android:textColorHint="@color/textLightGray"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/line_separator_height"
+                    android:layout_marginLeft="@dimen/line_separator_margin_side_large"
+                    android:layout_marginStart="@dimen/line_separator_margin_side_large"
+                    android:background="@color/lightGray" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackground"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side"
+                    android:paddingTop="@dimen/table_row_default_horizontal_padding"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:src="@drawable/ic_hourglass_full_white_24dp"
+                        android:tint="@color/default_colour_grey" />
+
+                    <EditText
+                        android:id="@+id/weight"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side"
+                        android:background="@android:color/transparent"
+                        android:hint="@string/weight"
+                        android:inputType="numberDecimal"
+                        android:tag="@string/weight"
+                        android:textColorHighlight="@color/accentLight"
+                        android:textColorHint="@color/textLightGray"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/line_separator_height"
+                    android:layout_marginLeft="@dimen/line_separator_margin_side_large"
+                    android:layout_marginStart="@dimen/line_separator_margin_side_large"
+                    android:background="@color/lightGray" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackground"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side"
+                    android:paddingTop="@dimen/table_row_default_horizontal_padding"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:src="@drawable/ic_accessibility_white_24dp"
+                        android:tint="@color/default_colour_grey" />
+
+                    <EditText
+                        android:id="@+id/height"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side"
+                        android:background="@android:color/transparent"
+                        android:hint="@string/height"
+                        android:inputType="numberDecimal"
+                        android:tag="@string/height"
+                        android:textColorHighlight="@color/accentLight"
+                        android:textColorHint="@color/textLightGray"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/line_separator_height"
+                    android:layout_marginLeft="@dimen/line_separator_margin_side_large"
+                    android:layout_marginStart="@dimen/line_separator_margin_side_large"
+                    android:background="@color/lightGray" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackground"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side"
+                    android:paddingTop="@dimen/table_row_default_horizontal_padding"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:src="@drawable/ic_warning_white_24dp"
+                        android:tint="@color/iconTint" />
+
+                    <EditText
+                        android:id="@+id/allergies"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side"
+                        android:background="@android:color/transparent"
+                        android:hint="@string/allergies"
+                        android:inputType="textCapSentences|textAutoCorrect"
+                        android:tag="@string/allergies"
+                        android:textColorHighlight="@color/accentLight"
+                        android:textColorHint="@color/textLightGray"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/line_separator_height"
+                    android:layout_marginLeft="@dimen/line_separator_margin_side_large"
+                    android:layout_marginStart="@dimen/line_separator_margin_side_large"
+                    android:background="@color/lightGray" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="16dp" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

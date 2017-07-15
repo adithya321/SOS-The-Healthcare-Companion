@@ -1,0 +1,657 @@
+<!--
+  ~ SOS
+  ~ Copyright (C) 2016  zDuo (Adithya J, Vazbloke)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<resources>
+    <string name="app_name">SOS</string>
+
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="preference_notification_category">Notification Preferences</string>
+    <string name="preference_emergency_category">Emergency Preferences</string>
+    <string name="checkbox_vibrate">Vibrate</string>
+    <string name="checkbox_sound">Sound</string>
+    <string name="checkbox_LED">LED</string>
+    <string name="checkbox_SOS">SOS</string>
+    <string name="checkbox_SMS">Emergency Contact</string>
+    <string name="checkbox_Blood">Blood Donation</string>
+    <string name="blood_details">Opt-in for Blood Donation</string>
+    <string name="checkbox_health_tips">Daily Health Tips</string>
+    <string name="sos_detail">Persistent notification for emergencies</string>
+    <string name="sms_detail">Notify emergency contact via SMS</string>
+    <string name="sos_notification_detail">Tap here in case of an emergency</string>
+    <string name="snooze">Snooze</string>
+    <string name="snooze_detail">Add a snooze action to the notification</string>
+    <string name="snooze_length">Snooze length</string>
+    <string name="mark_as_done">Mark as done</string>
+    <string name="mark_as_done_detail">Add a \"Mark as done\" action to the notification</string>
+    <string name="nagging_reminder">Nagging reminder</string>
+    <string name="nagging_detail">Continuously notify you of the current notification until it is dismissed</string>
+    <string name="nagging_interval">Nagging interval</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_about">About</string>
+    <string name="action_show_now">Show now</string>
+    <string name="action_mark_as_done">Mark as done</string>
+    <string name="action_share">Share</string>
+    <string name="delete_confirmation">Are you sure you want to delete this notification?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="save_menu">Save</string>
+    <string name="time_now">Now</string>
+    <string name="date_today">Today</string>
+    <string name="times_shown">Shown %1$d out of %2$d times</string>
+    <string name="times_shown_edit">Shown %1$d out of</string>
+    <string name="forever">Forever</string>
+    <string name="repeat_daily">Every Day</string>
+    <string name="times">times</string>
+    <string name="repeat_notification">Number of times to repeat: </string>
+    <string name="content_hint">Add medication description</string>
+    <string name="dosage_hint">Dosage</string>
+    <string name="dosage_error">Enter the Dosage</string>
+    <string name="dosage_show">Take %1$.2f</string>
+    <string name="quantity_hint">Amount of meds you have</string>
+    <string name="quantity_error">Enter the amount of meds you have</string>
+    <string name="quantity_show">%1$.0f left</string>
+    <string name="select_icon">Select an icon</string>
+    <string name="default_icon">Icon</string>
+    <string name="custom_icon">Custom icon</string>
+    <string name="select_colour">Select a colour</string>
+    <string name="default_colour">Colour</string>
+    <string name="repeats_on">Repeats on:</string>
+    <string name="repeat_every">Repeat every</string>
+    <string name="repeats_every">Repeats every: %1$d %2$s</string>
+    <string name="no_active">No active medications</string>
+    <string name="no_inactive">No inventory</string>
+    <string name="toast_past_date">Cannot set initial date in the past</string>
+    <string name="toast_higher_number">Repeat number must be higher</string>
+    <string name="toast_title_empty">Title cannot be empty</string>
+    <string name="toast_mark_as_done">Marked next reminder as done</string>
+    <string name="add_medication">Add medication</string>
+    <string name="libraries">Libraries</string>
+    <string name="rate_app">Rate app</string>
+    <string name="contact">Contact</string>
+    <string name="version">Version</string>
+    <string name="thanks_to">Thanks to</string>
+    <string name="translator">Translator</string>
+    <string name="send_email">Send email</string>
+    <string-array name="repeat_array">
+        <item>Every day</item>
+        <item>Every week</item>
+        <item>Every month</item>
+        <item>Specific days of the week</item>
+        <item>Advanced</item>
+    </string-array>
+
+    <string name="running_low">Running low\?</string>
+    <string name="your_name">Your Name</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="allergies">Allergies / Conditions</string>
+    <string name="doctor_name">Doctor Name</string>
+    <string name="contact_no">Contact No</string>
+    <string name="emergency_contact">Emergency Contact</string>
+    <string name="pick_contact">Pick Emergency Contact</string>
+    <string name="send_sos">Send SOS</string>
+
+    <string name="weight">Weight in kilos</string>
+    <string name="height">Height in cm</string>
+    <string name="age">Age in years</string>
+
+    <string-array name="blood_groups">
+        <item>A Negative (A −ve)</item>
+        <item>A Positive (A +ve)</item>
+        <item>AB Negative (AB −ve)</item>
+        <item>AB Positive (AB +ve)</item>
+        <item>B Negative (B −ve)</item>
+        <item>B Positive (B +ve)</item>
+        <item>O Negative (O −ve)</item>
+        <item>O Positive (O +ve)</item>
+    </string-array>
+
+    <string-array name="blood_groups_alias">
+        <item>A_N</item>
+        <item>A_P</item>
+        <item>AB_N</item>
+        <item>AB_P</item>
+        <item>B_N</item>
+        <item>B_P</item>
+        <item>O_N</item>
+        <item>O_P</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="activity_factor">
+        <item>Sedentary</item>
+        <item>Lightly active</item>
+        <item>Moderately active</item>
+        <item>Very active</item>
+        <item>Extra active</item>
+    </string-array>
+
+    <string name="gain_weight">One pound of body weight is roughly equivalent to 3500 calories,
+        so eating an extra 500 calories per day will cause you to gain one pound a week.</string>
+
+    <string-array name="tips">
+        <item>Crossing your arms behind your back, and stretch your shoulders and chest while seated helps yout posture.</item>
+        <item>Eat breakfast every day. People who eat breakfast are less likely to overeat later in the day. Breakfast also gives you energy and helps you think and learn.</item>
+        <item>Use fats and oils sparingly. Olive, canola, and peanut oils, avocados, nuts and nut butters,olives, and fish provide heart-healthy fat as well as vitamins and minerals.</item>
+        <item>Eat six meals a day instead of heavy three meals.</item>
+        <item>Drink 10 glasses of water everyday. Its especially important to stay well hydrated when following a comprehensive training, nutrition, and supplementation program.</item>
+        <item>Don’t take more than one all-purpose multivitamin daily.</item>
+        <item>Never cut any food group out of your diet including carbohydrates.</item>
+        <item>Take a deep belly breath for three to five minutes twice a day.</item>
+        <item>Have a greater variety of food. Variety means no excess of anything and more nutrients. Eat three different foods at every meal.</item>
+        <item>Learn to cook and gain control of what goes into your meals</item>
+        <item>Eat calcium-rich foods like milk, cheese and green leafy vegetables.</item>
+        <item>Don’t sit for a prolonged time. Stand up and stretch.</item>
+        <item>Honey helps build up your immunity system.</item>
+    </string-array>
+
+    <!-- Hello Activity -->
+    <string name="title_activity_hello">Hello.</string>
+    <string name="helloactivity_headline">Hello.</string>
+    <string name="helloactivity_terms">Terms of Use</string>
+    <string name="helloactivity_subhead">We just need a few quick things before getting you started.</string>
+    <string name="helloactivity_name">Name</string>
+    <string name="helloactivity_age_invalid">Please enter a valid age.</string>
+    <string name="helloactivity_details_invalid">Please enter all details.</string>
+
+    <string name="helloactivity_gender">Gender</string>
+    <string name="helloactivity_spinner_blood_group">Bloud Group</string>
+
+    <string name="helloactivity_share_data">Share anonymous data for research.</string>
+    <string name="helloactivity_hint_settings">You can change these in settings later.</string>
+    <string name="helloactivity_textview_tos">By using SOS, you are agreeing to the</string>
+    <string name="helloactivity_button_next">NEXT</string>
+    <string name="helloactivity_button_start">GET STARTED</string>
+
+
+    <!-- App Shortcuts -->
+    <string name="fab_ambulance">Ambulance</string>
+    <string name="fab_police">Police</string>
+    <string name="fab_fire">Fire</string>
+    <string name="fab_blood">Blood</string>
+
+    <!-- First Aid -->
+    <string name="fa1">The universal sign for choking is hands clutched to the throat. To help a choking victim, perform abdominal thrusts: stand behind the person with your arms around his or her waist, make a fist with one hand, grasp the fist with the other hand and press hard into the abdomen with a quick, upward thrust. If you are by yourself and choking, call 911 immediately, then proceed with abdominal thrusts: place your fist just above your belly button, grasp your fist with your other hand and bend over a hard surface, like a countertop, and shove your fist in and up.</string>
+    <string name="fa2">After you wash your hands, stop any bleeding by applying gentle pressure using a sterile bandage or clean cloth. Use clean water to rinse the wound. You can use soap and a washcloth to clean the area around the wound, but try to keep soap from direct contact with wound (it can cause irritation). If the wound is dirty despite the rinsing, you can use tweezers cleaned with alcohol to remove particles that are left—but if you can’t get the wound clean, seek professional medical care. There is no need to use hydrogen peroxide or iodine-containing cleansers on the wound; these can irritate the tissue. Apply a thin layer of an antibiotic ointment to help keep the wound moist—it won’t make the wound heal faster, but can help keep the area clear of infection. You can finish off dressing the wound with a bandage, which should be changed at least once or twice a day, or anytime the dressing gets dirty.</string>
+    <string name="fa3">Allergic reactions range in severity from mild, like skin irritation, to severe and life-threatening, called anaphylaxis. In severe cases, untreated anaphylaxis can lead to death within a half hour. First, if the inciting agent is known—for example, an animal or lotion—remove it. You can try an antihistamine pill, such as diphenhydramine, to help with the symptoms. If you are with someone having an allergic reaction with signs of anaphylaxis (like hives or flushed skin, facial swelling or swelling of the lips or throat, constriction of the airways leading to wheezing or trouble breathing, nausea or diarrhea, or dizziness), ask the person if he or she is carrying an epinephrine autoinjector, sometimes called an EpiPen or Auvi-Q; if so, ask the person if they need to use the autoinjector and if you should help. Typically, the autoinjector is given by pressing the device against the person’s thigh. Even if the symptoms of anaphylaxis seem to improve after giving the autoinjector, the person should seek immediate medical evaluation, as symptoms could return after the medication wears off.</string>
+    <string name="fa4">Drowning is a leading cause of death and injury in children. Beyond swimming pools, drowning can occur in things as simple as buckets of water or the bath tub. Do not leave a child unattended if there is water involved. If someone does appear to be drowning, your first priority is to remove the person from water as quickly as possible. Even strong swimmers can have difficulty removing victims from the water; look for emergency equipment, like a safety ring, for assistance. Once the person is out of the water, look closely for signs of breathing, like breath on your face or chest rise. If he or she is not breathing, begin rescue breathing and have someone call for help. Check for a pulse; if you cannot find a pulse, start chest compressions. Continue the care until trained medical professionals arrive.</string>
+    <string name="fa5">Try to keep blisters intact, as the unbroken skin is a barrier to infection. If you need to drain the blister to help with pain, you can use a clean, sharp needle to nick the skin near the edge of blister and let the fluid drain, but leave the overlying skin in place. Make sure you change the dressing daily to help prevent infections.</string>
+    <string name="fa6">Most insect bites or stings are mild, causing at most a little redness, itching, or stinging around the area. For mild reactions, remove the stinger, wash the area with soap and water, and apply a cool compress to help with the discomfort. You can use topical, over-the-counter products to help with both the pain and itching.</string>
+    <string name="fa7">Asthma attacks are unsettling for both the person with the symptoms and for those watching. If the person seems to worsen, develop more difficulty breathing, or become less responsive, call 911 or medical assistance immediately. If the person has an inhaler, help them administer 4-6 puffs while waiting for medical personnel to arrive.</string>
+    <string name="fa8">Sit upright, lean forward, and pinch your nostrils shut with your thumb and index finger, holding for 5-10 minutes. Don’t pick or blow your nose for several hours to help decrease the risk of rebleeding. If your nose does start bleeding again, gently blow your nose to remove the blood clots, then spray both sides with a decongestant nasal spray containing oxymetazoline. Pinch your nose again for 10 minutes—if you are still unsuccessful, seek medical attention.</string>
+    <string name="fa9">Use cool, running water, or a damp, clean cloth to help with the pain. The burned area might swell, so remove rings or other tight items that could be potentially constricting. Leave small blisters intact. Make sure you seek medical care if the blisters are large, the burned area covers a large part of the body, you notice any signs of infection, like oozing from the wound, or for any other concerns.</string>
+    <string name="fa10">You can treat very mild frostbite with first aid, but you should seek medical attention for anything beyond frostnip. First, protect yourself from further exposure to the cold and remove wet clothing; if there is any chance the affected areas will freeze again, don’t warm them. To warm frostbitten areas, soak the area in warm water (99-108 F) for 15-30 minutes. Don’t use stoves, heat lamps, heating pads or anything that produces direct heat, as those devices can cause burns. If skin turns red and tingles or burns as it warms, that means normal blood flow is returning.</string>
+    <string name="fa11">Fainting can result from several situations, ranging from mild to dangerous and sometimes deadly. If someone faints, place him or her on her back and, if possible, raise the person’s legs about a foot above the level of the heart. Don’t let the person stand up too quickly—they might faint again. If the person doesn’t regain consciousness within 1 minute, call 911. Check the person’s airway to make sure it isn’t blocked and check him or her for signs of circulation (breathing, coughing, movement); if absent, call 911 and start CPR.</string>
+    <string name="fa12">Most tick bites are mild—to remove the tick carefully, use tweezers to grasp the tick near its head and pull it out gently, trying not to crush it. It is not recommended to use petroleum jelly, rubbing alcohol, or a hot match. Wash your hands and the area around the tick bite with soap and water. Make sure you let your doctor know if you develop a rash around the bite, develop flu-like symptoms, you think the bite is infected, or if you are unable to remove the whole tick.</string>
+    <string name="fa13">The symptoms of a heart attack can be very specific—like a pressure or full feeling in the chest—to vague, like light-headedness or nausea. If you suspect you or someone you are with is having a heart attack, call 911. If you don’t have access to ambulance services, have a neighbor or friend drive you to the nearest hospital. Chew and swallow an Aspirin (unless you are allergic to Aspirin) or have been told by your doctor to never take Aspirin. Take nitroglycerin if it has been prescribed to you, but do not take someone else’s. Start CPR if the person is unconscious, and locate an automatic external defibrillator (AED) if possible. (If your office/community center doesn’t have one, the Red Cross offers several approved models, plus support for training and education.) If you are concerned that you or someone you are with is having a stroke, seek immediate medical attention fast—every minute counts. Signs of a stroke can include a facial droop, arm or leg weakness, a severe, quick onset headache, blurry vision or loss of vision particularly in one eye, and dizziness.</string>
+    <string name="fa14">Before starting CPR on an adult:\nCheck the scene—make sure it is safe to approach. Check the person—tap the person on the shoulder to see if they respond. Look for signs of normal breathing.\nIf the person is unresponsive, start chest compressions.\nTo perform hands-only CPR on an adult:\nPosition the person on his or her back on a firm surface. Kneel beside them.\nPlace the palm/heel of your hand in the center of his or her chest and place your other hand on top of that hand.\nPosition your body so that your shoulders are directly over your hands and your arms are straight.\nPush hard, push fast. Your goal should be compressions that are at least 2 inches deep at a rate of at least 100 compressions/minute. Make sure you allow the chest to rise completely between compressions.\nContinue compressions until you see signs of movement, someone relieves you, you are too tired to continue, an AED becomes available or the scene becomes unsafe.\nIf you are trained in CPR, check the airway and perform rescue breathing as indicated.</string>
+
+    <string name="fa1_title">Choking</string>
+    <string name="fa2_title">Wound</string>
+    <string name="fa3_title">Allergic Reactions</string>
+    <string name="fa4_title">Drowning</string>
+    <string name="fa5_title">Blisters</string>
+    <string name="fa6_title">Insect Bites/Stings</string>
+    <string name="fa7_title">Asthma Attacks</string>
+    <string name="fa8_title">Bloody Nose</string>
+    <string name="fa9_title">Burns</string>
+    <string name="fa10_title">Frostbite</string>
+    <string name="fa11_title">Fainting/Passing Out</string>
+    <string name="fa12_title">Ticks</string>
+    <string name="fa13_title">CPR</string>
+
+    <string name="action_feedback">Send feedback</string>
+    <string name="action_invite">Invite a friend</string>
+    <string name="tab_overview">Overview</string>
+    <string name="tab_history">History</string>
+    <string name="tab_tips">Tips</string>
+    <string name="activity_main_add_new_reading">Add new reading</string>
+
+    <string name="helloactivity_country">Country</string>
+    <string name="helloactivity_age">Age</string>
+    <string name="helloactivity_gender_list_1">Male</string>
+    <string name="helloactivity_gender_list_2">Female</string>
+    <string name="helloactivity_gender_list_3">Other</string>
+
+    <string-array name="helloactivity_gender_list" translatable="false">
+        <item>@string/helloactivity_gender_list_1</item>
+        <item>@string/helloactivity_gender_list_2</item>
+        <item>@string/helloactivity_gender_list_3</item>
+    </string-array>
+
+    <string name="helloactivity_spinner_diabetes_type">Diabetes type</string>
+    <string name="helloactivity_spinner_diabetes_type_1">Type 1</string>
+    <string name="helloactivity_spinner_diabetes_type_2">Type 2</string>
+    <string name="helloactivity_spinner_diabetes_gdm">Gestational</string>
+    <string name="helloactivity_spinner_diabetes_lada">LADA</string>
+
+    <string-array name="helloactivity_diabetes_type" translatable="false">
+        <item>@string/helloactivity_spinner_diabetes_type_1</item>
+        <item>@string/helloactivity_spinner_diabetes_type_2</item>
+        <item>@string/helloactivity_spinner_diabetes_gdm</item>
+        <item>@string/helloactivity_spinner_diabetes_lada</item>
+    </string-array>
+
+    <string name="helloactivity_spinner_preferred_glucose_unit">Preferred Glucose unit</string>
+    <string name="helloactivity_spinner_preferred_glucose_unit_1">mg/dL</string>
+    <string name="helloactivity_spinner_preferred_glucose_unit_2">mmol/L</string>
+
+    <string-array name="helloactivity_preferred_glucose_unit" translatable="false">
+        <item>@string/helloactivity_spinner_preferred_glucose_unit_1</item>
+        <item>@string/helloactivity_spinner_preferred_glucose_unit_2</item>
+    </string-array>
+
+    <string name="preferences_spinner_preferred_a1c_unit">Preferred HbA1c unit</string>
+    <string name="preferences_spinner_preferred_a1c_unit_1">percentage</string>
+    <string name="preferences_spinner_preferred_a1c_unit_2">mmol/mol</string>
+
+    <string-array name="preferences_preferred_a1c_unit" translatable="false">
+        <item>@string/preferences_spinner_preferred_a1c_unit_1</item>
+        <item>@string/preferences_spinner_preferred_a1c_unit_2</item>
+    </string-array>
+
+    <string name="preferences_spinner_preferred_weight_unit">Preferred Weight unit</string>
+    <string name="preferences_spinner_preferred_weight_unit_1">kilograms</string>
+    <string name="preferences_spinner_preferred_weight_unit_2">pounds</string>
+
+    <string-array name="preferences_preferred_weight_unit" translatable="false">
+        <item>@string/preferences_spinner_preferred_weight_unit_1</item>
+        <item>@string/preferences_spinner_preferred_weight_unit_2</item>
+    </string-array>
+
+    <string name="fragment_empty_text">No info available yet. \n Add your first reading here.</string>
+    <string name="dialog_add_title">Add Blood Glucose Level</string>
+    <string name="dialog_add_concentration">Concentration</string>
+    <string name="dialog_add_concentration_um" translatable="false">mg/dL</string>
+    <string name="dialog_add_date">Date</string>
+    <string name="dialog_add_time">Time</string>
+    <string name="dialog_add_measured">Measured</string>
+    <string name="dialog_add_type_1">Before breakfast</string>
+    <string name="dialog_add_type_2">After breakfast</string>
+    <string name="dialog_add_type_3">Before lunch</string>
+    <string name="dialog_add_type_4">After lunch</string>
+    <string name="dialog_add_type_5">Before dinner</string>
+    <string name="dialog_add_type_6">After dinner</string>
+    <string name="dialog_add_type_7">Snack</string>
+    <string name="dialog_add_type_8">Bedtime</string>
+    <string name="dialog_add_type_9">Night</string>
+    <string name="dialog_add_type_10">Fasting glucose</string>
+    <string name="dialog_add_type_11">Recheck</string>
+    <string name="dialog_add_type_12">Other</string>
+    <string-array name="dialog_add_measured_list" translatable="false">
+        <item>@string/dialog_add_type_1</item>
+        <item>@string/dialog_add_type_2</item>
+        <item>@string/dialog_add_type_3</item>
+        <item>@string/dialog_add_type_4</item>
+        <item>@string/dialog_add_type_5</item>
+        <item>@string/dialog_add_type_6</item>
+        <item>@string/dialog_add_type_7</item>
+        <item>@string/dialog_add_type_8</item>
+        <item>@string/dialog_add_type_9</item>
+        <item>@string/dialog_add_type_10</item>
+        <item>@string/dialog_add_type_11</item>
+        <item>@string/dialog_add_type_12</item>
+    </string-array>
+    <string name="dialog_add_cancel">CANCEL</string>
+    <string name="dialog_add_add">ADD</string>
+    <string name="dialog_error2">Please enter a valid value.</string>
+    <string name="dialog_error">Please fill all the fields.</string>
+    <string name="dialog_edit">Edit</string>
+    <string name="dialog_delete">Delete</string>
+
+    <string name="fragment_history_snackbar_text">1 reading deleted</string>
+    <string name="fragment_history_snackbar_action">UNDO</string>
+
+    <string name="fragment_overview_last_reading">Last check:</string>
+    <string name="fragment_overview_trend">Trend over past month:</string>
+    <string name="fragment_overview_trend_positive">in range and healthy</string>
+    <string name="fragment_overview_selector_month">Month</string>
+    <string name="fragment_overview_selector_day">Day</string>
+    <string name="fragment_overview_selector_week">Week</string>
+
+    <string-array name="fragment_overview_selector_range" translatable="false">
+        <item>@string/fragment_overview_selector_day</item>
+        <item>@string/fragment_overview_selector_week</item>
+        <item>@string/fragment_overview_selector_month</item>
+    </string-array>
+    <string-array name="fragment_overview_selector_metric" translatable="false">
+        <item>@string/fab_glucose</item>
+        <item>@string/fab_HB1AC</item>
+        <item>@string/fab_cholesterol</item>
+        <item>@string/fab_pressure</item>
+        <item>@string/fab_ketones</item>
+        <item>@string/fab_weight</item>
+    </string-array>
+    <string name="tip_example" translatable="false">Use less cheese in your recipes and meals. Fresh mozzarella packed in water and Swiss cheese are usually lower in sodium.</string>
+    <string name="preferences_about">About</string>
+    <string name="preferences_experimental_title" translatable="false">Here be dragons :/</string>
+    <string name="preferences_experimental">These features are experimental and may not fully work and are for early testing by users. Remember that you can shake your phone to send us feedback.</string>
+    <string name="preferences_version">Version</string>
+    <string name="preferences_coming_soon">Coming soon...</string>
+    <string name="preferences_terms">Terms of use</string>
+    <string name="glucose_reading_type">Type</string>
+    <string name="dialog_add_custom_type">Custom measurement category</string>
+
+    <string-array name="tips_all">
+        <item>Eat more fresh, unprocessed foods to help reduce carbohydrate and sugar intake.</item>
+        <item>Read the nutritional label on packaged foods and beverages to control sugar and carbohydrate intake.</item>
+        <item>When eating out, ask for fish or meat broiled with no extra butter or oil.</item>
+        <item>When eating out, ask if they have low sodium dishes.</item>
+        <item>When eating out, eat the same portion sizes you would at home and take the leftovers to go.</item>
+        <item>When eating out ask for low-calorie items, such as salad dressings, even if they\'re not on the menu.</item>
+        <item>When eating out ask for substitutions. Instead of French fries, request a double order of a vegetable like salad, green beans or broccoli.</item>
+        <item>When eating out, order foods that are not breaded or fried.</item>
+        <item>When eating out ask for sauces, gravy and salad dressings "on the side."</item>
+        <item>Sugar free doesn’t really mean sugar free. It means 0.5 grams (g) of sugar per serving, so be careful to not indulge in too many sugar free items.</item>
+        <item>Moving toward a healthy weight helps control blood sugars. Your doctor, a dietitian, and a fitness trainer can get you started on a plan that will work for you.</item>
+        <item>Checking your blood level and tracking it in an app like Glucosio twice a day will help you be aware of outcomes from food and lifestyle choices.</item>
+        <item>Get HbA1c blood tests to find out your average blood sugar for the past 2 to 3 months. Your doctor should tell you how frequently this test will be needed to be performed.</item>
+        <item>Tracking how many carbohydrates you consume can be just as important as checking blood levels since carbohydrates influence blood glucose levels. Talk to your doctor or a dietician about carbohydrate intake.</item>
+        <item>Controlling blood pressure, cholesterol, and triglyceride levels is important since diabetics are susceptible to heart disease.</item>
+        <item>There are several diet approaches you can take to eating healthier and helping improve your diabetes outcomes. Seek advice from a dietician on what will work best for you and your budget.</item>
+        <item>Working on getting regular exercise is especially important for those with diabetes and can help you maintain a healthy weight. Talk to your doctor about exercises that will be appropriate for you.</item>
+        <item>Being sleep-deprived can make you eat more especially things like junk food and as a result can negatively impact your health. Be sure to get a good night sleep and consult a sleep specialist if you are having difficulty.</item>
+        <item>Stress can have a negative impact on diabetes. Talk to your doctor or other health care professional about coping with stress.</item>
+        <item>Visiting your doctor once a year and having regular communication throughout the year is important for diabetics to prevent any sudden onset of associated health problems.</item>
+        <item>Take your medicine as prescribed by your doctor even small lapses in your medicine can impact your blood glucose level and cause other side effects. If having difficulty remembering ask your doctor about medication management and reminder options.</item>
+    </string-array>
+    <string-array name="tips_all_age_plus_40">
+        <item>Older diabetics may be at higher risk for health issues associated with diabetes. Talk to your doctor about how your age plays a role in your diabetes and what to watch for.</item>
+        <item>Limit the amount of salt you use to cook food and that you add to meals after it has been cooked.</item>
+    </string-array>
+    <string name="assistant">Assistant</string>.
+    <string name="assistant_action_update">UPDATE NOW</string>
+    <string name="assistant_action_ok">OK, GOT IT</string>
+    <string name="assistant_action_feedback">SEND FEEDBACK</string>
+    <string name="assistant_action_live_chat">LIVE CHAT</string>
+    <string name="assistant_action_reading">ADD READING</string>
+    <string name="assistant_action_try">TRY IT NOW</string>
+    <string name="assistant_weight_title">Update your weight</string>
+    <string name="assistant_weight_desc">Make sure to update your weight so Glucosio has the most accurate information.</string>
+    <string name="assistant_research_title">Update your research opt-in</string>
+    <string name="assistant_research_desc">You can always opt-in or opt-out of diabetes research sharing, but remember all data shared is entirely anonymous. We only share demographics and glucose level trends.</string>
+    <string name="assistant_categories_title">Create categories</string>
+    <string name="assistant_categories_desc">Glucosio comes with default categories for glucose input but you can create custom categories in settings to match your unique needs.</string>
+    <string name="assistant_check_title">Check here often</string>
+    <string name="assistant_check_desc">Glucosio assistant provides regular tips and will keep improving, so always check here for useful actions you can take to improve your Glucosio experience and for other useful tips.</string>
+    <string name="assistant_feedback_title">Submit feedback</string>
+    <string name="assistant_feedback_desc">If you find any technical issues or have feedback about Glucosio we encourage you to submit it in the settings menu in order to help us improve Glucosio.</string>
+    <string name="assistant_reading_title">Add a reading</string>
+    <string name="assistant_reading_desc">Be sure to regularly add your glucose readings so we can help you track your glucose levels over time.</string>
+    <string name="assistant_export_title">Export your data</string>
+    <string name="assistant_export_desc">Share your data with your doctor or backup your data to Google Drive using the export feature.</string>
+    <string name="assistant_calculator_a1c_title">Calculate HbA1c</string>
+    <string name="assistant_calculator_a1c_desc">Glucosio\'s built–in HbA1c calculator is now available to use in the navigation drawer. Enter your average blood glucose and save the calculated HbA1c value instantly.</string>
+
+    <string-array name="assistant_titles" translatable="false">
+        <item>@string/assistant_calculator_a1c_title</item>
+        <item>@string/assistant_feedback_title</item>
+        <item>@string/assistant_reading_title</item>
+        <item>@string/assistant_export_title</item>
+    </string-array>
+    <string-array name="assistant_descriptions" translatable="false">
+        <item>@string/assistant_calculator_a1c_desc</item>
+        <item>@string/assistant_feedback_desc</item>
+        <item>@string/assistant_reading_desc</item>
+        <item>@string/assistant_export_desc</item>
+    </string-array>
+
+    <string-array name="assistant_actions" translatable="false">
+        <item>@string/assistant_action_try</item>
+        <item>@string/assistant_action_feedback</item>
+        <item>@string/assistant_action_reading</item>
+        <item>@string/dialog_export_button</item>
+    </string-array>
+
+    <string name="helloactivity_spinner_preferred_range">Preferred range</string>
+    <string name="helloactivity_spinner_preferred_range_1" translatable="false">ADA</string>
+    <string name="helloactivity_spinner_preferred_range_2" translatable="false">AACE</string>
+    <string name="helloactivity_spinner_preferred_range_3" translatable="false">UK NICE</string>
+    <string name="helloactivity_spinner_preferred_range_4">Custom range</string>
+    <string name="helloactivity_preferred_range_min">Min value</string>
+    <string name="helloactivity_preferred_range_max">Max value</string>
+    <string name="helloactivity_language">Language</string>
+
+    <string-array name="helloactivity_preferred_range" translatable="false">
+        <item>@string/helloactivity_spinner_preferred_range_1</item>
+        <item>@string/helloactivity_spinner_preferred_range_2</item>
+        <item>@string/helloactivity_spinner_preferred_range_3</item>
+        <item>@string/helloactivity_spinner_preferred_range_4</item>
+    </string-array>
+    <string name="menu_support_error1">There isn\'t an email app installed. Please send a mail to hello@glucosio.org</string>
+    <string-array name="menu_support_options" translatable="false">
+        <item>@string/menu_support_email</item>
+        <item>@string/menu_support_forum</item>
+    </string-array>
+
+    <string-array name="menu_backup_options" translatable="false">
+        <item>@string/menu_backup_backup</item>
+        <item>@string/menu_backup_csv</item>
+    </string-array>
+
+    <string name="invitation_title">Invite other people</string>
+    <string name="invitation_message">Try Glucosio, an open source app for diabetes management and research.</string>
+    <string name="invitation_cta">Try Glucosio</string>
+
+    <string name="title_activity_backup_drive">Google Drive Backup</string>
+    <string name="activity_main_dialog_backup_export_title">Backup &amp; Export</string>
+    <string name="preferences_privacy">Privacy</string>
+    <string name="preferences_backup_google_drive">Google Drive</string>
+    <string name="preferences_about_glucosio">About Glucosio</string>
+    <string name="preferences_rate">Rate Glucosio</string>
+    <string name="preferences_licences_open">Open source licenses</string>
+    <string name="preferences_contributors">Contributors</string>
+    <string name="preferences_freestyle_libre">Enable FreeStyle Libre® support</string>
+    <string name="preferences_freestyle_libre_experimental">EXPERIMENTAL: Enable FreeStyle Libre® support</string>
+    <string name="preferences_font_dyslexia_experimental">EXPERIMENTAL: Increase readability for users with dyslexia</string>
+    <string name="preferences_font_dyslexia">Increase readability for users with dyslexia</string>
+    <string name="about_donate">Donate to Glucosio</string>
+    <string name="reading_ok">OK</string>
+    <string name="reading_hypo">Hypoglycemia</string>
+    <string name="reading_low">Low</string>
+    <string name="reading_high">High</string>
+    <string name="reading_hyper">Hyperglycemia</string>
+
+
+    <!-- Future Strings Baked In Early For l10n -->
+    <!-- Exercise Types -->
+
+    <string name="dialog_add_exercisetype_1">Leisurely walking</string>
+    <string name="dialog_add_exercisetype_2">Walking fast</string>
+    <string name="dialog_add_exercisetype_3">Jogging</string>
+    <string name="dialog_add_exercisetype_4">Running</string>
+    <string name="dialog_add_exercisetype_5">Swimming</string>
+    <string name="dialog_add_exercisetype_6">Dancing</string>
+    <string name="dialog_add_exercisetype_7">Roller skating</string>
+    <string name="dialog_add_exercisetype_8">Bicycling</string>
+    <string name="dialog_add_exercisetype_9">Golf</string>
+    <string name="dialog_add_exercisetype_10">Softball</string>
+    <string name="dialog_add_exercisetype_11">Badminton</string>
+    <string name="dialog_add_exercisetype_12">Football</string>
+    <string name="dialog_add_exercisetype_13">Basketball</string>
+    <string name="dialog_add_exercisetype_14">Volleyball</string>
+    <string name="dialog_add_exercisetype_15">Cricket</string>
+    <string name="dialog_add_exercisetype_16">Frisbee</string>
+    <string name="dialog_add_exercisetype_17">Skiing</string>
+    <string name="dialog_add_exercisetype_18">Boxing</string>
+    <string name="dialog_add_exercisetype_19">Tennis</string>
+    <string name="dialog_add_exercisetype_20">Table tennis</string>
+    <string name="dialog_add_exercisetype_21">Martial arts</string>
+    <string name="dialog_add_exercisetype_22">Rock-climbing</string>
+    <string name="dialog_add_exercisetype_23">Wrestling</string>
+    <string name="dialog_add_exercisetype_24">Hiking</string>
+    <string name="dialog_add_exercisetype_25">Yard work</string>
+
+    <!-- Food Entry Labels -->
+
+    <string name="dialog_addfood_carbs">Carbs:</string>
+    <string name="dialog_addfood_protein">Protein:</string>
+    <string name="dialog_addfood_sugars">Sugars:</string>
+    <string name="dialog_addfood_fat">Fat:</string>
+
+
+    <!-- About Glucosio Strings -->
+
+    <string name="about_credits">Credits</string>
+    <string name="about_contribute">Contribute</string>
+    <string name="about_contributel10n">Contribute to Translation</string>
+    <string name="about_contributedev">Contribute to Development</string>
+    <string name="about_discussion">Join our discussion community</string>
+    <string name="about_maillist">Subscribe to our mailing list</string>
+    <string name="assistant_archived">ARCHIVED TIPS</string>
+    <string name="dialog_export_title">Export data</string>
+    <string name="activity_export_date_from">From:</string>
+    <string name="dialog_export_date_to">To:</string>
+    <string name="dialog_export_today">Pick today</string>
+    <string name="dialog_export_button">EXPORT</string>
+    <string name="title_activity_export">Export Data</string>
+    <string name="dialog_export_all">Export everything</string>
+    <string name="share_using">Share using</string>
+    <string name="share_subject">Glucosio data</string>
+    <string name="activity_export_snackbar_1">"Exporting"</string>
+    <string name="activity_export_snackbar_2">readings</string>
+    <string name="fragment_overview_permission_storage">Glucosio needs storage permission to save a screenshot</string>
+    <string name="fragment_overview_graph_export_true">Screenshot saved to gallery</string>
+    <string name="fragment_overview_graph_export_false">Error saving screenshot to gallery</string>
+    <string name="dialog_export_range">Export range</string>
+    <string name="activity_export_issue_generic">There was a problem exporting the readings. Please try again.</string>
+    <string name="activity_export_no_readings_snackbar">No readings to export.</string>
+    <string name="wear_new_reading">New reading added</string>
+    <string name="dialog_add_weight">Weight</string>
+    <string name="dialog_add_ketones">Ketones</string>
+    <string name="dialog_add_pressure_min">Min Pressure</string>
+    <string name="dialog_add_pressure_max">Max Pressure</string>
+    <string name="dialog_add_cholesterol_total">Total Cholesterol</string>
+    <string name="dialog_add_cholesterol_ldl">LDL Cholesterol</string>
+    <string name="dialog_add_cholesterol_hdl">HDL Cholesterol</string>
+    <string name="dialog_add_hb1ac">HbA1c</string>
+    <string name="title_activity_add_glucose">Add Glucose reading</string>
+    <string name="title_activity_add_glucose_edit">Edit Glucose reading</string>
+    <string name="title_activity_add_weight">Add Body Weight</string>
+    <string name="title_activity_add_weight_edit">Edit Body Weight</string>
+    <string name="title_activity_add_cholesterol">Add Cholesterol Level</string>
+    <string name="title_activity_add_cholesterol_edit">Edit Cholesterol Level</string>
+    <string name="title_activity_add_hb1ac">Add HbA1c</string>
+    <string name="title_activity_add_hb1ac_edit">Edit HbA1c</string>
+    <string name="title_activity_add_ketone">Add Ketones</string>
+    <string name="title_activity_add_ketone_edit">Edit Ketones</string>
+    <string name="title_activity_add_pressure">Add Blood Pressure</string>
+    <string name="title_activity_add_pressure_edit">Edit Blood Pressure</string>
+
+    <string name="fab_weight">Body Weight</string>
+    <string name="fab_ketones">Ketones</string>
+    <string name="fab_pressure">Blood Pressure</string>
+    <string name="fab_cholesterol">Cholesterol Level</string>
+    <string name="fab_HB1AC">HbA1c Reading</string>
+    <string name="fab_glucose">Blood Glucose Level</string>
+    <string name="dialog_error_duplicate">You already have an entry for this time. Please remove it before adding a correction.</string>
+    <string name="freestylelibre_nfc_ready">Please, put your phone on the sensor and do not move until it vibrates.</string>
+    <string name="freestylelibre_nfc_not_supported">This device doesn\'t support NFC.</string>
+    <string name="freestylelibre_nfc_not_enabled">NFC is disabled.</string>
+    <string name="dialog_add_glucose_freestylelibre">Add from FreeStyle Libre®</string>
+    <string name="freestylelibre_nfc_error">Error opening NFC connection!</string>
+    <string name="dialog_add_glucose_freestylelibre_success">Successfully added reading from FreeStyle Libre®</string>
+    <string name="overview_hb1ac_error_no_data">Not enough data to calculate HbA1c</string>
+    <string name="overview_hb1ac">HbA1c:</string>
+    <string name="dialog_add_glucose_freestylelibre_added">Added from your FreeStyle Libre®</string>
+    <string name="activity_converter_a1c_glucose">AVERAGE BLOOD GLUCOSE LEVEL</string>
+    <string name="activity_converter_a1c">HbA1c</string>
+    <string name="activity_converter_title">HbA1c Calculator</string>
+    <string name="activity_converter_save">SAVE</string>
+    <string name="menu_support">Support</string>
+    <string name="menu_support_title">How can we help you?</string>
+    <string name="menu_support_email">Email</string>
+    <string name="menu_support_live">Live Chat</string>
+    <string name="menu_support_forum">Support Forum</string>
+    <string name="notification_reminder_glucose">It is time to log your blood glucose level!</string>
+    <string name="notification_reminder_medication">It is time to take your medication!</string>
+    <string name="overview_hb1ac_info">This is just an estimate and is calculated using the averages of the last month of readings. While this estimate uses a widely accepted formula for HbA1c estimation we encourage users to only use this as an estimate.</string>
+    <string name="dialog_add_notes">Notes</string>
+    <string name="sidebar_backup_export">Backup &amp; Export</string>
+    <string name="menu_backup_backup">Backup on Google Drive</string>
+    <string name="menu_backup_restore">Restore</string>
+    <string name="menu_backup_csv">CSV export</string>
+    <string name="activity_backup_drive_automatic">Automatic backup</string>
+    <string name="activity_backup_drive_desc">Backing up your data to Google Drive allows you to restore all your readings in case you lose or change devices.</string>
+    <string name="activity_backup_drive_message_restart">Restarting to apply changes...</string>
+    <string name="activity_backup_drive_desc_1">Sync Glucosio\'s database in the cloud with Google Drive.</string>
+    <string name="activity_backup_drive_desc_2">You\'ll be able to restore all your readings if you lost or change phone or sync Glucosio\'s data between your devices.</string>
+    <string name="activity_backup_drive_success">Database successfully backed up to Drive</string>
+    <string name="activity_backup_drive_restore_success">Successfully restored database from Drive</string>
+    <string name="activity_backup_drive_failed">Something went wrong. Please try again :/</string>
+    <string name="activity_backup_drive_last">Last backup:</string>
+    <string name="activity_backup_drive_folder">Backup folder</string>
+    <string name="activity_backup_drive_folder_not_set">Not set</string>
+    <string name="activity_backup_drive_button_backup">Backup now</string>
+    <string name="activity_backup_drive_recent">Recent backups</string>
+    <string name="activity_backup_drive_more">See more Backups</string>
+    <string name="activity_backup_drive_dialog_restore_title">Revert to previous version</string>
+    <string name="activity_backup_drive_dialog_restore_desc">Restoring the backup will overwrite all the existing data with the backup.</string>
+    <string name="activity_backup_drive_dialog_restore_details">Backup details</string>
+    <string name="activity_backup_drive_dialog_restore_button_cancel">Cancel</string>
+    <string name="activity_backup_drive_dialog_restore_button_restore">Restore backup</string>
+    <string name="activity_backup_drive_button_restore">Restore from Drive</string>
+    <string name="activity_backup_drive_error_restore">Unable to find a valid backup to restore from Drive</string>
+    <string name="activity_main_error_play_services">Glucosio needs Play Services to enable Google Drive backup.</string>
+    <string name="activity_main_dialog_csv_title">Export to CSV file</string>
+
+    <string-array name="fragment_history_selector" translatable="false">
+        <item>@string/fab_glucose</item>
+        <item>@string/fab_HB1AC</item>
+        <item>@string/fab_cholesterol</item>
+        <item>@string/fab_pressure</item>
+        <item>@string/fab_ketones</item>
+        <item>@string/fab_weight</item>
+    </string-array>
+    <string name="title_activity_splash" translatable="false">SplashActivity</string>
+    <string name="activity_backup_drive_button_open_drive">Manage on Drive</string>
+    <string name="mmol_mol">mmol/mol</string>
+    <string name="mmol_L">mmol/L</string>
+    <string name="mmol_mol_value">%1$s mmol/mol</string>
+    <string name="mmol_L_value">%1$s mmol/L</string>
+    <string name="mg_dL">mg/dL</string>
+    <string name="mg_dL_value">%1$s mg/dL</string>
+    <string name="preferences_graph_old">Revert to old graph</string>
+    <string name="history">history</string>
+    <string name="save">save</string>
+    <string name="activity_reminders_title">Reminders</string>
+    <string name="reminders_notification_action">Add reading</string>
+    <string name="glucosio_activity_reminders_empty">No reminders set. Add a new reminder here.</string>
+    <string name="activitiy_reminders_error_duplicate">This reminder already exists.</string>
+    <string name="activity_reminder_error_empty">Please enter a valid label.</string>
+    <string name="activity_reminder_add_label">Set reminder Label</string>
+    <string name="reminder_item_title_morning">Good Morning, It is time to do an entry in Glucosio!</string>
+    <string name="reminder_item_title_afternoon">Good Afternoon, It is time to do an entry in Glucosio!</string>
+    <string name="reminder_item_title_evening">Good Evening, It is time to do an entry in Glucosio!</string>
+    <string name="reminder_item_title_generic">It is time to do an entry in Glucosio!</string>
+    <string name="reminder_item_title_generic2">Time to log your glucose level!</string>
+    <string name="warning_internet_connection_required">Sorry but you need internet for this feature</string>
+
+    <string-array name="reminder_title_array" translatable="false">
+        <item>@string/reminder_item_title_generic</item>
+        <item>@string/reminder_item_title_generic2</item>
+    </string-array>
+</resources>

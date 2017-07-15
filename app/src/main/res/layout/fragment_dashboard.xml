@@ -1,0 +1,479 @@
+<!--
+  ~ SOS
+  ~ Copyright (C) 2016  zDuo (Adithya J, Vazbloke)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/header_dashboard"
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:background="@android:color/transparent"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:text="Dashboard"
+            android:textColor="@color/textGreyHeader"
+            android:textSize="14sp" />
+
+        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/feeling_today"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:clipChildren="false"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:transitionName="cardTransition"
+            card_view:cardCornerRadius="3dp"
+            card_view:cardUseCompatPadding="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="11dp">
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/feeling_today_circle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/circle" />
+
+                    <ImageView
+                        android:id="@+id/feeling_today_icon"
+                        android:layout_width="18dp"
+                        android:layout_height="18dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_wb_sunny_white_24dp" />
+                </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingLeft="12dp"
+                    android:paddingStart="12dp">
+
+                    <TextView
+                        android:id="@+id/feeling_today_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:paddingEnd="3dp"
+                        android:paddingRight="3dp"
+                        android:singleLine="true"
+                        android:textColor="@android:color/black"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/feeling_today_content"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingEnd="3dp"
+                        android:paddingRight="3dp"
+                        android:text="How are you feeling today?"
+                        android:textColor="@color/notificationContentText"
+                        android:textSize="14sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/great_thanks"
+                            style="?buttonBarButtonStyle"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="GREAT, THANKS" />
+
+                        <com.mikepenz.iconics.view.IconicsButton
+                            style="?buttonBarButtonStyle"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical|center_horizontal"
+                            android:text="{gmd_sentiment_dissatisfied}"
+                            android:textAppearance="?android:textAppearanceLarge"
+                            android:textColor="@color/accent" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <TextView
+            android:id="@+id/header_separator"
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:background="@android:color/transparent"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:text="Medications Today"
+            android:textColor="@color/textGreyHeader"
+            android:textSize="14sp" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:animationCache="false"
+            android:clipToPadding="false"
+            android:divider="@android:color/transparent"
+            android:drawSelectorOnTop="true"
+            android:paddingLeft="@dimen/list_padding"
+            android:paddingRight="@dimen/list_padding"
+            android:paddingTop="4dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:scrollingCache="false" />
+
+        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/empty_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:clipChildren="false"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:transitionName="cardTransition"
+            android:visibility="gone"
+            card_view:cardCornerRadius="3dp"
+            card_view:cardUseCompatPadding="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="11dp">
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/notification_circle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/circle" />
+
+                    <ImageView
+                        android:id="@+id/notification_icon"
+                        android:layout_width="18dp"
+                        android:layout_height="18dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_insert_emoticon_white_24dp" />
+                </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingLeft="12dp"
+                    android:paddingStart="12dp">
+
+                    <TextView
+                        android:id="@+id/notification_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:paddingEnd="3dp"
+                        android:paddingRight="3dp"
+                        android:singleLine="true"
+                        android:text="Yay!"
+                        android:textColor="@android:color/black"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/buy_more_notification_content"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingEnd="3dp"
+                        android:paddingRight="3dp"
+                        android:text="You're done for the day."
+                        android:textColor="@color/notificationContentText"
+                        android:textSize="14sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <TextView
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:background="@android:color/transparent"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:text="Pro Tip"
+            android:textColor="@color/textGreyHeader"
+            android:textSize="14sp" />
+
+        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:clipChildren="false"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:transitionName="cardTransition"
+            card_view:cardCornerRadius="3dp"
+            card_view:cardUseCompatPadding="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="11dp">
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/pro_circle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/circle" />
+
+                    <ImageView
+                        android:layout_width="18dp"
+                        android:layout_height="18dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_format_quote_white_24dp" />
+                </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingLeft="12dp"
+                    android:paddingStart="12dp">
+
+                    <TextView
+                        android:id="@+id/pro_tip_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:paddingEnd="3dp"
+                        android:paddingRight="3dp"
+                        android:singleLine="true"
+                        android:text="Pssst"
+                        android:textColor="@android:color/black"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/pro_tip_content"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingEnd="3dp"
+                        android:paddingRight="3dp"
+                        android:text="pro_tip_title"
+                        android:textColor="@color/notificationContentText"
+                        android:textSize="14sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <TextView
+            android:id="@+id/header_vitals"
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:background="@android:color/transparent"
+            android:clickable="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:text="Your Vitals"
+            android:textColor="@color/textGreyHeader"
+            android:textSize="14sp" />
+
+        <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/vitals"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="44dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:clipChildren="false"
+            android:foreground="?android:attr/selectableItemBackground"
+            card_view:cardCornerRadius="3dp"
+            card_view:cardUseCompatPadding="true">
+
+            <LinearLayout
+                android:id="@+id/activity_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackground"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side"
+                    android:paddingTop="@dimen/table_row_default_horizontal_padding"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:src="@drawable/ic_directions_run_white_24dp"
+                        android:tint="@color/default_colour_grey" />
+
+                    <Spinner
+                        android:id="@+id/activity_factor"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackground"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:layout_weight="1"
+                        android:text="Body Mass Index"
+                        android:tint="@color/default_colour_grey" />
+
+                    <TextView
+                        android:id="@+id/bmi"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginEnd="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side"
+                        android:layout_weight="1"
+                        android:background="@android:color/transparent"
+                        android:gravity="end"
+                        android:text="20"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackground"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:text="Basal Metabolic Rate"
+                        android:tint="@color/default_colour_grey" />
+
+                    <TextView
+                        android:id="@+id/bmr"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginEnd="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side"
+                        android:background="@android:color/transparent"
+                        android:gravity="end"
+                        android:text="20"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/selectableItemBackground"
+                    android:paddingBottom="@dimen/table_row_default_horizontal_padding"
+                    android:paddingEnd="@dimen/table_row_default_padding_side"
+                    android:paddingRight="@dimen/table_row_default_padding_side">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/image_margin_side"
+                        android:layout_marginStart="@dimen/image_margin_side"
+                        android:layout_weight="8"
+                        android:text="Calories needed to maintain weight"
+                        android:tint="@color/default_colour_grey" />
+
+                    <TextView
+                        android:id="@+id/cal"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginEnd="@dimen/text_margin_side"
+                        android:layout_marginStart="@dimen/text_margin_side"
+                        android:layout_weight="2"
+                        android:background="@android:color/transparent"
+                        android:gravity="end"
+                        android:text="20"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/table_row_default_padding_side"
+                    android:layout_marginRight="@dimen/table_row_default_padding_side"
+                    android:text="@string/gain_weight" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="32dp" />
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</ScrollView>

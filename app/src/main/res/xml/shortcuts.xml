@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ SOS
+  ~ Copyright (C) 2016  zDuo (Adithya J, Vazbloke)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/shortcut_ambulance"
+        android:shortcutDisabledMessage="@string/fab_ambulance"
+        android:shortcutId="ambulance"
+        android:shortcutLongLabel="@string/fab_ambulance"
+        android:shortcutShortLabel="@string/fab_ambulance">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.zduo.sos.activities.AmbulanceDetailActivity"
+            android:targetPackage="com.zduo.sos" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/shortcut_police"
+        android:shortcutDisabledMessage="@string/fab_police"
+        android:shortcutId="police"
+        android:shortcutLongLabel="@string/fab_police"
+        android:shortcutShortLabel="@string/fab_police">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.zduo.sos.activities.PoliceDetailActivity"
+            android:targetPackage="com.zduo.sos" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/shortcut_fire"
+        android:shortcutDisabledMessage="@string/fab_fire"
+        android:shortcutId="fire"
+        android:shortcutLongLabel="@string/fab_fire"
+        android:shortcutShortLabel="@string/fab_fire">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.zduo.sos.activities.FireDetailActivity"
+            android:targetPackage="com.zduo.sos" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/shortcut_blood"
+        android:shortcutDisabledMessage="@string/fab_blood"
+        android:shortcutId="blood"
+        android:shortcutLongLabel="@string/fab_blood"
+        android:shortcutShortLabel="@string/fab_blood">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.zduo.sos.activities.BloodDetailActivity"
+            android:targetPackage="com.zduo.sos" />
+    </shortcut>
+</shortcuts>

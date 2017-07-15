@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ SOS
+  ~ Copyright (C) 2016  zDuo (Adithya J, Vazbloke)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/preference_emergency_category">
+        <CheckBoxPreference
+            android:key="checkBoxSOS"
+            android:summary="@string/sos_detail"
+            android:title="@string/checkbox_SOS" />
+
+        <CheckBoxPreference
+            android:key="checkBoxSMS"
+            android:summary="@string/sms_detail"
+            android:title="@string/checkbox_SMS" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="checkBoxBlood"
+            android:summary="@string/blood_details"
+            android:title="@string/checkbox_Blood" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/preference_notification_category">
+
+        <RingtonePreference
+            android:defaultValue="content://settings/system/notification_sound"
+            android:key="NotificationSound"
+            android:ringtoneType="notification"
+            android:showDefault="true"
+            android:title="@string/checkbox_sound" />
+
+        <CheckBoxPreference
+            android:key="checkBoxNagging"
+            android:summary="@string/nagging_detail"
+            android:title="@string/nagging_reminder" />
+
+        <com.zduo.sos.dialogs.PreferenceNagTimePicker
+            android:key="nagInterval"
+            android:title="@string/nagging_interval" />
+    </PreferenceCategory>
+</PreferenceScreen>

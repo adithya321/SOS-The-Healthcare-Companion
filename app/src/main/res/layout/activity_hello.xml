@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ SOS
+  ~ Copyright (C) 2016  zDuo (Adithya J, Vazbloke)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/helloactivity_mainframe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    tools:context="com.zduo.sos.activities.HelloActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="32dp"
+        android:paddingLeft="32dp"
+        android:paddingRight="32dp"
+        android:paddingTop="32dp">
+
+        <TextView
+            android:id="@+id/activity_hello_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="32dp"
+            android:text="@string/helloactivity_headline"
+            android:textColor="@color/glucosio_text_dark"
+            android:textSize="@dimen/abc_text_size_display_1_material" />
+
+        <TextView
+            android:id="@+id/activity_hello_subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="16dp"
+            android:text="@string/helloactivity_subhead"
+            android:textColor="@color/glucosio_text"
+            android:textSize="@dimen/abc_text_size_subhead_material" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp">
+
+            <EditText
+                android:id="@+id/activity_hello_name"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="@string/helloactivity_name"
+                android:inputType="textPersonName"
+                android:tag="@string/your_name"
+                android:textSize="@dimen/abc_text_size_body_2_material" />
+        </android.support.design.widget.TextInputLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <EditText
+                    android:id="@+id/activity_hello_age"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:digits="0123456789"
+                    android:hint="@string/age"
+                    android:inputType="number"
+                    android:maxLines="1"
+                    android:tag="@string/age"
+                    android:textSize="@dimen/abc_text_size_body_2_material" />
+            </android.support.design.widget.TextInputLayout>
+
+            <com.zduo.sos.tools.LabelledSpinner
+                android:id="@+id/activity_hello_spinner_gender"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-17dp"
+                android:layout_weight="1"
+                android:textSize="@dimen/abc_text_size_body_2_material"
+                custom:labelText="@string/helloactivity_gender"
+                custom:widgetColor="@color/primary" />
+        </LinearLayout>
+
+        <com.zduo.sos.tools.LabelledSpinner
+            android:id="@+id/activity_hello_spinner_blood_group"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_weight="1"
+            android:textSize="@dimen/abc_text_size_body_2_material"
+            custom:labelText="@string/helloactivity_spinner_blood_group"
+            custom:widgetColor="@color/primary" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <EditText
+                    android:id="@+id/activity_hello_height"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="@string/height"
+                    android:inputType="numberDecimal"
+                    android:maxLines="1"
+                    android:tag="@string/height"
+                    android:textSize="@dimen/abc_text_size_body_2_material" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <EditText
+                    android:id="@+id/activity_hello_weight"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:hint="@string/weight"
+                    android:inputType="numberDecimal"
+                    android:maxLines="1"
+                    android:tag="@string/weight"
+                    android:textSize="@dimen/abc_text_size_body_2_material" />
+            </android.support.design.widget.TextInputLayout>
+        </LinearLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp">
+
+            <EditText
+                android:id="@+id/activity_hello_contact_no"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="@string/contact_no"
+                android:inputType="numberDecimal"
+                android:maxLines="1"
+                android:tag="@string/contact_no"
+                android:textSize="@dimen/abc_text_size_body_2_material" />
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:id="@+id/pick_contact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/pick_contact"
+            android:textColor="@color/primary" />
+
+        <CheckBox
+            android:id="@+id/activity_hello_check_sos_notification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/sos_detail" />
+
+        <Button
+            android:id="@+id/activity_hello_button_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="24dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:drawableEnd="@drawable/ic_navigate_next_accent"
+            android:drawableRight="@drawable/ic_navigate_next_accent"
+            android:padding="8dp"
+            android:text="@string/helloactivity_button_start"
+            android:textColor="@color/primary"
+            android:textStyle="bold" />
+    </LinearLayout>
+</ScrollView>

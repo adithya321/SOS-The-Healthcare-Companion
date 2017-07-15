@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ SOS
+  ~ Copyright (C) 2016  zDuo (Adithya J, Vazbloke)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<resources>
+    <string name="cp_contact_tab_title">Contacts</string>
+    <string name="cp_group_tab_title">Groups</string>
+
+    <string name="cp_no_contacts">No Contacts</string>
+    <string name="cp_no_groups">No Groups</string>
+
+    <plurals name="cp_group_description">
+        <item quantity="one">(%1$d contact)</item>
+        <item quantity="other">(%1$d contacts)</item>
+    </plurals>
+
+    <string name="cp_actionmode_selected">%d selected</string>
+
+    <string name="cp_limit_reached">You can\'t pick more than %d contacts!</string>
+</resources>

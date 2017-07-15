@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ SOS
+  ~ Copyright (C) 2016  zDuo (Adithya J, Vazbloke)
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>
+  -->
+
+<resources>
+    <string-array name="nutrition_high_blood_pressure">
+        <item>Eating foods rich in potassium will help protect some people from developing high blood pressure. Many fruits, vegetables, dairy foods, and fish are good sources of potassium.</item>
+        <item>Garlic. There has been some evidence to suggest garlic’s effect in lowering blood pressure, in addition to improving cholesterol and reducing some cancers.</item>
+        <item>Eat fewer processed foods. Potato chips, frozen dinners, bacon and processed lunch meats are high in sodium.Avoid such foods.</item>
+        <item>"Don't add salt. Just 1 level teaspoon of salt has 2,300 mg of sodium. Use herbs or spices, rather than salt, to add more flavor to your foods."</item>
+        <item>Blueberries, as well as raspberries and strawberries, contain natural compounds called anthocyanins that protect against high blood pressure</item>
+        <item>Having a bowl of breakfast cereal, especially whole-grain, high-fiber cereals like oatmeal, oat squares, bran flakes or shredded wheat, can reduce your chance of developing high blood pressure</item>
+        <item>Drinking a glass of beet juice can lower blood pressure within just a few hours.Same with other nitrate-rich foods like spinach, lettuce, cabbage, carrots and, of course, whole beets</item>
+        <item>The women who ate the most low-fat dairy products — yogurt, low-fat cottage cheese, frozen yogurt, skim or low-fat milk — were 11 percent less likely to develop high blood pressure.</item>
+        <item>Eating a one-ounce square of dark chocolate daily can help lower blood pressure, especially in people who already have hypertension</item>
+        <item>wapping some of your daily calories with one 6-ounce cup of low-fat yogurt, without increasing the number of calories you eat in a day, can lead to a lower risk of high blood pressure</item>
+        <item>Toast the day with a glass of non-alcoholic red wine and cut about 6 points off your systolic and 2 points from your diastolic blood pressure</item>
+        <item>Packed with vitamin C and antioxidants, pomegranates are good at helping you maintain a healthy blood pressure during exercise</item>
+        <item>Eat a handful of dried apricots every afternoon. Like bananas, apricots are a particularly good source of potassium. Plus they have lots of fibre, iron and beta carotene. The drying process actually increases the concentration of these nutrients</item>
+        <item>Sprinkle 2 tablespoons of flaxseeds on your yogurt in the morning and mix 2 tablespoons into your ice cream, soup, spaghetti sauce or other food later in the day</item>
+        <item>sesame and rice bran blend does wonders for your blood pressure. People who used about 2 Tbsp of a blend of sesame and rice bran oil a day (to cook with, in salad dressings, etc.) saw systolic blood pressure drop an average 16 points, their diastolic drop an average 12 points</item>
+    </string-array>
+    <string-array name="sore_throat">
+        <item>Try hot lemonade with honey. Mix the juice from half a lemon and one teaspoon of honey in one cup of warm water. Sip it slowly</item>
+        <item>Heat water until it’s warm, but not hot. Thoroughly mix in salt. Gargle. Repeat 3 throughout the day as needed.</item>
+        <item>Add one teaspoon each of cinnamon powder and black pepper powder to a glass of warm water. You may also add cardamom. Strain the solution and gargle with it. Do this once daily for a week to get complete relief.</item>
+        <item>Mix one-quarter teaspoon of turmeric powder into a glass of warm water. Drink it slowly in the morning on an empty stomach. Do this once daily for three or four days.</item>
+        <item>Alternatively, you can add one teaspoon of turmeric powder and one teaspoon of ground black pepper to a glass of warm milk and drink it before going to bed.</item>
+        <item>Mix 1 tsp black pepper powder and 1 tsp dry ginger powder in 1 tablespoon honey. This has to be had twice a day.</item>
+        <item>Place 1 piece of garlic in each cheek, and suck on it like a cough drop. Occasionally crush your teeth against it to release the allicin- there’s no need to actually bite it. Try this once daily.</item>
+        <item>Boil tulsi / basil leaves in water and drink that water. Alternatively, gargle with that water while it’s warm</item>
+        <item>Add one tablespoon of dried marshmallow root to one cup of boiling water and steep it for about half an hour.Strain the solution, add some honey and drink it.</item>
+        <item>Add one to two tablespoons of honey to one cup of hot water and drink it several times a day. You can also add honey to your favorite cup of herbal tea.</item>
+        <item>Add one teaspoon of the inner bark of slippery elm to two cups of boiling water. Let it steep for a few minutes, and then strain the solution. Drink it slowly while it is still warm</item>
+        <item>Add one tablespoon of apple cider vinegar and one teaspoon each of lemon juice and honey to a cup of warm water and drink it slowly. Do this two or three times a day. Soon you will get relief from the pain and inflammation</item>
+        <item>Add two tablespoons of fenugreek seeds to six cups of water. Boil it for about half an hour. Allow it to come to room temperature and then strain it. Gargle with this solution three or four times a day.</item>
+    </string-array>
+    <string-array name="asthma">
+        <item>Boil 10 to 15 cloves of garlic in one-half cup of milk. Drink this once a day.You can also make garlic tea by adding three to four cloves of garlic to a pot of hot water and letting it steep for five minutes. Allow it to cool to room temperature and then drink it.</item>
+        <item>Wash three dried figs and soak them in a cup of water overnight.In the morning, eat the soaked figs and drink the fig water on an empty stomach.</item>
+        <item>Heat some mustard oil with a little camphor and gently massage it into the chest and upper back.Do this several times a day until the symptoms subside.</item>
+        <item>Mix equal quantities of ginger juice, pomegranate juice and honey. Consume one tablespoon of this mixture two or three times a day</item>
+        <item>Just put a few drops of eucalyptus oil on a paper towel and keep it by your head when sleeping so that you breathe in the aroma.You can also put two to three drops of eucalyptus oil in a pot of boiling water and breathe in the steam. Try to take deep breaths for faster results</item>
+        <item>Simply eat raw onions to clear your air passage ways for better breathing. If you cannot bear the taste of raw onions, try eating cooked onions.</item>
+        <item>Squeeze the juice of half a lemon in a glass of water and add some sugar according to your taste. Drink this regularly to reduce asthma attacks.</item>
+        <item>In a pinch, have a strong cup of coffee or two 355-mL cans of caffeinated cola. Caffeine is chemically related to theophylline, a standard medication for asthma. It helps open airways</item>
+        <item>Omega-3 fatty acids in salmon will help your lungs react better to irritants that cause asthma symptoms. It can also reduce airway narrowing and inflammation.Along with salmon, you can eat other fishes such as cod, sardines, mackerel and tuna. If raw salmon is not readily available, you can try salmon oil.</item>
+        <item>Massaging the chest with warm sesame oil mixed with salt helps to loosen the phlegm deposited in the chest, especially, when followed with steam inhalation</item>
+        <item>Before going to bed, swallow one teaspoon of honey with one-half teaspoon of cinnamon powder. This will help remove phlegm from your throat and allow you to sleep bette</item>
+        <item>Mix one teaspoon of turmeric powder in a cup of warm milk and drink this up to three times a day. Turmeric capsules and tinctures are also available.</item>
+        <item>Mix 13 ml of fresh honey with 20ml of a paste of basil leaves (made by grinding basil leaves with water). Have this mixture as soon as you feel an attack coming.</item>
+        <item>Take a glass of water and add two tsp fenugreek seeds. Boil this mixture, until only 1/3rd of the solution remains. Let the decoction cool down and then drink it.</item>
+        <item>Make a paste of Indian gooseberry, banyan root and honey. Mix 250 gm Indian gooseberry, 50 gm banyan root and 125 ml honey and make a paste. Consume this paste 1 tsp at a time.</item>
+        <item>Drumstick leaves, when boiled in water, efficiently cures asthma problems. In a cup of water, put a small cluster of drumstick leaves and bring to a boil. After boiling for 3 to 4 minutes, strain the water. Add a few drops of lime juice, along with pinch of salt and pepper. Drinking this will help cure asthma.</item>
+    </string-array>
+    <string-array name="running_nose">
+        <item>Honey and Lime: Add one tablespoon of honey and 2-3 drops of fresh lime-juice in one cup of water. Drink this solution when warm. Honey will relieve a runny nose and cough as well.</item>
+        <item>Salt Treatment: Get a cup of warm water and put 2 tablespoons of salt in it, then breathe in the steam. The steam removes secretions and helps in getting the mucous out.</item>
+        <item>Ginger: Chewing ginger is a great runny nose treatment. It drains the nose and maintains normal body temperature</item>
+        <item>Menthol Steam: Get a bowl of hot steaming water and then add menthol and inhale the steam slowly. For best results try mixing menthol with eucalyptus and tea tree oil.</item>
+        <item>Get a Massage: Massage your nose bridge gently. Using your thumb and index finger, apply a soft up and down stroke on the bridge of your nose, until you are able to breathe easy.</item>
+        <item>Peppermint Oil : If your sneezing is due to a stuffy nose, peppermint oil’s antibacterial properties can help. Boil some water and add five drops of peppermint oil. Cover you head with a towel and breathe in the steam coming from the boiling pot. Inhaling the steam will clear your nasal passages.</item>
+        <item>A hot cup of chamomile tea is considered as one of the best home remedies for sneezing caused by allergies. It has excellent antihistamine properties that can provide instant relief.</item>
+        <item>Garlic can easily fight off an upper respiratory infection due to its natural antibiotic and antiviral properties. It can be used internally or externally to get relief from excessive sneezing caused by a common cold infection. Crush four to five garlic cloves to make a fine paste and then inhale its strong fragrance. This will help clear the nasal passages that cause sneezing and help you to breathe with ease.</item>
+        <item>Drinking hot water for the days when you are suffering from cold helps you to overcome running nose.</item>
+        <item>Figs also known as Anjeer boiled in water is one of the best home remedies for cold and flu. Take this hot water twice a day to treat cold, sneezing and running nose</item>
+        <item>"Take a Hot Shower: And inhale the steam while in the shower. The hot steam should unclog your nose and it's a very effective way to kill the viruses causing the runny nose."</item>
+        <item>Carom Leaf (Ajwain) boiled in water is a natural remedy to cure cold. Mix honey in this boiled water to get rid of cure cold or running nose.</item>
+        <item>Apply Castor oil on the middle of the head to get relief from running nose and cold.</item>
+        <item>Smelling the aroma Asafetida (Hing) is also a home remedy to cure sneezing, cold or running nose.</item>
+        <item>Bitter gourd has medicinal properties and is used in treating sneezing to a great extent. Soak about 5 to 6 bitter gourd leaves in water for some time. Remove the gourds from the water, squeeze them and add a little bit of warm water to make juice. You can add some honey to the mixture if you like. Drinking this on a regular basis will help get rid of sneezing induced by colds and seasonal allergies.</item>
+    </string-array>
+    <string-array name="nutritional_tips_weight_gain">
+        <item>If you are trying to gain weight, enjoy some lean red meat. Steak contains a ton of protein and iron</item>
+        <item>Natural peanut butter is packed with protein and fats, making it a great choice for people trying to gain weight the healthy way. One tablespoon contains around 100 calories and has 4 grams of protein. Real peanut butter is also high in folate, magnesium, vitamin E, and vitamin B3</item>
+        <item>Dietitians say that one simple substitution you can make when trying to gain weight is swapping your skim milk for whole milk. It’s only 60 calories more a glass as the fat is left in. When you keep the fat in milk, the vitamins and nutrients stay in the solution</item>
+        <item>Nuts contain significant amounts of calories in a small serving. Two handfuls of almonds or around 18 cashew nuts can provide 160 calories. In fact, almonds contain alpha tocopherol vitamin E that helps in preventing free radical damage after heavy workouts. Walnuts offer an amazing combination of monounsaturated fats, phytosterols and amino acid I-Arginine.</item>
+        <item>Avocado: This versatile fruit is rich in fat and calories. An average avocado contains around 300 calories and 31 grams of fat. Moreover, the fat contained in avocadoes is monounsaturated and hence, they are heart-healthy. Eating an avocado on a daily basis can cause you to gain 6 lbs in a week</item>
+        <item>Dried fruit is a rich source of fiber. Moreover, it has a high content value of vitamins and minerals which are necessary for overall health and building muscles. Being high in calories, it can help in achieving the calorie surplus that is required to gain weight. It also decreases the amount of fat that is stored in the body</item>
+        <item>Tropical fruit can help you gain weight. Fruits like mango, papaya, bananas, and pineapple are amazing choices according to food experts</item>
+        <item>Natural granola with no added refined sugar is a great cereal to enjoy if you are trying to gain weight. This tasty snack is made from rolled oats, sugar, and healthy fats (like nuts and coconut oil). More dried fruit and nuts can also be added.</item>
+        <item>Butter is linked with long term weight gain. Intake of butter should be in moderation, as regular consumption of butter is bad for your heart</item>
+        <item>Whole eggs:It is economical and loaded with protein, vitamins A,D, E and good cholesterol.</item>
+        <item>Take in two portions of salmon every day, this will ensure proper protein collection and help increase weight.</item>
+        <item>Cheese is one of North America’s favorite foods. And for good reason, you can add cheese into almost any dish. It has all the nutritional benefits of milk products, but most cheeses are high in fat, making it a good product to have if you are trying to gain weight.</item>
+        <item>Potatoes are a great choice because they’re high in protein (really!), full of fiber, and contain a ton of vitamin C. Eat potatoes with the skin on for optimum nutrition. Once they’re peeled, the protein is cut in half. Also, you can mix it up with mini reds and sweet potatoes that pack more flavor that white potatoes.</item>
+        <item>Corn bread is full of carbohydrates, and it is a tasty partner to your favorite curries and and soups. One piece includes approximately 328 calorie</item>
+        <item>The nutrients and necessary acid content present in shrimps seals up your body with healthy calorie</item>
+        <item>The healthy fruit-flavored, fatless yogurt can give you as much as 118 calories. Include it in your daily diet for quick weight gain.</item>
+        <item>"Bananas:One banana contains approximately 100 calories. Not only are bananas rich in carbs and nutritious, they're also great for workout fuel."</item>
+        <item>"Beans are highly calorie-dense foods. We don't feel full very fast and hence tend to consume more. Beans are ideal for consumption at any time of the day – breakfast, lunch, dinner and even in the form of snacks"</item>
+        <item>Pasta and noodles are easily-prepared and delicious calorie-dense sources of carbohydrates. They are readily available, and can be cooked in a number of ways with lots of healthy vegetables (for other vitamins and minerals) to taste and casually carried to places of work.</item>
+        <item>Bagels, and breads and cereals in general, made from whole grain, are excellent sources of carbohydrates. Breakfast is perhaps the most important meal of the day and bagels make excellent breakfast.</item>
+    </string-array>
+    <string-array name="mouth_ulcer">
+        <item>Chew a few leaves of tulsi along with some water about three to four times every day. This will help the ulcers go away faster and also have a preventive action against their recurrence.</item>
+        <item>Honey is a natural humectant – that is, it helps to retain moisture and prevent dehydration. It also helps reduce scarring and hastens the process of new tissue growth. This, along with its anti-microbial effect ensures faster healing of the mouth ulcer. You can either dab a little honey onto the mouth ulcer or mix in a little turmeric to make a paste that can be applied to the affected area.</item>
+        <item>Dry coconut, coconut oil and coconut water are the three products of the coconut tree that are very useful in treating mouth ulcers. Drinking tender coconut water helps to cool the body down. Applying a little coconut oil directly onto the mouth ulcer or chewing some coconut (fresh or dry) helps to reduce pain and inflammation and this helps the ulcers heal faster.</item>
+        <item>Coriander leaves boiled in water are one simple remedy for mouth ulcers. Let the water cool down and gargle lukewarm water for at least 3-4 times a day and notice better results.</item>
+        <item>Gargle with one glass of cold /chilled water and one glass of lukewarm water alternatively. This procedure will cure the mouth ulcers effectively.</item>
+        <item>Take one cup of fenugreek leaves and boil them in two cups of water. Strain the water and keep it aside for sometime by covering it with a lid. Gargle this water twice or thrice daily</item>
+        <item>Aloevera is an effective natural remedy for mouth ulcers. Take at least two tablespoons of aloe vera gel thrice daily for quick results.</item>
+        <item>Chewing 5 – 6 basil leaves (tulsi leaves) with some water every day will help you in getting rid of mouth ulcers. Repeat this procedure five to six times daily for better results</item>
+        <item>Consuming raw tomatoes helps you in getting rid of mouth ulcers. You can even try gargling with tomato juice three to four times every day.</item>
+        <item>Apply the mixture of turmeric powder and glycerine. To make the mixture, take one pinch of turmeric and one teaspoon of glycerine.</item>
+        <item>Eat a banana with curd as the first thing in the morning for better results.</item>
+        <item>Make a paste of Indian gooseberry and apply it on the sore directly. Repeat this process at least twice a day and notice the quick results.</item>
+        <item>Dab two drops of tea tree oil directly on the ulcer, doing this will reduce the redness around the sore and also reduces the inflammation caused</item>
+        <item>Eat raw salad with plenty of onions; this will help you make the ulcers disappear.</item>
+        <item>Another quick way of treating mouth ulcer in short duration is by using cranberry juice. Hold the juice in the mouth over the ulcer for better results</item>
+    </string-array>
+    <string-array name="hairfall">
+        <item>Coconut milk is among the richest sources of tissue-nourishing, plant derivatives. Grind the grated coconut and squeeze it to remove its juice. Massaging coconut milk (juice) on the scalp can also help in the management of hair fall.</item>
+        <item>Aloe Vera juice is very effective to stop hair loss. Pure aloe gel can be applied directly to the scalp. This is helpful for preventing hair loss due to irritated, dry or infected scalp. Aloe Vera balances the pH level of scalp. After massaging the head with aloe gel, wait for few hours and then wash the hair with lukewarm water. You should do this twice a week for best results.</item>
+        <item>Regular massaging the scalp for a few minutes every day with lukewarm oil will lead to stimulation of blood flow to the scalp. Coconut oil helps in controlling hail fall. Other recommended oils are: Jojoba oil, almond oil, mustard oil, lavender oil. Jojoba oil is especially good because it replaces the sebum in the scalp. It also helps to control dandruff.</item>
+        <item>Boil neem leaves in water until the water level falls to half its initial quantity and then cool it.Rinse out your hair with the mixture once a week.</item>
+        <item>Boil dried amla in coconut oil till the oil turns black in color. Massage your scalp with this oil. This is an effective and very easy home remedy to check hair loss</item>
+        <item>Honey, olive oil, cinnamon mixed together make for a soothing yet effective hairfall control pack.</item>
+        <item>Crush a few flowers of hibiscus and mix with sesame oil or coconut oil to make a fine paste. Apply this to the scalp and hair, leave on for a few hours and then rinse with cool water and a mild shampoo</item>
+        <item>Eggs are another rich source of sulphur; they also contain a lot of protein and minerals such as selenium, iodine, phosphorus, iron and zinc. This makes it an excellent promoter of hair regrowth and defender for hairfall.</item>
+        <item>Rosemary has long been believed to keep hair healthy and lush. Add one part rosemary oil to two parts almond oil and massage the mixture into your scalp for twenty minutes a day.</item>
+        <item>Safflower is considered to be a good vasodilator. Massage your scalp with safflower oil for twenty minutes a day to increase local blood flow and stimulate hair growth.Jojoba oil may help with hair loss when applied to the scalp</item>
+    </string-array>
+    <string-array name="skin_rashes">
+        <item>Olive oil is also known to effectively cure skin rash. Apply olive oil directly on the rash regularly. The therapeutic properties of olive oil will cure the skin rash</item>
+        <item>Break off a aloe vera leaf from the plant, and cut it open lengthwise from top to bottom with a knife. Scoop out the gooey gel inside, and rub it directly onto irritated skin. If you have extra left over, you can keep it refrigerated in an airtight container for up to a week.</item>
+        <item>Just put a few drops of apple cider vinegar onto a cotton ball or washcloth and dab it on to the affected area.</item>
+        <item>Peppermint is great for bug bites and itching, as it provides a cooling sensation that’ll give you welcome relief.The quickest, easiest way is to crush up the leaves and rub the peppermint directly onto the skin. You could even freeze the crushed peppermint leaves into ice cubes for a cooling double-whammy, as the cold of the ice cubes also helps to numb the affected area and bring down swelling and inflammation. Always use clean, filtered water.</item>
+        <item>You can also apply baking soda to the affected skin area. Press the area gently after applying the baking soda to get relief from irritation and cure the rash</item>
+        <item>For a rash developed due to spider bites, ice cubes can be directly applied on the area, for some 20 minutes. It will counter the development of rash on the bitten area. If a rash still appears, apply a topical antibiotic medicine to the affected area, 2-3 times a day.</item>
+        <item>You can also apply vitamin E oil to skin rash. Cut open a vitamin E capsule, extract the oil and apply it over the affected area.</item>
+        <item>Rub a few drops of almond oil on the affected area to moisturize the skin and stop itching, provided the rash is caused by dryness of the skin</item>
+        <item>Put a bit of bentonite clay on it! Clay is very helpful for itching and a number of other skin issues such as acne. It particularly helps heal venomous stings and bites, like from bees, wasps and spiders. The clay helps draw the venom out of the skin, which will help relieve the pain and let the sting heal more quickly.</item>
+    </string-array>
+    <string-array name="dandruff">
+        <item>Lemon juice and Coconut oil : Blend together 1 tbsp. of lemon juice with 5 tbsp. of coconut oil. Apply to the scalp to get rid of dandruff. Lemon juice is a natural home remedy for dandruff and will clear away flakes from your scalp</item>
+        <item>Apply aloe Vera gel on the scalp to remove dandruff. Leave on for 15 minutes. Aloe is a natural home remedy, which clarifies and repairs damaged skin. It fights dandruff and let you get rid of dandruff flakes so the scalp can heal.</item>
+        <item>Apply Eggs to remove dandruff:Beat 2 eggs to apply it on scalp and rinse it off with in one hour to get dandruff free hair. Eggs help in the treatment of dandruff and falling hair. Egg acts as a good conditioner for dry hair giving them glow and shine.</item>
+        <item>Neem Leaves:Neem has the antiseptic property, which helps in getting rid of dandruff. Apply neem leaves paste on your scalp to fight dandruff as it is a very effective home remedy. Neem leaves is successful in treating lice, treating dandruff and many other eruptions on the scalp.</item>
+        <item>Warm Oil Massage on Scalp:Luke warm oil massage is considered as one of the best home remedy to get rid of dandruff. Luke warm almond oil, coconut oil, or olive oil is used to massage on scalp to prevent dandruff. Leave it on scalp overnight.</item>
+        <item>Tea Tree Oil to treat dandruff:Tea tree oil is a natural home remedy for dandruff. Tea tree oil has natural antiseptic and antibiotic properties, which make it best to get rid of dandruff. You can apply tea tree oil directly to the scalp, or add few drops to your regular shampoo.</item>
+        <item>Two aspirin dissolved in the shampoo can let you get rid of dandruff. Aspirin helps to fight dandruff.</item>
+        <item>Take one part apple cider vinegar and mix it with one part water. Wash your hair normally, then pour vinegar-water mixture carefully onto hair and scrub into your scalp. Take care not to let any get into your eyes</item>
+        <item>Replace your shampoo with a handful of baking soda. Baking soda is used in a wide variety of ways, and is reputed to work as a natural dandruff remover.Instead of shampooing, rub a heaping tablespoon of baking soda into your wet hair and scalp. Wash thoroughly after one minute</item>
+        <item>Apply olive oil before washing your hair. Let it do its stuff for a about 5-10 minutes before washing your hair.</item>
+        <item>Tulsi and amla paste: Tulsi (basil) is known since eons for its healing properties. Take few tulsi leaves, make a paste of them and then mix this paste in amla powder. Apply this paste for around 30 minutes on your scalp and then wash your hair thoroughly. You will see that this remedy works wonders.</item>
+        <item>Fenugreek (methi) paste: Soak fenugreek seeds overnight in water and then make a fine paste out of it. Now, apply this paste for around 30 minutes on your scalp and then wash it off later. Repeat this procedure for at least four weeks. Methi also helps in beating other hair and skin problems like acne, hair fall, itchy scalp</item>
+        <item>Another unconventional and unheard of cure among the other dandruff home remedies is an apple. Squeeze out the juice from a fresh apple, add about two tablespoons of this juice to an equal amount of water and apply it on to your scalp. Leave on this juice for about ten minutes on your scalp and wash your hair normally with a mild shampoo. Apples have an enzyme called phenolase which helps fight dead skin accumulation that can clog the hair roots. Eliminating the dead skin helps gradually cure dandruff.</item>
+        <item>"Heat 4 tbsp of coconut oil . Add 1 piece of camphor while it's heating. Mix well. Massage on scalp when lukewarm before bedtime . Leave it overnight and wash"</item>
+        <item>"Garlic's anti-fungal properties are perfect for eliminating dandruff-causing bacteria. Crush garlic and rub it into your scalp. To avoid that potent smell,mix crushed garlic with honey and massaging into the scalp before washing as usual."</item>
+    </string-array>
+    <string-array name="summer_health_tips">
+        <item>When outdoors, wear sunglasses that block at least 99% of ultraviolet A and B rays. Sunglasses can help prevent cataracts, as well as wrinkles around the eyes</item>
+        <item>Stay cool and hydrated. Drink water, at least two to four cups (16-32 ounces) upon rising, and similar amounts if you are going out for activities and exercise. Carry water with you in a hard plastic container (more stable polycarbonate rather than polyethylene that leaches plastic into the water). You may also use a traveling water filter</item>
+        <item>"Enjoy Nature's bounty – fresh seasonal fruits and vegetables at their organic best. Consuming foods that are cooling and light -- fresh fruits, vegetable juices, raw vital salads, and lots of water -- will nourish your body for summertime activities. Include some protein with one or two meals. There are a number of light, nourishing proteins that don't require cooking"</item>
+        <item>Resist the urge to stay up later during long summer days. Instead pay attention to good sleep hygiene by keeping the same bedtime and wake-up schedule</item>
+        <item>Avoid Icecreams and packed drinkd instead take fresh natural fruit juices.</item>
+        <item>t is important to use a suncream lotion of at least SPF 30 in order to protect your skin from harmful UV rays. For sensitive skin, a mineral-based sunscreen is best. Don’t sit in the sun in peak hours between 10am and 4pm in order to minimize UV radiation. If you are planning to be out in the sun for a long period of time, reapply suncream every two to three hours.</item>
+        <item>Keep up or begin an exercise program. Aerobic activity is important for keeping the heart strong and healthy. If you only work out in a health club, take some time to do outdoor refreshing activities -- hiking, biking, swimming, or tennis. Reconnecting with these activities will help keep your body and mind aligned.</item>
+        <item>Summer means an increase of dead skin cells so it is important to exfoliate your skin to keep it smooth and silky. You don’t need to buy any expensive products to achieve that summer glow; simply use a loafer for a light scrub or make your own exfoliation lotion using a handful of oatmeal, milk and yoghurt.</item>
+        <item>Before you hide those running shoes in the wardrobe, remember summer exercise doesn’t have to stop because of the rising temperatures. Instead of working out outside, change your exercise plan and take it indoors. Join a gym, take up a step class, or get a group of friends around for an afternoon of exercise DVDs.</item>
+        <item>Olive oil is a healthy fat which contains essential fatty acids that help skin resist UV damage. These fatty acids are also part of the cell membranes that keep in all that moisture your body loses through heat and sweat during the summer. In order to protect your skin and keep it supple, consume about 1 tablespoon of olive oil daily or add it to a healthy salad or fish dish in order to get all those essential fatty acids</item>
+        <item>Our hair suffers a lot during the summer. Constant heat, sun damage and chlorine takes a toll on our hair and can leave it feeling limp and dull after the holidays. If you’re planning on swimming a lot during the summer, it is advisable to use anti-chlorine shampoo and conditioner to help neutralize the chlorine from your hair. If possible, minimize the use of hairdryers, straighteners and other heating products. Towel dry your hair, apply a handful of mouse and revel in beachy summer waves.</item>
+        <item>"Take some special summer time with your family, kids, and friends who share the enjoyment of outdoors. Plan a fun trip if you're able and motivated for a day or longer -- hiking in the wild, camping, playing at the river, or a few days resting at the ocean"</item>
+        <item>Summer is the perfect time to take up a new activity. Gardening is a great way to enjoy the outdoors and will actually help you burn some calories! Planting a herb garden is a fantastic way of getting your hands dirty, having quick access to some healthy flavours for your summer meals and, if you have kids, get them involved in playing outside.</item>
+        <item>Include salads in your diet. Consuming leafy lettuce and summer greens, corn on cob and cucumbers, in salads are delicious ways to stay cool. These foods contain a significant amount of water and can actually thin the blood, which has a cooling effect. Onions too are great in the summer, because of their ability to beat the heat and provide relief from summer ailments. So, throw in some washed onion slices onto a sandwich, or in your salad.</item>
+        <item>"If you get burnt (sun stroke or heat stroke), seek relief by sipping on green tea or take a spoon of onion juice. They are potent antioxidants that can neutralize cellular damage caused by the sun's rays."</item>
+        <item>Wear loose, full-sleeved cotton clothes to protect the body from the sun and to aid evaporation of sweat. Use a hat to protect your head from the sun you go out</item>
+        <item>"If you're a non-vegetarian, you should limit red meat and instead go for fish and oysters."</item>
+        <item>Rashes in the summer are often a skin reaction caused by contact with a poisonous plant.If you cannot avoid them, wear a long-sleeve pair of pants as well as a shirt, boots and gloves;</item>
+    </string-array>
+    <string-array name="weight_loss">
+        <item>Consume luke warm water,lemon juice and honey mixture.Honey is really effective for circulating the fats in the body</item>
+        <item>It is well-established that eating horse gram regularly helps burn fat.</item>
+        <item>Cabbage juice is an excellent way to get rid of accumulated body fat.</item>
+        <item>Daily intake of Carrot juice with buttermilk is a effective remedy used to lose weight.</item>
+        <item>Soak 4 to 5 garlic pieces in skimmed milk and boil it till the milk is reduced to half. Eat the garlic along with the milk. Garlic helps in removing the unnecessary fat from the body.</item>
+        <item>Eat 10 to 12 fully grown curry leaves every morning. You should do this for three months to see results.</item>
+        <item>Eat one or two tomatoes, on an empty stomach, every morning. This should be in place of breakfast and should continue for a few months.</item>
+        <item>Add ginger and lemon to a glass of boiling water. Drain the water and have these warm. This works as an appetite suppressant.</item>
+        <item>Eat plenty of citrus fruits and drink lot of water.</item>
+        <item>Add three teaspoons of lime juice, 1/4 teaspoon of black pepper, and a teaspoon of honey to a cup of water. Drinking this once a day for three months will help with weight loss.</item>
+        <item>Take a handful of jujube or Indian plum leaves. Soak these in water overnight. Drain the water and eat these on an empty stomach. You need to do this for a month to see results.</item>
+        <item>Drink green tea three times a day, especially before every meal. Regular intake of green tea improves metabolism and helps to burn calories.</item>
+        <item>Apple cider vinegar is an effective home remedy for weight loss. Various researches have established that apple cider vinegar increases metabolism</item>
+        <item>Olive oil, ground flax seeds and legumes are some of the super foods that help to burn fat</item>
+    </string-array>
+    <string-array name="tooth_ache">
+        <item>Salt Water: Mix a heaping tablespoon full of salt in a small glass of warm water; swirl around inside your mouth for as long as you can, spit out. Repeat as needed.</item>
+        <item>Cloves: This is remedy from the old timers, rest a clove against the sore area until pain goes away. You can also use a drop or two of clove oil (BE CAREFUL: too much can be toxic) or make a thick paste of ground cloves and water or ground cloves and olive oil.</item>
+        <item>Garlic: Take a clove of garlic, smash it and apply (settle it inside cheek). You can also mash some garlic with salt.</item>
+        <item>Peppermint Leaves: Chew on fresh peppermint leaves. You can also dried leaves, just hold them in place.</item>
+        <item>Lime: Cut a slice or wedge of lime and apply, bite into it if you can to release some of the juice</item>
+        <item>Onion: Slice a piece of fresh onion and hold it inside your mouth. The onion needs to be freshly cut (so it provides a bit of onion juice).</item>
+        <item>Apple Cider Vinegar: Soak a cotton ball with apple cider vinegar (ACV) and hold it in place. Can also try regular household vinegar.</item>
+        <item>Oil Of Oregano: Mix a few drops with a bit of olive oil, then saturate a cotton ball with mixture. Can replace the olive oil with lukewarm water if preferred.</item>
+        <item>Tea Tree Oil: Just a drop or two will do the trick. You can also add some to a cotton swab and hold in place or add a few drops of tea tree oil to a small glass of lukewarm to warm water and rinse your mouth with it.</item>
+        <item>Ginger Root: Take a fresh piece of ginger and chew it a bit.</item>
+        <item>Potato: Cut a fresh piece of potato (raw, skin off) and hold in place. Can also pound a piece of raw potato, mix in a bit of salt and use the mash.</item>
+        <item>Ice Pack: Cover an ice pack with a face cloth or towel then hold over your cheek where the problem is. This will help numb things. Make sure that you have some type of cloth between your skin and the ice, otherwise you can severely damage your skin.If that doesn’t work, try the opposite–a hot compress (making sure that it is not so hot as to scald your skin).</item>
+        <item>Asafetida:Dental problems such as toothaches and bleeding gums can be treated at home with the use of asafetida.Simply add a pinch of powdered asafetida to lemon juice and then warm it slightly. Use a cotton pad to apply the solution on the affected area. This will give you quick relief from the painAlternatively, asafetida fried in clarified butter can be put in the tooth cavity for instant relief.</item>
+        <item>Guava Leaves: Fresh guava leaves can also alleviate toothache. Simply chew one or two tender guava leaves until the juice starts working on the affected tooth. Another remedy is to put four to five guava leaves in water and boil it. Allow the solution to cool to a warm temperature and add some salt. Use the solution as a mouthwash. If you don’t have guava leaves, you can use raw spinach leaves instead.</item>
+        <item>Bayberry: Bayberry is also a good ingredient for pain relief and to strengthen your gums. Make a paste of bayberry bark and mix it with vinegar. Apply the paste on the affected tooth for relief from the pain.</item>
+    </string-array>
+    <string-array name="back_pain">
+        <item>Applying an ice pack to the painful area within 24 hours of an injury can help keep inflammation to a minimum and ease discomfort by decreasing the ability of nerves to send pain signals to the brain. Place ice cubes in a plastic bag, then apply the bag on top of a thin towel that has been placed on the skin. Leave the ice pack on for 20 minutes, take it off for 30 minutes, then replace it for another 20 minutes.</item>
+        <item>Ginger root, which is used to cure vomiting, can also be used in the treatment of back pain. The anti-inflammatory compounds in ginger can give you relief from a backache. Apply some ginger paste on the affected area, followed by eucalyptus oil. Cut thin slices of fresh ginger root and put them in a pan of boiling water. Simmer and boil it on low heat for about 30 minutes. Allow the mixture to cool to room temperature and strain it. Add honey and then drink it. You can also make an herbal tea with one-half teaspoon of black pepper corns, one-half teaspoon of cloves and one teaspoon of ginger powder.</item>
+        <item>Basil leaves can also come to your rescue when suffering from a backache. Add 8 to 10 basil leaves to one cup of water and boil it until the water is evaporates to half. Let it cool to room temperature and then add a pinch of salt. For mild pain, drink this concoction once daily; for severe pain, do that twice a day.</item>
+        <item>A hot cup of chamomile tea will help relax tense muscle tissues that can be the cause or a related symptom of a backache. You can buy pre-packaged chamomile tea or make your own.</item>
+        <item>Epsom salt can ease pain and relieve inflammation.</item>
+        <item>Poppy seeds work wonders as remedy of backache. Grind together 100 gm each of poppy seeds (khus khus) and rock candy (misri). Consume two teaspoons of this mixture twice daily, followed by a glass of milk.</item>
+        <item>Massaging your back with an herbal oil can help your muscles relax and relieve pain. You can use any herbal oil such as eucalyptus oil, almond oil, olive oil or coconut oil. Heat the oil until warm and massage it gently over the aching area.</item>
+        <item>Garlic is another ingredient that can help treat a backache. Simply eat two to three cloves of garlic every morning on empty stomach. You can also massage your back with garlic oil. To make garlic oil, heat some coconut oil, mustard oil or sesame oil on low heat and then add 8 to 10 cloves of garlic to it. Fry the garlic until it is brown. Strain the oil and let it cool to room temperature. Massage your back gently with the oil. Leave it on for some time and then take a bath in warm water.</item>
+        <item>Wheat has compounds that produce an analgesic effect that can help minimize pain. Soak a handful of wheat in water overnight. In the morning, mix in cuscus grass and coriander. Then add one cup of milk and boil it for a few minutes until it thickens. Drink the mixture twice daily</item>
+        <item>"Get a massage. If you're lucky enough to have an accommodating spouse, friend, or roommate, ask him or her to give you a rubdown. As you lie facedown on a bed or sofa, ask your masseuse to knead your back muscles. Local massage therapists may also make house calls if you don't feel able to visit one of them. Check the yellow pages for listings or ask your doctor or a friend for a referral."</item>
+        <item>Milk is a rich source of calcium that your body needs for strong bones and healthy muscles. Ensuring that your body gets an adequate amount of calcium can help alleviate and prevent backaches.</item>
+    </string-array>
+    <string-array name="pimples">
+        <item>Nutmeg or jaiphal is a great spice that can be used to solve pimple problems. Make it into a fine powder, use it with water or milk in the form of a paste.Let it on for 10 minutes maximum before washing it off</item>
+        <item>Neem leaves are perfect for treating pimples. Make a paste of neem leaves and apply on the targeted pimples. If you cannot get fresh neem leaves, try to get some dried bottled neem leaves, steep for 10 minutes in warm water and use as a paste.</item>
+        <item>A mixture of honey and lemon juice is one of the simple yet effective homemade beauty tips for pimples treatment. Mix 1 tbsp of honey with 1 tbsp of freshly squeezed lemon juice and apply it on the pimples as well as on the spots left out by pimples</item>
+        <item>Soak some mint leaves and make a fresh paste because it has the quality to provide a cooling and astringent effect to the skin. Pimple’s stubbornness will reduce and they will reduce in size as well. Regular use will help one get rid of the pimple marks too.</item>
+        <item>Ice cubes will shrink the redness and inflammation of a pimple and make it less noticeable.</item>
+        <item>Mix turmeric with milk or curd and apply on face. Leave it for sometime to dry then wash with warm water.It is a great remedy to cure pimples</item>
+        <item>After orange peels are pounded and combined with water to a paste, apply it only to the affected area and watch the results!</item>
+        <item>"Honey has antimicrobial properties, so it’s especially great for acne prone skin types.Dab a small amount of honey on the pimple as soon as the head becomes visible. Put a band-aid on it, and go to sleep. When you wake up, it’ll be gone! Don't forget to moisturize afterwards!"</item>
+        <item>"Cook some oatmeal and apply it, when it's cool enough, to the face. Lay down and leave it on for about fifteen minutes and then wash it off. The swelling and the redness should be gone and the pimple should be visibly reduced! This oatmeal mask is soothing, effective, and not irritating!"</item>
+        <item>Tulsi paste is great way to get rid of pimples when you use it on a regular basis. If you can’t get fresh basil, then you can grab a bottle of dried basil leaves from your local mall and steep it in warm water about 2-3 teaspoons such that a paste can be formed and use that on the face for about 10 minutes for 4-5 times a week</item>
+        <item>Overnight apply a bit of fresh lemon juice to the pimple to reduce its size and intensity. Wash it off with water the next morning. Use this home remedy only if your skin is not sensitive.</item>
+        <item>Put a very small amount of vinegar in a pan, as it could sting otherwise, and let it boil. If you have sensitive skin, boil some water in a pan and add a bit of vinegar. Put your face over the pan for about 5 minutes.</item>
+        <item>"Try applying grated cucumber over the face and neck for the treatment of pimples and blackheads. This process should only take 15-20 minutes of your time. You can also ad 2-3 teaspoons of lemon juice to the grated cucumber and mix it until you'll have a paste and apply it on the affected area."</item>
+        <item>You can slightly dry roast cinnamon or dalchini, finely grind them touse it for pimples. Make a paste by mixing cinnamon with honey and apply it at least 5-6 times a week for about 10-15 minutes before washing off.</item>
+        <item>You can also apply potato juice/ slice/ grated potato directly on your pimples. Keep the sticky juice of the potato on the face for 10 minutes or more and then wash off. It gives a natural mild bleaching glow to the skin.</item>
+        <item>You can ground some Cloves in the same way, but the clove oil content in it may give an immense burning sensation when used on aggravated pimples. Use with milk or water in very less amount and test it on a patch before applying on major areas on the face.</item>
+        <item>A great sticky recipe to your pimple problems is the white milk that comes out of the skin of a raw papaya and use it on the whole of face. Though it is sticky, if you use it on a regular basis, it can do wonders.</item>
+    </string-array>
+    <string-array name="acidity">
+        <item>Bananas: Are high in potassium which is an alkalizing mineral that has a high pH value. The higher the pH value, the lower the acidity, which is Bananaswhy the banana is a formidable antidote to acidity. They also have a component that makes the stomach lining produce more mucous. This mucous protects the inner lining of the stomach, reducing the damage caused due to acidity</item>
+        <item>Tulsi: Has compounds that make it an effective digestive agent. It stimulates the stomach to produce more mucous and has potent anti-ulcer properties. It also reduces the effect of peptic acids in the stomach thereby preventing excessive acidity</item>
+        <item>Milk has a high amount of calcium that helps it prevent acid build up and absorbs the excess acid Glass of milkproduced thereby reducing the symptoms and the fact that it is cold provides instant relief from the burning sensation one feels during acid reflux</item>
+        <item>Jeera: It has properties that stimulate the production of saliva which helps in better digestion, improves Jeera metabolism and relieves gas and other gastric troubles. In Ayurvedic traditions, it’s believed to have a calming effect on irritated stomach nerves and helps in healing ulcers formed due to acid secretion</item>
+        <item>Clove: It is a natural carmitive and helps improve peristalisis (the movement of food down the stomach) and also increase the production of saliva. It has a pungent taste when bitten into, and the taste buds react to this taste and secrete excess saliva, which in turn aids digestion</item>
+        <item>Elaichi: In Ayurvedic traditions, cardamom is believed to be one food that balances all three doshas –Elaichi kapha, pitta and vata. It is known to stimulate digestion and relieve people of stomach spasms. It soothes the mucous lining of the stomach helping it ward off the effects of excess acid produced in the stomach</item>
+        <item>int leaves or pudina: These leaves have been used for ages as a mouth freshener and also for garnishing for various foods. This humble leaf has amazing properties that make it just the medicine to treat acidity</item>
+        <item>Ginger: A regular ingredient in most Indian households, ginger improves absorption and assimilation of Gingeressential nutrients and aids in digestion. It also helps break down the proteins in your food. Ginger protects your stomach against ulcers by promoting mucus secretion thereby reducing the effect of the acid on the stomach.</item>
+        <item>Amla: Is a kapha and pitta pacifier apart from having high amounts of vitamin C that helps in healing the injured stomach lining and oesophagus. Have one teaspoon of amla powder twice a day to help keep acidity way</item>
+        <item>After all three meals, take a small piece of jaggery and keep it in your mouth and suck. Voilá no more acidity</item>
+        <item>Boil one cup of water. To this add 1 tsp of Aniseed (Saunf). Cover and leave overnight. Strain the water in the morning, add 1 tsp of honey. When this is taken 3 times a day it prevents acidity.B</item>
+        <item>To 1 ½ liters of water add 1 tsp Caraway seeds (shah jeera). Bring to a boil and simmer for 15 minutes. Sip while warm. Have the concoction 2-3 times a day for 5-6 days</item>
+    </string-array>
+    <string-array name="cough_and_cold">
+        <item>warm milk and turmeric mixture is a popular and effective way to fight a cough. This mixture is applicable for children and adults too. Turmeric and milk are also healthy ingredients needed for healthy living.</item>
+        <item>Prepare a syrup of lemon, honey and cinnamon to prevent a common cold. Here’s how to: Put some honey in a pan, fill it to half and use a double boiler until it is thin. Then add a pinch of cinnamon and add lemon. Have this syrup to fight a cold.</item>
+        <item>Salt-water gargle is an age-old therapy for cough, but you can also add turmeric to it. Salt and turmeric fight cough and will give you relief that you really need.</item>
+        <item>Juice of a big red onion + 1 tsp honey. Drink small doses frequently. Avoid large doses</item>
+        <item>Amla is a strong immunomodulator and protects from the onset of many diseases if taken regularly. It ensures the proper functioning of the liver and improves blood circulation.</item>
+        <item>Add tulsi, ginger and black pepper while preparing your tea. These three ingredients play an important role in fighting a common cold and cough</item>
+        <item>Take ½ teaspoon of ginger powder with 1 teaspoon of honey. Black pepper can also be added</item>
+        <item>Chewing a piece of fresh ginger with a little salt on it will ease coughs</item>
+        <item>Half a cup of warm water mixed with one teaspoon of lemon juice and one teaspoon of honey can be taken several times a day.</item>
+        <item>Equal quantities of powdered fenugreek seeds, turmeric and ginger powder can be mixed together. One teaspoon can be taken in the morning and evening.</item>
+        <item>In cases of a sore throat, a clove or two cardamoms or a few raisins can be chewed.</item>
+        <item>Gargling with warm salty water is also beneficial. This can be done two or three times a day.</item>
+        <item>Inhale steam to ease your congestion and drippy nose. Hold your head over a pot of boiling water and breathe through your nose. Be careful. If the steam burns your nose, breathe in more slowly</item>
+        <item>Stay warm and rested. Staying warm and resting when you first come down with a cold or the flu helps your body direct its energy toward the immune battle. This battle taxes the body. So give it a little help by lying down under a blanket to stay warm if necessary.</item>
+        <item>warm milk and turmeric mixture is a popular and effective way to fight a cough. This mixture is applicable for children and adults too. Turmeric and milk are also healthy ingredients needed for healthy living.</item>
+        <item>Prepare a syrup of lemon, honey and cinnamon to prevent a common cold. Here’s how to: Put some honey in a pan, fill it to half and use a double boiler until it is thin. Then add a pinch of cinnamon and add lemon. Have this syrup to fight a cold.</item>
+        <item>Salt-water gargle is an age-old therapy for cough, but you can also add turmeric to it. Salt and turmeric fight cough and will give you relief that you really need.</item>
+        <item>Drink luke warm water to fight a common cold, cough and sore throat. Drinking warm water reduces the inflammation in the throat. Plus, water helps replenish the fluids in the body and washes out the infection.</item>
+        <item>Lime water or nimbu pani is a perfect dose to improve digestion and for the circulation system. If you add honey to lime water and warm water it can be a solution to controlling cold and cough</item>
+        <item>Boil flaxseeds until it thickens and strain it. Add a few drops of lime juice and honey. Consume the mixture for cold and cough relief.</item>
+        <item>Sauté a few garlic cloves in ghee and consume this when warm. It may sound like a bitter concoction, but it can help you fight the common cold and cough.</item>
+        <item>Boil water with black pepper, add cumin and jaggery to it. It will give you relief from chest congestion.</item>
+        <item>It is not a common home remedy to fight a cold and cough, but carrot juice helps to fight a cough. It may be unconventional but it makes an interesting drink. Drink it to prevent cough and reap the benefits of carrot juice</item>
+    </string-array>
+    <string-array name="head_ache">
+        <item>Roast some caraway seeds dry. Tie in a soft handkerchief or muslin cloth and sniff to get a relief from headaches</item>
+        <item>Add 2 teaspoons of powdered cinnamon to 1 ½ cup of milk and boil it for one or two minutes. Add a teaspoon of honey, mix and stir it thoroughly and drink it at least twice a day when suffering from a headache.</item>
+        <item>Eating a chopped apple sprinkled with salt every morning for at least a week will help cure chronic headaches.</item>
+        <item>Head massage with rosemary oil or a pain balm that contains menthol is an effective way to ease migraine pain.</item>
+        <item>Ginger has anti-inflammatory properties and can be used to treat headaches. Add tea leaves and ginger to 1 cup of boiling water. Stir it well and drain the water. Leave till it cools a bit and drink.</item>
+        <item>Peppermint oil is a soothing remedy for curing headaches and migraines. This fresh smelling oil helps regulate blood flow in the body.</item>
+        <item>Lavender oil is a useful home remedy for headaches and migraines. The oil can be either inhaled or applied on your head. For inhaling, add 2-4 drops of lavender oil to 3 cups of boiling water and inhale the oil vapors.s</item>
+        <item>Basil is a strong-scented herb used for natural headache treatment. The oil works as a muscle relaxant and is helpful for headaches caused by tension and tight muscles.</item>
+        <item>Food items like chocolate, sour cream, nuts, peanut butter and caffeinated beverages like coffee, tea or cola, can trigger headaches. Avoid them if they give you a headache.</item>
+        <item>Mix ½ cup of apple cider vinegar with ½ cup of water. Boil the mixture in a covered saucepan. When it boils, remove from heat and leave for a minute. Lift the cover and slowly inhale the steam through your nose. This will provide instant relief from sinus headaches</item>
+        <item>Try wringing out two wet peppermint tea bags and place them on your closed eyelids or forehead for five minutes</item>
+        <item>Down a large glass of water and see if it helps. Dehydration can cause a headache.</item>
+        <item>Fatigue and lack of sleep can contribute to headaches during pregnancy. Make sure you get enough sleep during pregnancy</item>
+        <item>Apply a hot or cold compress to your forehead and neck to get instant relief from headache</item>
+        <item>Eat small regular meals and make sure that you are eating healthy organic food throughout the day. This will keep your blood sugar on an even level, which can prevent headaches</item>
+        <item>Make sure that your kid is getting enough sleep as sleeping often resolves headache in children.</item>
+    </string-array>
+    <string-array name="health_and_stress">
+        <item>Positive thinking: Do not dwell on failures and reward yourself for your successes. Accept that everyone has limits and cannot succeed at everything. Reflect on what you have achieved.</item>
+        <item>Seek support from others: Do not try to cope with problems alone. Having someone to share your problems can greatly help to ‘off load’ the stress. You might find it useful to talk to a friend or work colleague, or talk to your line manager or employer if you are experiencing stress in the work place.</item>
+        <item>Learn to relax: Many people do not include relaxation time in their schedules. Conscious relaxation is important for your body and mind and can help you deal with the negatives of stress.</item>
+        <item>Quick stress relief. The best way to reduce stress quickly and reliably is by using your senses—what you see, hear, smell, taste, and touch—or movement. By viewing a favorite photo, smelling a specific scent, listening to a favorite piece of music, tasting a piece of gum, or hugging a pet, for example, you can quickly relax and focus yourself. Of course, not everyone responds to each sensory experience in the same way. Something that relaxes one person may do nothing but irritate someone else. The key is to experiment with your senses and discover the sensory experiences that work best for you.</item>
+        <item>One thing at a time. This is the simplest and best way to start reducing your stress, and you can start today. Right now. Focus as much as possible on doing one thing at a time. Clear your desk of distractions</item>
+        <item>Simplify your schedule. A hectic schedule is a major cause of high stress. Simplify by reducing the number of commitments in your life to just the essential ones.</item>
+        <item>Figure out where the stress is coming from.Instead of feeling like you’re flailing day to day, identify what you’re actually stressed about. Is it a specific project at work, an upcoming exam, a dispute with your boss, a heap of laundry, a fight with your family?</item>
+        <item>It’s so much easier to manage pockets of stress when the rest of your life is filled with activities you love. Even if your job is stress central, you can find one hobby or two that enrich your world. What are you passionate about? If you’re not sure, experiment with a variety of activities to find something that’s especially meaningful and fulfilling.</item>
+        <item>One of the biggest stressors for many people is lack of time. Their to-do list expands, while time flies. How often have you wished for more hours in the day or heard others lament their lack of time? But you’ve got more time than you think</item>
+        <item>Review your daily and weekly activities to see what you can pick off your plate.Reducing your stack of negotiable tasks can greatly reduce your stress.</item>
+        <item>Get creative. Throwing yourself into a creative activity is another great way to de-stress</item>
+        <item>Had another bad day with your boss or another office worker? Shut the door to your office if you have one and take a few minutes for yourself. No door? Stroll down the hall, rinse your face in cool water in the bathroom, or head outside for a few lungfulls of fresh air. Just getting away for a few minutes can be calming and help you relax.</item>
+        <item>Find a friend. Relationships in your life can restore meaning, hope, and relaxation. Don’t let your friends be sucked into the cycle of you burning out; let them be the respite from that stress. Share your feelings with those you love, and let them help you beat the burnout.</item>
+        <item>Get moving. Do something each day to be active — walk, hike, play a sport, go for a run, do yoga. It doesn’t have to be grueling to reduce stress. Just move. Have fun doing it</item>
+        <item>Develop one healthy habit this month. Other than getting active, improving your health overall will help with the stress. But do it one habit at a time. Eat fruits and veggies for snacks. Floss every day. Quit smoking. Cook something healthy for dinner. Drink water instead of soda. One habit at a time.</item>
+        <item>Simplify your finances. Finances can be a drain on your energy and a major stressor. If that’s true with you, figure out ways to simplify things. Automate savings and bill payments and debt payments. Spend less by going shopping (at malls or online) much less</item>
+        <item>Are the kids or family getting on your nerves? Go into another room, or even the bathroom or closet if you need to get away! Shut the door. Experience the quiet. Take a few deep breaths. Feel the tension go out of your head, neck and shoulders. Try not to feel too silly for hanging out in the coat closet.</item>
+        <item>Spent too long studying over the books or trying to finish that report for work? Push back from your desk. Roll your head and shoulders. Rub your hands together quickly to warm them and place them over your weary eyes, or just close your eyes and let your face and neck relax. Breathe in and out deeply. Remember the time your boss / coworker / teacher / you sat on the jelly donut.</item>
+        <item>"Meditate -A few minutes of practice per day can help ease anxiety.The process can be simple. Sit up straight with both feet on the floor. Close your eyes. Focus your attention on reciting -- out loud or silently -- a positive mantra such as 'I feel at peace' or 'I love myself.' Place one hand on your belly to synch the mantra with your breaths. Let any distracting thoughts float by like clouds."</item>
+        <item>Reach Out-A good social support system is one of the most important resources for dealing with stress. Talking to others -- preferably face-to-face or at least on the phone -- is a great way to better manage whatever is stressing you out.</item>
+        <item>"You will drink more water if you keep some on your desk at all times - it's human nature to drink it if it's there - so go get some now.When you drink water you need to pee. This gives you a bit of a break and a bit of exercise now and then, which also reduces stress."</item>
+        <item>Take a bath. Some people are bath people while others are shower people. No matter which you are, it is hard to deny the comfort of a warm bubble bath with a cozy drink and a good book. If you’re stressed out, try curling up in your bathtub for a while. The warmth will relax your muscles, and help to soothe away your stress.</item>
+        <item>Maintain a favorite hobby. When we get stressed and anxious, it’s easy to push hobbies to the side and focus on ‘priorities.’ However, by leaving out any free time for yourself, you may be making yourself more stressed! Return to a lost hobby by playing your favorite sport, picking up your art journal, or heading out for a hike. You’ll feel refreshed and better able to deal with your stressors when you’ve given yourself time to do something you love.</item>
+        <item>Head outside. Sunlight is a natural cure for depression, which is tied to stress and anxiety. Even if you aren’t able to get sunlight, mother nature provides excellent stress relief via the great outdoors. Walk through a park, hike up to a mountain, go for a fishing trip - whatever interests you. Just get outside to do it! It’s hard to be stressed when you’re witnessing the beauty of the natural world, while putting your body to work at the same time.</item>
+        <item>Laugh it out. Laughter is the best medicine, so they say. Laughing may seem difficult if you’re stressed and anxious, but incorporating it into your life will make a marked difference. Turn on your favorite sitcom, look at funny youtube videos, or get together with a funny friend. Smiling and laughing release stress-relieving hormones in your brain which will have you feeling better in no time.</item>
+        <item>Drink a cup of tea. Tea-drinkers have shown to be less stressed over time than non-tea drinkers, making this a great activity for reducing stress. Grab a cup of black tea for the best results, but any tea will do. Having the warm cup to hold onto will help you to relax, while the flavor will give you something sweet to focus on.</item>
+        <item>Get a massage. Massages aren’t just great for your body, they actually release feel-good hormones in your brain as well. The next time you’re feeling stressed, call up your favorite masseuse and schedule an appointment. Getting your tension worked out of your muscles will help to work the tension out of your mind as well. Better yet? Have a loved one give the massage for you. The combination of your partner or spouse giving you the massage will release extra hormones, practically demolishing whatever stress you had</item>
+        <item>Keep a journal. Although keeping a journal may seem strange or tedious, writing down your thoughts on a regular basis can help keep you stress-free. When you feel bogged down with some emotional or mental stressor, write about it in your journal. Getting it out on paper will give you a sense of relief you might not otherwise find.</item>
+        <item>Have Pets and spend time with your pets when you are stressed out.</item>
+        <item>Practice your spirituality. A top reason many people participate in religious practices -- to find relief of stress and anxiety. If you are already a part of a religious group, try turning towards it more during your times of stress for its peaceful benefits. It is likely you will find relief with the support of your faith community, while growing stronger spiritually simultaneously. If you suffer from chronic stress, consider joining a religious group, and see what inner guidance and comfort it has to offe</item>
+        <item>"Be musical. If you might have noticed, stress is the best time to make or listen to music. This is the time when you don't listen to music to enjoy it, but listen to feel it relieve you. Try to listen to your favorite tracks or watch your favorite clips. For office workers, croon your favorite song or your favorite lines from a song, using your deep notes. It'll give you relief, and you'll obtain balance in your mood once again."</item>
+        <item>"Write out your problems, to organize your thoughts. When your thoughts are not organized, you can't think clearly, which leads to confusion and stress. To solve your problem, find some possible ways to solve it, and then select the best one. If you have trouble deciding between two solutions, make a two column pros and cons list (for and against), such as dividing a sheet of paper down the center to compare two ways to handle that situation"</item>
+        <item>Dance to relieve stress or walk in the rain.</item>
+    </string-array>
+    <string-array name="nutritionall_tips_diabetes">
+        <item>Water foods are free foods—meaning you can eat as many as you like. They include all vegetables and most types of fruit (fruit juice, dried fruit, and canned fruit packed in syrup spike blood sugar quickly and are not considered water foods)</item>
+        <item>Coal foods have a low GI and are high in fiber and protein. They include nuts and seeds, lean meats, seafood, whole grains, and beans.</item>
+        <item>"Studies show that people with diabetes tend to have lower levels of vitamin C in their bodies, so antioxidant-packed citrus fruit is a great snack choice. It may seem quicker to get your C from a pill, but since fruit is low in fat, high in fiber, and delivers lots of other healthy nutrients, it's a better choice."</item>
+        <item>Legumes of all sorts—chickpeas, cannelloni beans, kidney beans, and lentils—are a great addition to soups, salads, and a variety of ethnic dishes. And this low-fat, low-calorie, high-fiber, high-protein food helps to reduce risk of diabetes and heart disease</item>
+        <item>"A simple solution: Drink green tea and orange or cranberry juice. They're all packed with flavonoids—powerful inflammation-fighters. Swap one in for one cup of coffee a day."</item>
+        <item>Top oatmeal with 1 to 2 tablespoons of chopped pecans, almonds, or walnuts to add protein and healthy fat, which stabilize blood sugars</item>
+        <item>Fat-free yogurt naturally contains both high-quality carbohydrates and protein, making it an excellent food for slowing or preventing an unhealthy rise in blood sugar</item>
+        <item>Rich in high-quality lean protein and low in carbs, egg whites are another healthy choice for controlling or preventing type 2 diabetes. One large egg white contains about 16 calories and 4 g of high-quality, filling protein, making egg whites a perfect food for blood sugar control</item>
+        <item>"Broccoli, spinach, mushrooms, and peppers are an ideal source of high-quality carbohydrates. Because these low-calorie, nutrient-dense veggies have a low-impact on blood sugar, they're an integral component of your diabetes food plan."</item>
+        <item>Unsalted almonds provide a healthy, low-carb mix of monounsaturated fats plus magnesium, which is believed to be instrumental in carbohydrate metabolism. A large study out of Harvard University found that high daily magnesium intake reduced the risk of developing diabetes by 33 percent. Therefore, including more magnesium-rich foods like almonds, pumpkin seeds, spinach, and Swiss chard in your diet is a smart move.</item>
+        <item>"There's something in steak besides the protein, iron, and B vitamins that's good for us. It's a compound that's part of beef's fat profile called conjugated linoleic acid (CLA). Doctors Michael Murray and Michael Lyon point out in their book Beat Diabetes Naturally that experiments have shown that CLA works to correct impaired blood sugar metabolism"</item>
+        <item>"All of these green leafy vegetables are good sources of lutein, a carotenoid that's good for the eyes. That's especially important because people with diabetes may develop debilitating eye problems as complications of the disease. These foods are also great sources of fiber, B vitamins, iron, calcium, and vitamin C"</item>
+        <item>Eat a lot of non-starchy vegetables, beans, and fruits such as apples, pears, peaches, and berries. Even tropical fruits like bananas, mangoes, and papayas tend to have a lower glycemic index than typical desserts.</item>
+        <item>Limit white potatoes and refined grain products such as white breads and white pasta to small side dishes.</item>
+        <item>Eat three meals a day. Avoid skipping meals and space breakfast, lunch and evening meal out over the day</item>
+        <item>Carefully control your intake of carbohydrates: Starches, fruits, and milk groups contain the highest amount of carbohydrates. Vegetables are low in carbohydrates</item>
+        <item>In a Finnish study, men who ate the most apples and other foods high in quercetin had 20 percent less diabetes and heart disease deaths. Other good sources of quercetin are onions, tomatoes, leafy green vegetables, and berries.</item>
+        <item>The best tip for a diabetes diet focuses on choosing healthy food options instead of foods full of fats, carbohydrates, starch, sugar, and so on. For example, eat whole grain breads and cereals instead of refined flour.</item>
+        <item>Do not overeat, nor starve yourself. Make use of measuring cups and spoons to ensure that your food servings are the right size</item>
+        <item>"Wild salmon or sardines are not only rich in omega 3s but also contain a healthy-fat-and-protein combination that slows the body's absorption of carbohydrates, keeping blood sugars on an even keel."</item>
+    </string-array>
+    <string-array name="nutrition_tips_for_aneamic_patients">
+        <item>Spinach is a very popular leafy vegetable that help in preventing anemia. It is a rich source of calcium, Vitamins A, B9, E and C, iron, fiber and beta carotene. It will help in improving the overall health of your body</item>
+        <item>Beetroot is known to be very effective in fighting anemia. It is a vegetable that is filled with iron content. It will help in repairing and reactivating your red blood cells. Once the red blood cells are activated, the supply of oxygen to all parts of the body increases. Adding beet-root in any form in your daily diet will help to easily fight anemia</item>
+        <item>There is rich iron content in lamb, beef and other red meats. It contains heme-iron which will be easily absorbed by the body. The heart, kidneys, and the liver of the red meats are those parts that contain high quantities of iron. It is also a great source of Vitamin B12. It is said that the beef liver has more than 600 percent of your daily requirements of iron</item>
+        <item>Peanut butter is a rich source of iron. Try to include peanut butter in your daily diet. If you do not like the taste of peanut butter, you can also think of eating a handful or roasted peanuts everyday to fight anemia. Two tablespoons of peanut butter contain 0.6 mg of iron.</item>
+        <item>Vitamin C is the main ingredient in tomatoes along with lycopene. The Vitamin C in tomatoes helps in easy absorption of iron. Tomatoes are also rich in beta carotene and Vitamins E and hence help in natural conditioning of the hair and skin.</item>
+        <item>Eggs are a rich source of proteins and contain a lot of antioxidants that will help in stocking up vitamins in the body when you are suffering from anemia. A large egg is said to contain 1 mg of iron and hence consumption of an egg everyday will help in fighting anemia</item>
+        <item>One of the popular fruits that contain a rich source of iron and Vitamin C is pomegranates. It helps in improving the blood flow in your body and is also very effective in treating anemic symptoms like weakness, dizziness, exhaustion and even loss of hearing.</item>
+        <item>Beans are a great source of iron and vitamins.Soybeans are considered to be the beans that contain high iron content. It contains phytic acid that prevents the absorption of iron. Soybean is a low fat and high protein food that fights anemia. It is important for you to prepare the soybeans properly in order to gain maximum health benefits.</item>
+        <item>A slice of whole grain bread is said to contain about six percent of the daily iron required for the body. It is a very good source of non-heme iron and will help the body to fight deficiency of iron effectively. The whole grains in the bread contain phytic acid that has the potential to inhibit iron in the body.</item>
+        <item>Nuts are a great source of iron and will help you to easily boost the iron levels in your body. It helps you immensely to gain iron levels in your body even when you are on the move. • Pistachio nuts are the best source of iron as it contains 15 mg of iron in 100 grams of nuts. • Take a handful of pistachio and apricot nuts everyday as a mid breakfast snack or mid afternoon snack everyday to increase iron levels in the body.</item>
+        <item>Fish will also help in preventing anemia as it contains iron. Some of the popular fatty fishes like salmon, tuna as well as sea foods like mussels and oysters are rich in iron. It is said that pacific oysters contain 7.2 mg of iron per 100 gram servings.</item>
+        <item>Honey is very good for the entire body. It contains a good amount of iron. You will get about 0.42 mg of iron in 100 grams of honey. Moreover, honey also contains copper and magnesium that will help in increasing the hemoglobin in your body.</item>
+        <item>Peaches, raisins and prunes are found to be a rich source of iron. In fact, dried peaches contain 6 mg of iron per 100 grams</item>
+        <item>Apple and dates are also known to help in boosting iron levels in the body.</item>
+    </string-array>
+    <string-array name="healthy_heart_tips">
+        <item>Avoid smoking Smoking reduces life expectancy by 15-25 years. If you are a smoker, you are twice more likely to have a heart attack than a non-smoker. The moment you stop smoking, the risk of heart attack begins to reduce.</item>
+        <item>Cut down on salt-Too much salt can cause high blood pressure, which increases the risk of developing coronary heart disease.</item>
+        <item>Watch your diet -Try to have a balanced diet. Eat fresh fruits and vegetables, starch foods such as wholegrain bread and rice.</item>
+        <item>Monitor your alcohol-Too much alcohol can damage the heart muscle, increase blood pressure and also lead to weight gain. Avoid intake of alcohol or at least limit it to one to two units a day, gradually decreasing the consumption.</item>
+        <item>Get active-At least aim for 30 minutes of moderate exercise a day. Keeping yourself fit not only benefits the heart but also improves mental health and well-being.</item>
+        <item>Monitor your BP, blood sugar and cholesterol levels-Routine medical check-ups will ring an alarm, if you need medical help.</item>
+        <item>Manage your waist-Cholesterol deposition in blood vessels begins in the first decade of life. Carrying a lot of extra weight as fat can greatly affect your health. Make small but healthy changes in your diet.</item>
+        <item>Manage your stress level-If you find things are getting on top of you, you may fail to eat properly, smoke and drink too much. This may increase your risk of a heart attack. Practice yoga/meditation. Take a vacation</item>
+        <item>Check your family history-If a close relative is at risk of developing coronary heart disease from smoking, high BP, high cholesterol, lack of physical activity, obesity and diabetes, then you could be at risk too.</item>
+        <item>Laughter is the best therapy-Laughter anytime will work wonders for you. It is an instant way to unleash the pressure and it makes you feel light.</item>
+        <item>Eat fish at least twice a week.</item>
+        <item>Limit how much saturated fat, trans fat, and cholesterol you eat. Only 30% of your daily calories should come from fat, with very little of that from saturated fats.</item>
+        <item>Select fat-free, 1% fat, and low-fat dairy products.</item>
+        <item>Cut back on foods containing partially hydrogenated vegetable oils to reduce trans fat in your diet.</item>
+        <item>Keeping your blood pressure, blood sugar, cholesterol, and triglycerides in check are important for good heart health</item>
+        <item>Rich, dark chocolate not only tastes delicious, the flavonoids it contains can help stave off heart disease</item>
+        <item>Vacuuming or mopping the floors may not be as invigorating as a Body Slam or Zumba class, but these activities and other household chores do burn calories. Put your favorite music on, and put some pep in your weekly chores.</item>
+        <item>Almonds, walnuts, pecans, and other tree nuts deliver a powerful punch for lowering your risk of cardiovascular and coronary heart disease.</item>
+        <item>"The first meal of the day is one you shouldn't skip. There is an abundance of good-for-you benefits to eating a healthy breakfast. What’s a healthy breakfast exactly? Whole grains (ex. rolls, cereals, etc.), low-fat protein (ex. hard-boiled egg, turkey bacon), low-fat dairy (ex. skim milk, low-fat yogurt, or cheese), and fruits and vegetables"</item>
+        <item>Aerobic activities may be the star players in fitness for a healthy heart, but strength training needs to be part of the team. Its effect on weight control is awesome—more muscle mass means burning more calories</item>
+    </string-array>
+    <string-array name="tips_fot_it_professionals">
+        <item>Drink water - Drink plenty of water. It helps reduce puffiness. When a person is dehydrated, especially in an air-conditioned office the body starts storing water as a defence mechanism. This adds to puffiness around the eyes.</item>
+        <item>Splash water on your face - During breaks, splash water on your face with eyes open. This has an overall relaxing effect and helps you feel refreshed</item>
+        <item>Use tea bags-Keep two used tea bags in the refrigerator before you leave for work. Once you are home, place the tea bags on your eyes for a few minutes as you relax. This not only soothes tired eyes, but also reduces puffiness.</item>
+        <item>Keep the screen brightness the same or brighter than the brightness of other objects in the room</item>
+        <item>After every 20 minutes of looking into the computer screen, turn your head and try to look at any object placed at least 20 feet away. This changes the focal length of your eye, a must-do for the tired eye.</item>
+        <item>Try and blink your eyes for 20 times in succession, to moist it.</item>
+        <item>Time permitting of course, one should walk 20 paces after every 20 minutes of sitting in one particular posture.Helps blood circulation for the entire body.</item>
+        <item>Make sure you move your hands, legs, back, and neck every 10 minutes throughout the day. Get up and take short walks from your workstation periodically.</item>
+        <item>Maintain a good working posture:Hands, wrists and forearms are straight, in-line and roughly parallel to the floor.</item>
+        <item>Maintain a good working posture:Thighs and hips are supported by a well-padded seat and generally parallel to the floor.</item>
+        <item>Adjust your position at a safe distance from where you can clearly view the elements on the monitor and read the text without slipping to awkward postures. The preferred distance between the eye and monitor is in the range of 20-40 inches (50-100 cm).</item>
+        <item>In addition to taking regular short walks outside or taking a daily multivitamin, you can get vitamin D through your diet. For example, eating fortified cereals and fatty fish like salmon and tuna can help keep your vitamin D level normal.</item>
+        <item>Regularly wiping your keyboard and other desk surfaces with an antibacterial wipe will help prevent bacterial infections. If you spend a lot of time working at other peoples’ machines, keep a bottle of hand sanitizer around. If you tend to eat lunch or snacks while working, be sure to keep your hands clean.</item>
+        <item>For neck pain, adjust your chair and monitor so that the screen is at eye level and your neck is not tilted while you work.</item>
+        <item>Have a pet at home,which will help you to reduce your stress.</item>
+        <item>Palming of eyes - Rub palms of both hands and apply on eyes it gives rest and relaxation to eyes</item>
+        <item>Deep Breathing – (Pranayama) They release emotional stress and calm the mind.</item>
+        <item>Do not sit in a posture for more than an hour. Lean forward, cross your arms in front of you, hold your knees, and push your knees apart, keeping your hands on them. You’ll feel this stretch across your shoulder blades. Stretch your fingers, arms, hands, and torso at regular intervals.</item>
+    </string-array>
+    <string-array name="tips_for_diabetes_patients">
+        <item>Cook with olive oil instead of butter or vegetable oil.</item>
+        <item>Trim any visible fat off of meat before cooking and remove the skin before cooking chicken and turkey.</item>
+        <item>Instead of chips or crackers, try snacking on nuts or seeds. Add them to your morning cereal or have a little handful for a filling snack. Nut butters are also very satisfying and full of healthy fats.</item>
+        <item>Instead of frying, choose to grill, broil, bake, or stir-fry.</item>
+        <item>Serve fish 2 or 3 times week instead of red meat.</item>
+        <item>Add avocado to your sandwiches instead of cheese. This will keep the creamy texture, but improve the health factor.</item>
+        <item>Rather than using heavy cream, make your soups creamy by adding low-fat milk thickened with flour, pureed potatoes, or reduced-fat sour cream.</item>
+        <item>Regular exercise can help your body respond to insulin and is known to be effective in managing blood glucose. Exercise can lower blood glucose and possibly reduce the amount of medication you need to treat diabetes, or even eliminate the need for medication</item>
+        <item>You must avoid sugar at all costs.</item>
+        <item>Studies have shown that eating too much protein, especially animal protein, may actually cause insulin resistance, a key factor in diabetes</item>
+        <item>The serving size and the type of carbohydrates you eat are especially important. Focus on whole grain carbs since they are a good source of fiber and they are digested slowly, keeping blood sugar levels more even.</item>
+        <item>Fire foods have a high GI, and are low in fiber and protein. They include “white foods” (white rice, white pasta, white bread, potatoes, most baked goods), sweets, chips, and many processed foods. They should be limited in your diet.</item>
+        <item>Water foods are free foods—meaning you can eat as many as you like. They include all vegetables and most types of fruit (fruit juice, dried fruit, and canned fruit packed in syrup spike blood sugar quickly and are not considered water foods).</item>
+        <item>Exercise can improve your circulation, especially in your arms and legs, where people with diabetes can have problems</item>
+        <item>"If you use insulin, exercise after eating, not before. Test your blood sugar before, during and after exercising. Don't exercise when your blood sugar is more than 240."</item>
+        <item>Coal foods have a low GI and are high in fiber and protein. They include nuts and seeds, lean meats, seafood, whole grains, and beans. They also include “white food” replacements such as brown rice, whole-wheat bread, and whole-wheat pasta.</item>
+        <item>Eat a lot of non-starchy vegetables, beans, and fruits such as apples, pears, peaches, and berries. Even tropical fruits like bananas, mangoes, and papayas tend to have a lower glycemic index than typical desserts.</item>
+        <item>Eat grains in the least-processed state possible: “unbroken,” such as whole-kernel bread, brown rice, and whole barley, millet, and wheat berries; or traditionally processed, such as stone-ground bread, steel-cut oats, and natural granola or muesli breakfast cereals.</item>
+        <item>Limit white potatoes and refined grain products such as white breads and white pasta to small side dishes.</item>
+        <item>Reduce how much soft drinks, soda and juice you drink</item>
+        <item>Don’t skip breakfast. Start your day off with a good breakfast. Eating breakfast every day will help you have energy as well as steady blood sugar levels.</item>
+        <item>Eat regular small meals—up to 6 per day. People tend to eat larger portions when they are overly hungry, so eating regularly will help you keep your portions in check.</item>
+    </string-array>
+    <string-array name="berry_peachy_smoothy">
+        <item>This recipie is high in calcium as well as delicious.Very good for children</item>
+        <item>Ingredients: 1 cup diced peaches-fresh or frozen,1/2 cup raspberries fresh or frozen,juice of 1 large orange about 2/3 cup,1/2 cup low-fat vanilla yogurt,2 teaspoons cold milled flax seed,1/4 cup crushed ice</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Combine all the ingredients in a blender or small food processor. Process until the mixture is smooth.</item>
+        <item>Add additional juice or ice until desired consistency is reached. Garnish with a mint leaf and a raspberry for a pretty presentation</item>
+        <item>The recipie serves for 2.</item>
+    </string-array>
+    <string-array name="cheese_macaroni">
+        <item>This creamy mac and cheese can be made ultra fast and is packed with flavor. If using, the lemon zest gives it a great citrus kick too.</item>
+        <item>Ingredients:1 tbsp salted butter,1 1/2 tbsp all-purpose flour,1 cup nonfat milk,1 cup shredded sharp Cheddar cheese,zest of 1/2 lemon (OPTIONAL),kosher salt and black pepper,1/2 lb pasta, cooked,1 14 oz can diced tomatoes,</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Melt the butter over medium heat in a medium saucepan. Whisk in the flour and cook until it forms a smooth paste (about 1 minute).</item>
+        <item>Next, whisk in the milk. Cook for 3-4 minutes, whisking constantly, until thickened.</item>
+        <item>Whisk in the cheddar cheese and lemon zest (if using). Remove from heat and season with salt and pepper.</item>
+        <item>In a large bowl, combine the pasta and cheddar sauce. Stir well. Add the tomatoes in and stir well.</item>
+        <item>Serve immediately.</item>
+    </string-array>
+    <string-array name="pork_with_romano_cheese">
+        <item>Flattening the tenderloin ensures quick cooking and, thus, juicy meat.</item>
+        <item>Ingredients : 2 small pork tenderloins (each about 14 oz/400 g),2 tbsp (30 mL) olive oil,2 tbsp (30 mL) dry white wine,2 cloves garlic, pressed or pounded into paste,1 tsp (5 mL), fennel seeds, crushed,3/4 tsp (4 mL) salt,1/2 tsp (2 mL) finely grated lemon rind,1/2 tsp (2 mL) black pepper,1/2 tsp (2 mL) hot pepper flakes,8 sage leaves, finely sliced in chiffonade, or 1 tsp/5 mL crumbled dried sage 1/2 cup (125 mL) grated Romano cheese,Lemon wedges</item>
+        <item>Recipie Method :</item>
+        <item>Remove and discard any connective tissue from tenderloins. Leaving about 1/2 inch/1 cm attached on 1 long edge of each, slice horizontally; open like book</item>
+        <item>Between sheets of waxed paper or plastic wrap, pound each to even 1/3-inch/8 mm thickness; halve crosswise.</item>
+        <item>Whisk together oil, wine, garlic, fennel seeds, salt, lemon rind, pepper, hot pepper and sage; spread evenly all over tenderloin pieces.</item>
+        <item>Marinate at room temperature for at least 30 minutes or refrigerate for up to 8 hours.</item>
+        <item>Grill over high heat, turning once, until just barely pink in centre, 2 to 3 minutes per side, sprinkling cheese evenly on top during the last minute. Serve with lemon wedges on side</item>
+        <item>Makes 4 servings.</item>
+    </string-array>
+    <string-array name="salmon_choucroute">
+        <item>A full-flavoured fish such as salmon pairs well with sauerkraut. This choucroute (the French version of sauerkraut) is light yet flavourful</item>
+        <item>Ingredients :2 tbsp (30 mL) butter,1 onion thinly sliced,3 thin slices gingerroot,1 bay leaf,12 black peppercorns,2 whole cloves,3 cups (750 mL) sauerkraut, drained,1/2 cup (125 mL) dry white wine or dry white vermouth,1/4 tsp (1 mL) dried thyme,1-1/2 lb (750 g) yellow-fleshed potatoes, peeled and quartered,1/4 lb (250 g) carrots, peeled and cut in large chunks,4 skin-on salmon fillets (each 5 to 6 oz/150 to 175 g),Pinch salt,2 tbsp (30 mL) chopped parsley</item>
+        <item>Recipie Method :</item>
+        <item>In Dutch oven, melt butter over medium heat; add onion, ginger, bay leaf, peppercorns and cloves and fry, stirring often, until onion is softened, 4 to 5 minutes. Add sauerkraut, wine and thyme; boil until liquid is reduced to about 1 tbsp/15 mL</item>
+        <item>Add 1/2 cup/125 mL water; cook until evaporated, about 10 minutes</item>
+        <item>Add potatoes, carrots and 3/4 cup/175 mL water and bring to boil; reduce heat to medium-low, cover and simmer until vegetables are tender, 20 to 30 minutes, adding a little water, if necessary, to moisten</item>
+        <item>Sprinkle salmon fillets with salt; add, skin side down, to pot. Cover and steam until fish flakes easily, 8 to 10 minutes. Remove salmon; peel off and discard skin</item>
+        <item>Remove whole spices, if desired, and bay leaf. Spoon choucroute onto serving platter; top with salmon and sprinkle with parsley</item>
+        <item>Makes 4 servings.</item>
+    </string-array>
+    <string-array name="tzatziki">
+        <item>"Tzatziki is a simple dip that goes well with Greek dishes. You can use drained full-fat or 2% yogurt, or homemade Drained Goat's Milk Yogurt for an even more authentic and tangy flavour. Serve this dip with warmed pita or garlic bread or Deep-Fried Calamari."</item>
+        <item>"Ingredients :1 piece (6 inches/15 cm) English cucumber,1/2 tsp (2 mL) salt,1 cup (250 mL) drained goat's milk yogurt,2 tbsp (30 mL) finely chopped fresh mint,2 cloves garlic, minced,1 tbsp (15 mL) extra-virgin olive oil"</item>
+        <item>Recipie Method:</item>
+        <item>Grate cucumber coarsely into bowl; sprinkle with salt and let stand for 30 minutes.</item>
+        <item>Using hands, squeeze cucumber, in batches, to remove as much moisture as possible.</item>
+        <item>Stir yogurt, mint and garlic into cucumber; scrape into serving bowl. (Make-ahead: Cover and refrigerate for up to 2 days.) Drizzle oil over top. Makes about 1-½ cups (375 mL).</item>
+    </string-array>
+    <string-array name="mango_lassi">
+        <item>"Smooth, healthy and yummy drink! It's a wonderful make quickly and be on your way breakfast -- it's hearty so it'll hold you over until lunch!"</item>
+        <item>Ingredients: 4 Cups Frozen Chopped Mango,2 Cups Plain Yogart,1 Cup of Water,1/2 Cup Honey,2 Teaspoons Ground Cardamon,1 Pinch of Freshly Grated Nutmeg,1 Fresh Cinnamon Stick</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Place the frozen mangos, yogurt, water, honey and cardamom into a blender, and puree until smooth</item>
+        <item>Serve the lassi in tall glasses and top with the freshly grated nutmeg.</item>
+        <item>Add the fresh cinnamon stick right before serving -- use it to stir the lassi.</item>
+    </string-array>
+    <string-array name="vanilla_berry_trifle">
+        <item>"A reasonably strong treat that's easy to make and great for parties"</item>
+        <item>Ingredients:1 Lg box Vanilla pudding Mix,1 Bottle Irish Cream,1 Bottle Kahlua,1 Angel Food Cake,2+ lbs Assorted Berries</item>
+        <item>RECIPIE METHOD :</item>
+        <item>"Prepare the pudding mix the night before your party, or the morning of if you have to. You need at least 6 hours for it to set. To prep, add all the normal ingredients, only instead of half the milk, add Irish cream. You can't replace all the milk or it won't set at all. If you need this super fast don't add the Irish cream to the pudding at all, either have it on the side, or add it to the cake"</item>
+        <item>Slice the angel food cake in to slices about as thick as your thumb. Put your first layer of angel cake in your trifle dish or large bowl, make sure the cake is pushed up against the side as much as possible if you want it to look pretty.</item>
+        <item>Pour about 1/8 to 1/4 of a cup of Kahlua on the first layer of cake.</item>
+        <item>"Add just enough pudding that you can't see the cake anymore, once again make sure it's up against the side. You can use a spoon to spread it out.. or whatever is handy"</item>
+        <item>"For the inner berry layers it is important that they are squished on the side so as to be seen but otherwise, pour about half of the berries in whatever way they fall, and just try to make sure they're evenly spread."</item>
+        <item>Repeat steps 2-4</item>
+        <item>Put the rest of the berries on top in any design you choose</item>
+    </string-array>
+    <string-array name="nutrition_tips_for_skin">
+        <item>Low-Fat Dairy Products. One the most important components of skin health is vitamin A. One of the best places to get it is low-fat dairy products</item>
+        <item>Blackberries, blueberries, strawberries, and plums. The common link between these four foods is their high antioxidant content.</item>
+        <item>Salmon, Walnuts, Canola Oil, and Flax Seed. These seemingly unrelated foods all deliver essential fatty acids, and thus are key foods for healthy skin.</item>
+        <item>Whole-wheat bread, muffins, and cereals; turkey, tuna and brazil nuts. The mineral selenium connects all these foods for healthy skin.</item>
+        <item>"Green Tea. This beverage deserves a category all its own in any article about foods for healthy skin. The skin-health properties in this beneficial drink just can't be beat."</item>
+        <item>Water. While the exact amount you should drink each day varies, no one disputes the role good hydration plays in keeping skin looking healthy and even young.</item>
+        <item>Healthy Oils. These contain more than essential fatty acids. Eating good-quality oils helps keep skin lubricated and keeps it looking and feeling healthier overall</item>
+        <item>Carrots -Think of them as orange wonder wands--good for eyeballs, good for clearing up breakouts. Credit vitamin A</item>
+        <item>"Dark chocolate -It's medicine — so of course you need it! Flavonols, the antioxidants in dark chocolate, reduce roughness in the skin and protect against sun damage."</item>
+        <item>Spinach -You could probably build a fortress against the Big C with these leaves.</item>
+        <item>"Tomatoes -Sure, they're swell on salads, but cook them down and these plump little beauties can help save your skin."</item>
+        <item>Nettles get a bad rep for being a stingy garden nuisance, but taken in tea, capsule or soup form, you might be surprised to discover they have an anti-inflammatory effect, helping to calm the skin and improve conditions like eczema and acne.</item>
+        <item>Regular consumption of these woody, fibrous vegetables has been linked to healthier skin, and in particular, improved skin luminosity.</item>
+        <item>Tiny but mighty, each stringy sprout is packed with valuable, skin-clearing nutrients such as calcium, folic acid, magnesium, manganese, phosphorus, potassium, silicon, sodium and zinc among others, as well as supplying a full range of vitamins A, B complex, C, E and K.</item>
+        <item>Beetroot-They might stain your fingers, but the skin-clearing properties of beetroots are well worth the effort. The purple roots are particularly high in vitamin A, as well as potassium, sodium, calcium, magnesium, and vitamin E, which is essential for epidermal health and healing.</item>
+        <item>It is thought that red grapes – and their seeds – contain powerful natural chemicals and antioxidants that have been shown to treat inflammatory skin conditions such as psoriasis and eczema</item>
+        <item>Acai-These tiny purple fruits are one of the most potent forms of antioxidants in the world, and as such, are fabulous for skin health, as they help to eliminate toxins and free radicals in the body.</item>
+        <item>Next time you make a salad, try substituting a few lettuce leaves for some peppery watercress. The leafy greens are jammed full of antioxidants as well as minerals manganese, carotene and potassium. This makes watercress a powerful cleansing agent, nourishing the skin while helping to flush out toxins and excess fluids in the process.</item>
+        <item>Forget cabbage – kale contains a full range of vitamins A, B complex, C, E and K, as well as potent levels of manganese, calcium, potassium, iron, magnesium, protein, folate and phosphorus</item>
+        <item>This slippery green fruit is widely known to be a great source of vitamin E, which boosts the skin’s vitality and luminosity. However, it also possesses good quantities of vitamin C, which can be used to reduce skin inflammation, while avocado oil is thought to stimulate the production of collagen in the skin, which improves its tone and texture.</item>
+    </string-array>
+    <string-array name="nutrition_tips_for_hair">
+        <item>"Dark green vegetables are top among foods for healthy hair as they are an excellent source of vitamins A and C, which your body needs to produce sebum. Sebum is an oily secretion by hair follicles, which is the body's natural hair conditioner"</item>
+        <item>Nuts like Almonds and walnut have Protein, Iron and Vitamin E, all of which are vital for hair growth. Vitamin E strengthens the hair roots and prevents hair fall.</item>
+        <item>Chicken too contains high amounts of good quality protein and iron, which like in the case of nuts are important for hair growth</item>
+        <item>Calcium is an essential mineral for hair growth, and hence milk too joins the group of foods for healthy hair.</item>
+        <item>Another great source of protein, eggs have a positive effect on hair growth and eating it should be a key tip for hair care. Eggs also contain biotin and vitamin B-12 both of which are good nutrients for beauty in general</item>
+        <item>Foods for healthy hair must necessarily include food that contains Omega 3 fatty acids. They are needed for the nourishment of the scalp, which is a foundation for hair care and hair growth. Several nuts and some fruit like Avocado too fall into this basket of food. Flax seed and olive oil are two other great sources of Omega 3 fatty acids.</item>
+        <item>"Besides being rich in protein and vitamin D (both are key to strong hair) the omega-3 fatty acids found in this tasty cold-water fish are the true superstar. Your body can't make those fatty acids, which your body needs to grow hair"</item>
+        <item>Oysters are rich in zinc, a lack of which can lead to hair loss (even in your eyelashes), as well as a dry, flaky scalp.</item>
+        <item>Sweet potatoes are a great source of the antioxidant beta carotene, which your body turns into vitamin A. Carrots, cantaloupe, mangoes, pumpkin, and apricots are all good sources of beta carotene.</item>
+        <item>The iron, beta carotene, folate, and vitamin C in spinach help keep hair follicles healthy and scalp oils circulating.Try similarly nutrient-rich dark, leafy vegetables such as broccoli, kale, and Swiss chard.</item>
+        <item>Lentils-Tiny but mighty, these legumes are teeming with protein, iron, zinc, and biotin, says Fishman, making it a great staple for vegetarian, vegans, and meat eaters.</item>
+        <item>"Cruise the dairy aisle for low-fat options such as Greek yogurt, which is high in hair-friendly protein, vitamin B5 (pantothenic acid -- an ingredient you'll often see on hair care product labels), and vitamin D."</item>
+        <item>Beef has all the possible nutrients that your hair needs for its up keep. The presence of protein, vitamin B, iron, zinc and other vital minerals will help to maintain the health of your scalp and hair.</item>
+        <item>Including prunes in your diet can help to improve your hair texture as well as proper bowl movements. As it is rich in iron, it helps prevent hair loss, dull hair, thin hair, and discoloration of your hair.</item>
+        <item>Green tea-The presence of polyphenols helps in keeping your scalp healthy. If your scalp is healthy, then the overall health of your hair improves, as it helps to keep your hair shiny and dandruff free</item>
+        <item>Carrots not only help to sharpen your vision but also to maintain the health of your hair due to the presence of vitamin A. Existence of vitamin A helps in formation of sebum oil in the scalp</item>
+        <item>Brown rice has some protein, vitamins and fiber. Besides giving you healthy hair and scalp, it also keeps you from over eating as it keeps you full for a longer time.</item>
+        <item>Cottage cheese-Besides it being low-fat, cottage cheese is also rich in calcium and protein</item>
+        <item>Green peas are a well balanced food available for healthy hair. They are loaded with all types of minerals and vitamins like zinc, iron and vitamin B, which help in maintaining the health of your hair and scalp.</item>
+        <item>Include all colors of bell peppers in your diet as they are a great source of vitamin C. Vitamin C guarantees efficient transition of oxygen to hair follicles.</item>
+        <item>Whole grains are rich in nutrients and fibers. This promotes hair growth and makes it a super food for healthy hair</item>
+        <item>Blueberries-This super fruit is loaded with vitamin C, which helps in oxygen circulation to the scalp and hair follicles, and prevents hair breakage.</item>
+        <item>Shrimps are not only delicious but also a great doctor for your dull hair and scalp. Shrimps are loaded with vitamin B12, iron and zinc, all of which prevent hair loss and promote growth and maintenance.</item>
+    </string-array>
+    <string-array name="nutrition_tips_for_men">
+        <item>At least 2 cups of fruits and 2 ½ cups of vegetables each day. At least once a week, eat tomatoes or something made from tomatoes like pasta sauce. The antioxidant lycopene found in tomato products is good for prostate health.</item>
+        <item>Whole grains! Eat at least half of all grains as whole grains each day. Replace refined grains with whole-grain bread, cereal, pasta, brown rice or oats</item>
+        <item>Eat At least two to three servings of fish per week</item>
+        <item>At least 38 grams of fiber a day is required for younger men; 30 grams of fiber a day for men older than 50</item>
+        <item>Since men have more muscle and are typically bigger than women, they require more calories throughout the day. Moderately active males should eat 2,000 to 2,800 calories per day. Your energy needs depend on your height, weight and activity level.</item>
+        <item>For energy, weight management and disease prevention, men should eat whole grains like whole-grain bread, pasta, cereal, brown rice, oats, barley; fruits and vegetables. These foods are high in fiber, help manage hunger and fullness and help fend off certain cancers, such as prostate and colon.</item>
+        <item>Eat red meat less frequently. Instead, focus on more fruits, vegetables and low-fat dairy products. This will not only help you keep weight off, but it can help keep blood pressure down</item>
+        <item>More than women, men gain weight around the middle; that’s due to the male hormone testosterone. If your waist measures more than 40 inches around, it’s time to shed some pounds</item>
+        <item>More men die from heart disease than any other disease.You can control your risk of heart disease by making smart food choices. Choose foods like whole grains, fruits, vegetables, lean protein, low-fat or fat-free dairy products and heart-healthy fats</item>
+        <item>Omega-3 fatty-acids, a type of unsaturated fat, have been found to be helpful in preventing sudden death from heart attacks. Fatty fish, like salmon, mackerel, tuna and herring, contain two types of omega-3 fatty acids, docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA). The recommended intake for omega-3 fatty acids is 500 milligrams per day. That’s about two 6-ounce servings of fatty fish per week.</item>
+        <item>Carbohydrates are fuel for your engine (i.e., your muscles). And the harder your engine is working the more carbs you need to keep going.good choices are A peanut butter and banana or PBJ sandwich,Greek yogurt with berries,Oatmeal with low fat milk and fruit,Apple and peanut or almond butter</item>
+        <item>As soon as possible post workout, get carbs and protein immediately into your body. This gives your muscles the ability to replenish the glycogen they just lost through training and helps your tired muscles rebuild and repair with the available protein and amino acids.</item>
+    </string-array>
+    <string-array name="health_tips_for_men">
+        <item>Eliminate White Foods from Your Diet. White flour, white sugar and other processed foods are not only devoid of vitamins and minerals, but they’ve also been stripped of their natural fibre. As a result, they rapidly drive up blood sugar levels, which contributes to weight gain, diabetes and a host of other health problems.</item>
+        <item>Stay Away from Dangerous Trans Fats. While it’s important to reduce your overall fat intake, it’s even more important to watch the types of fat you eat. Deep-fried foods and anything made with hydrogenated oils (margarine, peanut butter, shortening, store-bought pastries and cookies) contain trans fats that raise your risk of heart disease. Eat only healthful fats, such as olive oil and the omega-3 oils found in salmon and other cold-water fish, which actually protect against heart disease.</item>
+        <item>Include Weight Training in Your Exercise Routine. Aerobic exercise is great for cardiovascular conditioning, but it’s vastly inferior to weight training in attacking the flab factor. Recent research has shown that as little as once-weekly resistance exercise can improve muscle strength. Even the busiest or laziest among us can find the time and energy for that. Join a gym, consult a personal trainer or ask an experienced friend to show you the ropes.</item>
+        <item>Maintain Your Optimal Weight. Current statistics suggest that half of us are losing the battle of the bulge, but maintaining a healthy weight is one of the best things you can do for yourself. You’ll look better, feel better and reduce your risk of heart disease, diabetes, hypertension and other major killers</item>
+        <item>Force yourself into an upright sitting position to see behind you, which is good for your posture and your aching back.</item>
+        <item>Reduce Your Risk of Prostate Cancer. Experts estimate that 80 per cent of all cancers can be prevented by making healthy lifestyle choices. Avoid saturated and trans fats, which may fuel prostate cancer growth, and incorporate protective foods, such as soy, green tea and tomatoes, into your diet</item>
+        <item>Maintain Close Relationships. Another thing women seem to do better than men is maintain close relationships. Make a point to strengthen ties with your family and friends. Volunteer work, religious ties, even pets–anything that keeps you involved with others–reduces stress and enhances health.</item>
+        <item>Regular exercise is one of the most important things you can do for your health. Find out how much physical activity you need</item>
+        <item>Be smoke-free. Smoking is linked to many of the leading causes of death, including cancer, lung disease, and stroke. If you smoke, quit today! Also, avoid second hand smoke.</item>
+        <item>Take a Potent Daily Multivitamin and Mineral Supplement. Although there is no substitute for a good diet, I am convinced that for optimal nutrition, you need to take a high-potency multivitamin and mineral supplement.</item>
+        <item>Get routine exams and screenings. Ask your doctor how often you need to be examined. Ask about screening tests for certain diseases and conditions, including high blood pressure, high cholesterol, diabetes, sexually transmitted infections, and certain types of cancer.</item>
+        <item>"Take any medications you need. Thousands of deaths could be prevented each year by taking medications properly. Make sure to follow your doctor's instructions for all medications, including those that help control conditions like high blood pressure and diabetes."</item>
+        <item>Avoid heavy drinking. Heavy drinking can lead to many problems, including high blood pressure, various cancers, psychological problems, and accidents. For men 65 and younger, drinking in moderation means no more than two drinks per day. Men older than 65 should have no more than one drink a day.</item>
+        <item>Get enough sleep. Not getting enough sleep can affect your mood and your health. Try certain changes that can improve your sleep. See your doctor if you think you have a serious problem.</item>
+        <item>Safety means many things, like wearing seatbelts and helmets, having working smoke detectors, and following safety rules at work. It also means using condoms, washing your hands, taking care of your teeth, and wearing sunscreen.</item>
+        <item>Try Tea: Tea is always good. Being a heavy tea-drinker can never have nagative effects. The protective effects of tea increase with the amount drunk, and people who are regular tea drinkers are the least likely to die of a heart attack.</item>
+        <item>It is never advisable to sleep over a backache. Research shows that people who take to their beds with backache take the longest time to recover. Those who avoid bed-rest and continue normal activities as much as possible have less pain.</item>
+        <item>Water flushes out the toxins. A good amount of liquid intake helps the entire system and of course is best for curing skin ailments. The average man needs 2.9 litres, or about 12 cups of water, a day</item>
+        <item>Stop bad breath: You can prevent that unfriendly odour. It is caused by oral bacteria. A toungue scraper may help, but dental care may be needed. Mouth rinses are effective, as are flossing and brushing teeth twice a day.</item>
+        <item>Slow down on the junk: Research shows that eating too many high-fat-food contributes to high blood-cholestrol levels, which can cause hardening of the arteries, coronory heart disease and stroke.</item>
+        <item>"Crash diets don't work: The so called new-age diets do not add to health prospects. There is no easy way to lose weight so the best way is to do it over a period of time."</item>
+    </string-array>
+    <string-array name="winter_health_tips">
+        <item>Wash your hands regularly to keep infections from spreading. Even though this is health tip for all seasons, it’s doubly true during winters when infections and viruses seem to be at their worst.</item>
+        <item>When coughing or sneezing, use a tissue to cover your nose and mouth, make sure you dispose of the tissue afterwards in the nearest waste receptacle; and wash your hands</item>
+        <item>Your skin probably is the worst affected during winters. Lack of moisture in the air and in your body leaves it dry and flaky. Show it some love and affection, use a deep nourishing cream to ensure your skin stays healthy</item>
+        <item>Winter is notoriously associated with a rise in heart attacks. The reason for this is still much debated, but the fact remains. So if you are a heart patient, watch what you eat, exercise moderately and head to a hospital if you feel some discomfort.</item>
+        <item>Make exercise as painless as possible. Think of ways to weave in a little more of that physical activity you naturally get in warm weather. Instead of getting coffee with a friend, take a walk together.</item>
+        <item>Be a germophobe: It pays to be obsessive about keeping your hands clean, since they’re a major way germs get into our bodies. One study showed a 45 percent decrease in respiratory illness among people who upped their handwashing to at least five times a day. A few easy and low-effort strategies: Carry your own pen, don’t share your cell phone, keep antibacterial spray or gel in your purse and use it after you’ve come in contact with lots of surfaces.</item>
+        <item>Getting plenty of water may help prevent viruses and bacteria from taking hold in your body once you’ve been exposed to them. Staying hydrated also helps your system distribute valuable nutrients while flushing out germs and toxins.</item>
+        <item>Being cold, and especially shivering, depresses the immune system because your body’s resources go toward raising your temperature rather than warding off germs.Invest in gloves, warm shoes and a hat, and if it’s very chilly, think about wearing thin gloves under a pair of mittens. Also, to avoid overheating and sweating—which can ultimately chill your body—dress in layers. Fleece is an especially good insulator; use moisture-wicking synthetic fabrics (such as nylon and polyester) if you’re exercising.</item>
+        <item>Work with it. Serve up some complex carbohydrates, omega-3s and chocolate.Stick to the complex variety, like whole grains or beans.</item>
+        <item>Scientists are discovering that one of the reasons we keep eating long after we’ve met our calorie requirements is that we’re still craving nutrients. Help make sure you’re getting what you need by digging into the amazing fruits and vegetables in season now, like squash and Florida oranges.</item>
+        <item>"Enjoy the Benefits of Yogurt-It's creamy smooth, packed with flavor and just may be the wonder food you've been craving. Research suggests that that humble carton of yogurt may:Help prevent osteoporosis,Reduce your risk of high blood pressure,Aid gastrointestinal conditions like inflammatory bowel disease and constipation"</item>
+        <item>"Know Your Triggers: Certain foods feed heartburn's flame. Typical triggers include foods full of sugar and fat -- think pumpkin pie slathered with whipped cream. Instead reach for complex carbs like veggies and whole-wheat breads"</item>
+        <item>The bad weather, the seasonal pace, work: If this time of year has your stress meter spiking, it may be time to close your eyes, breathe ... and get a little repetitive.And meditation can do more than soothe away stress</item>
+        <item>Drinking six to eight glasses a day of water or herbal tea can keep your digestive system healthy, your weight down and your energy up.</item>
+        <item>Sleeping is one of the most effective ways to refuel after a stressful day. Make sure to sleep in a dark room to ensure your body properly secretes the hormone melatonin, which is believed to help repair the immune system.</item>
+        <item>The sulfur-containing compounds in garlic help increase the potency of two important cells of the immune system, T-lymphocytes and macrophages, which in turn help battle colds. Eat garlic raw or cooked for an immune-system boost.</item>
+        <item>Eat zinc-rich foods-Zinc helps prevent a weakened immune system. Get adequate amounts by eating oysters, liver, lean beef, pork, turkey, lamb, lentils, pumpkin and sesame seeds, garbanzo beans and yogurt.</item>
+        <item>"Don't succumb to inactivity this winter -- hit the yoga studio, run on the treadmill or suit up and head outdoors. A brisk walk burns calories, gets the blood flowing and increases energy."</item>
+        <item>Enjoy a wide variety of nutritious foods from the five major food groups and aim to include 2 serves of fruit and 5 serves of vegetable in your diet each day.</item>
+    </string-array>
+    <string-array name="yoga_tips">
+        <item>"Yoga's primary goal is peace of mind - a fit body, increased flexibility, and improved health are just fortunate side effects"</item>
+        <item>Approach yoga with a sense of joy and fun. Smile at your teacher and fellow students; they could probably use a boost of good energy</item>
+        <item>Learning anything new takes time. Can you imagine trying to learn to play the violin in just a few lessons? The same applies to yoga.</item>
+        <item>Pay attention as you inhale and exhale. Being aware of the breath is a very helpful and an essential part of yoga practice; it is referred to as pranayama.</item>
+        <item>However tempting may be the idea of sleeping in, try not to avoid your daily yoga time. It will help you keep warm and also prevent those regular aches and stiffness in joints. Start your day with a few rounds of Surya Namaskar and follow them up with some warm-up exercises.</item>
+        <item>When you practice yoga at home, it is your job to make sure that you don’t injury yourself. Keep your space clear of obstacles like furniture and children’s toys, and if possible, do your yoga in a room with hardwood floors. Soft surfaces can injury joints and thick carpet makes balancing difficult</item>
+        <item>For many, good music during yoga is one of the best parts of the practice. Consider keeping ipod speakers and your ipod in your yoga space. Begin collecting music conducive to a beautiful yoga experience or make a playlist just for your practice</item>
+        <item>The purpose of yoga was to support meditation. In your home yoga practice, do not forget to take the time after your workout to meditate and relax the mind while you are relaxing your body.</item>
+        <item>Ujjai breaths or long deep breaths help you relax and maintain the posture. You can even use the breath to stretch further. Rest in the asana and feel the stretch.</item>
+        <item>While doing yoga asanas, using specific rhythms of the breath links the breath and the body. Keeping the attention on where the stretch is happening; this links the body and mind. The body, breath, and mind come together in harmony during yoga asana. This yogic attitude helps deepen your yoga practice.</item>
+        <item>The time most suitable for Yoga is in the morning before breakfast when the mind is calm and fresh and the movements can be done with ease and vitality.</item>
+        <item>In the beginning, all movements should be practiced lightly and you must cease to go further if fatigue shows.</item>
+        <item>Yoga trainers recommend a balanced diet (sattwik). There should be an interval of 4 hours between meals.</item>
+        <item>One should avoid overeating, fasting or eating once a day. Stale or non-nutritious food, you know, is harmful.</item>
+        <item>The breathing should be long and deep. The mouth should be closed and inhale and exhale only through the nose.</item>
+        <item>Practicing the same poses every day repeatedly is a powerful way to keep consistent with your practice. This repetition offers you a clear vantage point from which to watch yourself grow and change.</item>
+        <item>Even if it’s just 15 minutes, make yourself a promise that you will do your 15 minutes.</item>
+    </string-array>
+    <string-array name="asparagus_soup">
+        <item>Ingredients :1 cup chopped asparagus,1/2 cup chopped onions,1/2 cup peeled and chopped potatoes,1 1/2 cups vegetable stock,1/2 cup low-fat milk - 99.7% fat-free,2 tsp olive oil - preferably,salt and to taste</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Heat the oil in a non-stick pan, add the onions and sauté till they turn translucent.</item>
+        <item>Add the potatoes and vegetable stock and bring to boil. Cover and cook over a slow flame till the potatoes are cooked.</item>
+        <item>Add the asparagus and cook for a few more minutes.</item>
+        <item>Cool the mixture and grind to a smooth purée in a blender.</item>
+        <item>Pour the purée back into the pan, add the milk, salt and pepper and simmer for a few minutes.</item>
+        <item>Add a little water if required to adjust the consistency of the soup.</item>
+        <item>Serve hot sprinkled with freshly ground pepper.</item>
+        <item>BENEFITS :Olive oil is rich in vitamin e (a potent antioxidant) and mono unsaturated fatty acids (mufa) that help to reduce the risk of heart diseases by lowering blood cholesterol levels.</item>
+    </string-array>
+    <string-array name="cherry_salad">
+        <item>Ingredients :2 tablespoons olive oil,4 teaspoons white wine vinegar,1 tablespoon minced shallot,1 teaspoon prepared horseradish,1 teaspoon sugar,1/8 teaspoon salt,1/8 teaspoon pepper,1/2 pound fresh sweet cherries, pitted,4 cups mixed greens- such as shredded Napa cabbage, torn romaine, and/or torn spinach,3 tablespoons slivered almonds- toasted,1/4 cup small fresh basil leaves or larger basil leaves- shredded</item>
+        <item>RECIPIE METHOD :</item>
+        <item>For dressing, in a screw-top jar combine oil, vinegar, shallot, horseradish, sugar, salt, and pepper. Cover and shake well; set aside.</item>
+        <item>Halve cherries, if desired; set aside 1/4 cup of the cherries. In a large salad bowl combine the greens and remaining cherries. Toss with dressing.</item>
+        <item>Top salad with almonds, basil, and reserved 1/4 cup cherries.</item>
+        <item>"BENEFITS :Shallots have a sweet flavor that's a cross between onion and garlic. Besides adding a bit of kick to your salad, they also provide folate, which lowers homocysteine levels, an amino acid associated with an increased risk of cardiovascular disease, and reduces the inflammation of blood vessel walls."</item>
+    </string-array>
+    <string-array name="garlic_chicken">
+        <item>Ingredients : 3 headsgarlic,2 tablespoons olive oil,1 1/2 tablespoons snipped fresh rosemary,1 teaspoon ground black pepper,1/2 teaspoon salt,1 3 - 3 1/2pound whole roasting chicken,3 mediumsweet potatoes (1 1/2 to 1 3/4 pounds), peeled and cut into 1-inch pieces,1 largesweet onion (such as Vidalia, Maui, or Walla Walla), cut into wedges</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Preheat oven to 375 degrees F. Separate the cloves of garlic (you should have about 30 cloves) and peel. Mince four of the cloves. Set aside remaining garlic cloves.</item>
+        <item>In a small bowl, combine minced garlic with 1 tablespoon of the olive oil, 1 tablespoon of the rosemary, the ground black pepper, and 1/4 teaspoon of the salt. Rub minced garlic mixture over chicken.</item>
+        <item>Place six of the garlic cloves into the cavity of the chicken. Tie legs to tail. Twist wing tips under back. Place on a rack in a shallow roasting pan. Insert oven-going meat thermometer into center of an inside thigh muscle. Do not allow thermometer tip to touch bone. Roast, uncovered, for 1 1/2 to 1 3/4 hours or until drumsticks move easily in their sockets and meat thermometer registers 180 degrees F.</item>
+        <item>Meanwhile, place sweet potatoes, onion wedges, remaining garlic cloves, 1/2 tablespoon of the rosemary, and 1/4 teaspoon of the salt in a 1392-inch baking pan. Drizzle vegetable mixture with remaining 1 tablespoon olive oil; toss to coat. Place in oven on a separate rack and roast, uncovered, for 50 to 60 minutes or until tender, stirring every 15 minutes.</item>
+        <item>Remove chicken from oven. Cover loosely with foil and let stand 15 minutes before carving. Serve chicken with vegetables. Carve chicken,discarding skin before serving.</item>
+        <item>BENEFITS :A deep, orange hue in sweet potatoes is attributed to vitamin A. This important veggie is also high in copper. Studies show that diets low in copper are linked with cardiovascular complications.</item>
+    </string-array>
+    <string-array name="ginger_squash_soup">
+        <item>Ingredients : 1/2 cup chopped onion,2 teaspoons canola or olive oil,2 clovesgarlic- minced,2 pounds buttercup squash, peeled and cut into 1-inch pieces (4 cups),2 14 ounce canreduced-sodium chicken broth or vegetable broth,4 teaspoons grated fresh ginger,1/2 teaspoon salt*</item>
+        <item>RECIPIE METHOD :</item>
+        <item>In a large saucepan, cook onion in hot oil 3 minutes stirring occasionally. Stir in garlic; cook and stir 1 minute more.</item>
+        <item>Stir in squash, chicken broth, ginger, salt and cayenne pepper. Bring to boiling; reduce heat. Simmer, covered, 15 to 20 minutes or until squash is very tender. Cool slightly.</item>
+        <item>Transfer one-third of the soup mixture to a blender or food processor. Cover and blend or process until smooth. Repeat with remaining soup. Return mixture to saucepan; heat through.</item>
+        <item>Ladle soup into bowls. If deisred, top with chopped apples.</item>
+        <item>BENEFITS : This rich, buttery soup is easy to make and freezes well. High in potassium, winter squash helps regulate heart and muscle contraction.</item>
+    </string-array>
+    <string-array name="orange_sauced_brocolli">
+        <item>Ingredients :3 1/2 cups broccoli flowerets,1 mediumred or yellow sweet pepper- cut into 1-inch pieces,1 tablespoon butter or margarine,2 tablespoons finely chopped onion1 clovegarlic- minced,1 1/2 teaspoons cornstarch,2/3 cup orange juice,2 teaspoons Dijon-style mustard</item>
+        <item>RECIPIE METHOD :</item>
+        <item>In a medium saucepan cook broccoli and sweet pepper in a small amount of boiling, lightly salted water about 8 minutes or until broccoli is crisp-tender; drain. Cover and keep warm.</item>
+        <item>Meanwhile, for sauce, in a small saucepan melt butter over medium heat. Add onion and garlic; cook until onion is tender. Stir in cornstarch. Add orange juice and mustard. Cook and stir until mixture is thickened and bubbly. Cook and stir for 2 minutes more.</item>
+        <item>Pour the sauce over the broccoli mixture; toss gently to coat.</item>
+        <item>NUTRITIONAL VALUES :</item>
+        <item>Servings Per Recipe 6, cal. (kcal) 58, Fat, total (g) 2, chol. (mg) 5, sat. fat (g) 1, carb. (g) 9, Monosaturated fat (g) 1, fiber (g) 2, sugar (g) 4, pro. (g) 2, sodium (mg) 71, Potassium (mg) 264, calcium (mg) 30, iron (mg) 1</item>
+    </string-array>
+    <string-array name="salmon_with_apple_slaw">
+        <item>Ingredients :1 teaspoon olive oil,1 1/4 pounds skinless salmon fillet- cut into 4 pieces,kosher salt and black pepper,1/2 head bok choy- thinly sliced (about 6 cups)1 red apple, cut into bite-size pieces,4 scallions- thinly sliced,1/3 cup plain low-fat yogurt,2 tablespoons fresh lemon juice</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Heat the oil in a large nonstick skillet over medium-high heat. Season the salmon with ¼ teaspoon each salt and pepper and cook until opaque throughout, 3 to 4 minutes per side.</item>
+        <item>Meanwhile, in a medium bowl, toss the bok choy, apple, and scallions with the yogurt, lemon juice, ½ teaspoon salt, and ¼ teaspoon pepper.</item>
+        <item>Serve with the salmon.</item>
+        <item>Nutritional Information :Per Serving Calories 289,Fat 12g,Sat Fat 2g,Cholesterol 90mg,Sodium 514mg,Protein 35g,Carbohydrate 10g,Sugar 7g,Fiber 2g,Iron 2mg,Calcium 177mg</item>
+    </string-array>
+    <string-array name="spicy_garlic_shrimp">
+        <item>Ingredients:12 shrimp (Jumbo sized, peeled, deveined, and tails intact),2 tablespoons olive oil,3 garlic cloves (crushed with the side of a knife),1/4 teaspoon red pepper flakes,1 teaspoon steak seasoning (Montreal Seasoning by McCormick is recommended),1 teaspoon lemon, zest of,2 teaspoons lemon juice,1 tablespoon fresh parsley (chopped)</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Heat a large skillet over medium high heat.</item>
+        <item>Add olive oil, garlic, red pepper flakes, and shrimp.</item>
+        <item>Season with grill seasoning or salt and pepper</item>
+        <item>Cook shrimp 3 minutes or until just pink</item>
+        <item>Toss with lemon zest, juice, and chopped parsley</item>
+        <item>Remove shrimp to a serving platter, leaving the garlic cloves in the pan</item>
+        <item>"BENEFITS :Garlic is one of the oldest known medicinal plants, and it's been credited with fighting heart disease, lowering blood pressure and helping to fight off colds"</item>
+    </string-array>
+    <string-array name="dal_kabila">
+        <item>Ingredients:1 cup urad dal (split black lentils) washed and soaked,salt to taste,1 tsp oil,25 mm (1/2) cinnamon (dalchini),1 cardamom (elaichi),3 cloves (laung / lavang),1 whole dry kashmiri red chilies broken into pieces,2 tsp ginger-garlic (adrak-lehsun) paste,1 tsp finely chopped green chillies,1 cup chopped tomatoes,1/4 tsp turmeric powder (haldi),1 tsp chilli powder,2 tsp coriander (dhania) powder,1/2 tsp garam masala,2 tsp lemon juice,1 tsp cumin seeds (jeera)</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Drain the urad dal, add 2 cups of water and salt and pressure cook for 2 whistles till the dal is cooked. Allow the steam to escape before opening the lid. Keep aside.</item>
+        <item>Heat the oil in a deep non-stick pan and add the cinnamon, cardamom and cloves and red chillies and sauté for a few seconds.</item>
+        <item>Add the ginger-garlic paste, green chillies and tomatoes and sauté on a medium flame for 5 to 7 minutes, while stirring continuously.</item>
+        <item>When the seeds crackle, add the turmeric powder, chilli powder, coriander powder, garam masala and salt (if required) and sauté on a medium flame for 5 minutes, while stirring continuously.</item>
+        <item>Add the urad dal and lemon juice, mix well and simmer for another 5 minutes. Keep aside.</item>
+        <item>Serve hot garnished with coriander.</item>
+        <item>NUTRITIONAL VALUES:Protein -12 g,Carbohydrate -24.3 g,Fat-3.1 g,iron -1.7mg,fiber-1 g</item>
+    </string-array>
+    <string-array name="egg_beans_burrito">
+        <item>Ingredients:6 eggs lightly beaten,1 tbsp butter,salt and fresh ground black pepper,1/4 cup chopped green onion,1 16 ounce can vegetarian baked beans,6 flour tortillas (about 7-8 inches, warmed),shredded cheddar cheese (optional),salsa or ketchup</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Heat butter in 10-inch non-stick skillet until sizzling.</item>
+        <item>Season eggs with salt and pepper. Add to skillet. Sprinkle with onions. Cook until eggs are done, stirring occasionally.</item>
+        <item>Divide egg mixture into 6 parts. Spoon egg mixture and about 1/4 cup beans into warmed tortillas. Sprinkle with cheese and drizzle with salsa, if desired.</item>
+        <item>Wrap tortillas.</item>
+        <item>Makes 6 healthy burritos.</item>
+        <item>NUTRITIONAL VALUES: Per burrito Protein: 17.7g,Calories: 320,Sodium: 538mg,Total Fat: 6.7g,Dietary Fiber: 4.8g</item>
+    </string-array>
+    <string-array name="egg_casserole">
+        <item>Ingredients:1 14 ounce package Gimme Lean Sausage,6 eggs or egg substitute,1 tbsp onion-chopped,1 1/2 cups milk- soy milk or rice milk,1/2 to 3/4 cup shredded cheddar cheese or soy cheese ,approximately 4 slices whole grain bread,1 tbsp cooking oil or spray</item>
+        <item>RECIPIE METHOD :</item>
+        <item>In a skillet, sautee Gimme Lean Sausage and onions in cooking oil or spray for about 5 minutes, until lightly browned.</item>
+        <item>Layer sausage in the bottom of a 9x 9 pan. Cut bread slices into 1 inch strips and layer them across the sausage.</item>
+        <item>In a small bowl beat the eggs and milk. Pour egg mixture evenly over the bread slices. Sprinkle with shredded cheese.</item>
+        <item>Cover and refrigerate overnight.</item>
+        <item>Bake uncovered in a 350 degree oven for 35 to 45 minutes until golden on top</item>
+        <item>NUTRITIONAL VALUES: Serves: 6 ,Per serving: Protein-21g (soy protein 8g),Fat-11g, Fiber-2g, Sodium-640mg, Carbohydrates-21g, Calories-270.</item>
+    </string-array>
+    <string-array name="gimmelean_sausage_burrito">
+        <item>Ingredients:1 egg beaten,2 tbsp milk soy milk or rice milk,1 tbsp onion chopped,1/7 package Gimme Lean Sausage style,1/4 cup shredded cheddar cheese or soy cheddar,2 tbsp cooking oil or cooking spray,1 flour tortilla</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Heat 1 Tbsp. oil or cooking spray in skillet. Add onion and sautee for a minute or two. In a small bowl mix egg with milk and add to skillet with onion. Scramble and set aside.</item>
+        <item>In another skillet heat the remaining oil (cooking spray) and brown the Gimme Lean Sausage, crumbling it as you stir.</item>
+        <item>Combine all and place on flour tortilla, sprinkle cheese on top and roll into a burrito. Serve with salsa.</item>
+        <item>NUTRITIONAL VALUES:Serves: 1,Per serving: Protein-28g (soy protein 7g),Fat-13g, Fiber-3g, Sodium-1030mg, Carbohydrates-51g, Calories-400.</item>
+    </string-array>
+    <string-array name="protien_shake">
+        <item>Ingredients:1 6-ounce fresh pineapple juice,4 ounces non-fat strawberry banana yogurt,1 cup frozen strawberries,1 16-ounce can Great Northern beans, rinsed and drained,1 tsp honey,3/4 tsp ground ginger,1/4 tsp ground nutmeg</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Place the pineapple juice, yogurt and berries in a blender and blend until smooth.</item>
+        <item>Add Great Northern Beans, honey, ground ginger and nutmeg</item>
+        <item>Blend, scraping the sides as needed. Serve well chilled.</item>
+        <item>Makes 4 vegetarian protein shakes.</item>
+        <item>NUTRITIONAL VALUES:Protein: 26.5g,Calories: 445,Sodium: 37mg,Dietary Fiber: 23.8g,Total Fat: 1.9g</item>
+    </string-array>
+    <string-array name="tofu_scramble">
+        <item>Ingredients: 2 tbsp olive oil,3/4 cup sliced fresh mushrooms,2 tomatoes,2 cloves garlic- minced,1 bunch spinach- rinsed,1 pound firm or extra firm tofu, well pressed and crumbled,1/2 tsp soy sauce,1 tsp lemon juice,salt and pepper to taste</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Sautee tomatoes, garlic and mushrooms in olive oil for 2 to 3 minutes</item>
+        <item>Reduce heat to medium low and add spinach, crumbled tofu, soy sauce and lemon juice. Cover and cook for 5 to 7 minutes, stirring occasionally.</item>
+        <item>Sprinkle with a dash of salt and pepper before serving.</item>
+        <item>NUTRITIONAL VALUES: Serves: 2,Per serving:Protein: 25.6g,Calories: 351,Dietary Fiber: 7.6g,Fat: 14.0g,</item>
+    </string-array>
+    <string-array name="vegetable_frittata">
+        <item>Ingredients: 1 1/2 tablespoons olive oil ,1 cup diced zucchini,1/2 cup chopped red bell pepper,1/3 cup chopped onion ,1 tablespoon chopped fresh thyme,1/2 teaspoon salt, divided ,1/4 teaspoon freshly ground black pepper- divided,2 garlic cloves minced,1/2 cup chopped seeded tomato ,9 large eggs</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Heat olive oil in a 10-inch nonstick broiler-proof skillet over medium heat. Add zucchini, bell pepper, onion, thyme, 1/4 teaspoon salt, 1/8 teaspoon black pepper, and garlic</item>
+        <item>Cover and cook 7 minutes or until vegetables are tender, stirring occasionally.</item>
+        <item>Stir in tomato. Cook, uncovered, for 5 minutes or until liquid evaporates.</item>
+        <item>Combine eggs, remaining 1/4 teaspoon salt, and remaining 1/8 teaspoon black pepper in a medium bowl; stir with a whisk until frothy.</item>
+        <item>Pour egg mixture into pan over vegetables, stirring gently. Cover, reduce heat, and cook 15 minutes or until almost set in the center.</item>
+        <item>Preheat broiler</item>
+        <item>Broil frittata 3 minutes or until set. Invert onto a serving platter; cut into 8 wedges</item>
+        <item>NUTRITIONAL VALUES: Serves: 4 ,Per serving: Protein-15g ,Fat-6.1g, Fiber-2.3g, Sodium-440mg, Carbohydrates-8g, Iron-2.4 mg, Calories-220.</item>
+    </string-array>
+    <string-array name="banana_blueberry_smoothie">
+        <item>This recipe is low fat.Energy per 100g:367kJ - 87Cal, Fat per 100g:1.0g</item>
+        <item>Ingredients : 1 Ripe Banana,½ cup frozen blueberries,1 ½ cups low fat milk,1 small tub vanilla yoghurt (125g),¼ cup oats,1 tbsp Honey</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Blend all ingredients together.</item>
+        <item>Serve in chilled glasses, with straws.</item>
+        <item>Garnish with a sprinkle of oats.</item>
+        <item>BENEFITS : This Banana and Blueberry Smoothie recipe makes a great breakfast drink. It is packed with calcium, antioxidants and vitamins, and because it contains fresh banana and oats, will keep you feeling full until lunchtime.</item>
+    </string-array>
+    <string-array name="beef_chow_mein">
+        <item>This recipe is low fat .Energy per 100g:299kJ - 71Cal,Fat per 100g:2.1g</item>
+        <item>Ingredients : 500g lean minced beef,1 large onion- chopped ,2 teaspoon finely chopped garlic,1 tablespoon olive oil,2 cups finely chopped red cabbage,1 cup finely chopped Chinese cabbage,1 carrot grated,¼ cup Kecap manis,1/2 cup water,1 teaspoon Curry powder</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Heat oil in non-sick pan over medium heat.</item>
+        <item>Now add onion and sautee for 5 minutes until translucent.</item>
+        <item>"Add garlic and cook for 30 seconds, (don't burn)"</item>
+        <item>Now add lean minced beef saute until well browned.</item>
+        <item>Add cabbages and grated carrot and stirfry for a further 4 - 5 minutes.</item>
+        <item>Add kecap manis, curry powder and ½ cup water and stir to combine</item>
+        <item>Serve immediately</item>
+        <item>BENEFITS :Cabbage is very high in Vitamin K and Vitamin C and is also a good source of fibre which means it is great for weight loss because it helps keep us feeling full longer.</item>
+    </string-array>
+    <string-array name="chickpea_and_tomato_salad">
+        <item>This recipie is fat free and highly nutritious.Energy per 100g:177Cal,Fat per 100g:1.1g</item>
+        <item>Ingredients :400g can chickpeas, drained, rinsed 1/2 small red onion finely chopped ,200g cherry tomatoes, quartered 2 tablespoons fresh coriander chopped,1 tablespoon olive oil</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Combine peas, onion, tomatoes, and coriander in a bowl. Add vinegar, and oil, and toss to combine.</item>
+        <item>Cover in plastic wrap, and stand for 30 minutes for flavours to develop before serving.</item>
+    </string-array>
+    <string-array name="cottage_pie">
+        <item>This recipe is low fat, low sodium, low sugar .Energy per 100g:336kJ - 87Cal,Fat per 100g:2.1g</item>
+        <item>Ingredients : 500g Lean Mince 5 star,½ red capsicum (bell pepper) diced,2 carrots diced,2 celery stalks chopped,1 cup frozen peas and corn,2 onions diced,2 tbsp. tomato paste, no added salt,2 cloves garlic,1 tsp. brown sugar,3 tbsp.Worcestershire sauce,1 tsp. thyme and oregano each,2 cups beef stock low salt,½ cup red wine,½ cup grated low fat tasty cheese,2 tsp. corn flour mixed with ¼ cup cold water,1 pkt Potato Gnocchi</item>
+        <item>RECIPIE METHOD :</item>
+        <item>In a large non-stick frypan heat olive oil and cook onion on med heat for 5 mins. Add red capsicum and sauté for 5 more minutes. Then add carrots and celery cooking a further 5 mins, sweating out the vegs.</item>
+        <item>Now add the beef. You need to brown and break it up so turn up the heat and keep stirring so the beef browns. When it looks cooked, add the garlic, tsp. brown sugar, herbs, wine, turn the heat down to med and cook out the wine.</item>
+        <item>Now add the stock and season with cracked pepper and simmer for 40 mins. Leave lid off so the liquid reduces down. At the 30 min mark add cornflour mixed with ¼ cup water to filling, this will thicken the mixture.</item>
+        <item>Preheat oven 180C (350F)</item>
+        <item>Bring a large pot of water to boil and cook the gnocchi as per instructions. Drain and set aside.</item>
+        <item>Once your filling has simmered for 40 mins, turn off and stir in the frozen peas and corn.</item>
+        <item>Place mixture in an oven proof dish, layout gnocchi on top with grated cheese.</item>
+        <item>Cook in oven for 30 mins.</item>
+        <item>Serve with steamed broccoli.</item>
+        <item>BENEFITS : The amazing taste of this recipe comes from the inclusion of red wine, Italian herbs and tomato paste. As well as being really tasty, this recipe is also very nutritious</item>
+    </string-array>
+    <string-array name="muesli_pancakes_with_cinnamon_apples">
+        <item>This recipe is low fat.Energy per 100g:502kJ - 120Cal,Fat per 100g:2.0g</item>
+        <item>Ingredients :3/4 Cup Wholemeal Self Raising flour,1/2 cup muesli,1 egg,3/4 cup reduced fat milk,2 granny smith apples, peeled and diced,2 teaspoons sugar,Sprinkle of cinnamon,1 small tub Vanilla Yoghurt,Cooking Spray</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Combine flour and museli in bowl and stir to combine. Mix together egg and milk in a jug and stir well to combine.</item>
+        <item>Add to flour and mix well until mixture is well combined. Set aside in fridge.</item>
+        <item>Place apples in a small pot with water, sugar and cinnamon and simmer for 5 mins until apples have softened, but not too soft.</item>
+        <item>Heat frying pan over medium – high heat. Spray pan with cooking spray and cook pancakes one at a time, until golden brown each side.</item>
+        <item>Serve immediately with apple compote and vanilla yoghurt.</item>
+        <item>BENEFITS :Pancakes can be a wonderful breakfast dish because they are quick and simple to prepare and they keep us feeling full for hours.One serve of this recipe represents 26% of the recommended daily energy intake of an average person.</item>
+    </string-array>
+    <string-array name="lentil_and_ginger_soup">
+        <item>This recipe is low fat Energy per 100g: 95Cal,Fat per 100g:2.3g</item>
+        <item>Ingredients:olive oil,1 medium onion finely chopped,1 large carrot- peeled and diced,2 sticks celery- diced,2 garlic cloves- crushed,25g ginger- peeled and grated,1 red chilli- finely sliced,1 tbsp medium curry powder,150g red lentils- rinsed,400g tin chopped tomatoes</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Heat 1 tbsp oil in a large non-stick saucepan and fry the onion, carrot and celery for 5 minutes. Add the garlic, ginger and chilli and cook for 2 minutes more</item>
+        <item>Stir in the curry powder and 4 tbsp cold water. Cook for 2 minutes, stirring constantly. Tip the lentils and tomatoes into the pan. Refill the tomato tin three times with cold water and pour into the saucepan</item>
+        <item>Season then bring to the boil. Simmer for 30-40 minutes until the lentils are very tender and the soup is thickened. Serve hot.</item>
+        <item>"BENEFITS : Lentils are a great base for a soup as they're low fat and help you feel fuller for longer"</item>
+    </string-array>
+    <string-array name="chicken_stir_fry">
+        <item>Ingredients :60g brown rice- dry,1 cal olive oil spray (20 sprays),100g skinless chicken breast- cut into strips,1 tsp five spice powder,150g stir fry vegetables,1 tsp soy sauce,1 small egg- beaten</item>
+        <item>RECIPIE METHOD :</item>
+        <item>Cook the rice as per the packet instructions.</item>
+        <item>Coat a non-stick pan with 10 sprays 1 cal oil and scramble the egg over a high heat. Remove and keep warm.</item>
+        <item>Spray the pan with 10 sprays 1 cal oil and fry the strips along with 1 teaspoon of five spice powder for approx 3 minutes.</item>
+        <item>Add the stir fry veg and cook for a further 2 minutes, then add the soy sauce, stir in the scrambled egg and serve with the rice.</item>
+        <item>BENEFITS :Chicken stir fry is very quick and easy to make, with plenty of flavour and healthy vegetables</item>
+    </string-array>
+    <string-array name="broccoli_bacon_pilaf">
+        <item>This recipe is Low Fat, Low Saturated Fat, Low Sugar and Low Sodium.Energy per 100g:380kJ - 91Cal,Fat per 100g:1 g</item>
+        <item>Ingredients :1 cup uncooked rice-long grain,2 short cut bacon- chopped,1 cup broccoli,½ red capsicum- diced,1 cup beef stock,1 cup water,1 tomato diced,1 tsp. smoked paprika,1 clove crushed garlic,Handful parsley,1 tbls olive oil</item>
+        <item>RECIPIE METHOD :</item>
+        <item>In a pot heat oil and sauté bacon and capsicum for 5 mins.</item>
+        <item>Add garlic and smoked paprika, stir in and then add the raw rice and coat with the paprika. Season with cracked pepper.</item>
+        <item>Add the beef stock and water, stir then put lid on the pot and simmer on low heat for 10 mins</item>
+        <item>After 10 mins, add broccoli, stir and simmer a further 5 mins then turn off heat. Add chopped tomatoes and parsley, stir and leave for a couple of minutes so the rice has absorbed all the liquid.</item>
+        <item>Serve as a lunch for 2 or as a side with chicken.</item>
+        <item>BENEFITS :To create a vegetarian version of this dish, simply omit the bacon. One serve of this recipe represents 23% of the recommended daily energy intake of an average person.</item>
+    </string-array>
+    <string-array name="healthy_exercises">
+        <item>Choose activities you like. A lot of different things count as exercise: dancing, walking, gardening, yoga, cycling, playing basketball.</item>
+        <item>Piece your workout together. You don’t need to get all your exercise at one time. Ten minutes morning, noon, and night can give much of the same benefit as 30 minutes all at once.</item>
+        <item>Exercise with a friend. Finding a workout partner can help keep you on track and motivate you to get out the door.</item>
+        <item>Walk an extra stop. During your bus or subway commute, get off a stop or two earlier and walk the rest of the way.</item>
+        <item>Turn off the TV, computer, and smart phone. Cutting back on screen time is a great way to curb your “sit time.” Trade screen time for active time—visit the gym, or even just straighten up around the house.</item>
+        <item>Keep it brisk. When you walk, make it brisk, since this may help control weight better than walking at a leisurely pace</item>
+        <item>Take the stairs. Use the stairs instead of elevators and escalators whenever possible.</item>
+        <item>Take lunch on the move. Dont spend all of your lunch time sitting. Hit the gym or go for a 20-minute walk with coworkers, and then have a meal when you are done.</item>
+        <item>Hunt for the farthest parking space. If you drive to work or to run errands, purposefully park your car a little farther from your office or the store. It may not seem like much, but over weeks and months, these minutes of exercise add up.</item>
+        <item>Make it your own. Consider buying a piece of cardiovascular equipment for your home, such as a treadmill, stationary bicycle, or elliptical machine. Home models can be more reasonable than you think, and you can’t beat the convenience. Keep in mind, though, that cheaper models tend to be less sturdy.</item>
+        <item>Make it fun. Try a new sport like tennis or rollerblading. The more that you enjoy exercise, the more likely you are to stick to it.</item>
+        <item>Make it social. Walk with a friend, your spouse, or your family in the morning or evening.</item>
+        <item>Turn sit time into fit time. When you get busy, try to combine your cardiovascular exercise with a sedentary activity that you do already.</item>
+        <item>Keep an exercise log. Monitoring the amount of activity you get each day will help to make you more accountable.</item>
+        <item>Walk or bike for errands around town. Leave the car at home for trips that are less than a mile or two. Cross something off your to-do list while getting in your physical activity.</item>
+        <item>Ask the experts. Hire a personal trainer for a session or two to help you with your weight training and flexibility training. Then you’ll have the confidence to branch out on your own.</item>
+        <item>Plan exercise into your day. Set aside a specific time in your schedule to exercise and put it in your planner.</item>
+        <item>Reward yourself. Set short-term goals—and reward yourself for achieving them. Try targeting a specific event, such as a road race or a walk-for-charity, to participate in—this can help keep you motivated.</item>
+        <item>Aerobic exercises done 30 minutes a day is excellent for increasing your heart rate. Climbing the stairs, a brisk walk, orbital exercise machine or treadmill, anything to get your heart rate up.</item>
+        <item>For adults that are 65 and older or anyone with chronic conditions or limited mobility, you need the same amount of exercise as younger people – the activity can be less intense. Use good judgment and follow your doctor’s advice. See tip #1 and plan to gradually increase activities.</item>
+        <item>Practice balance exercises to help prevent falls and injuries. Balance techniques are used frequently as exercises in yoga or more simple forms of balancing exercises such as walking heal-to-toe, standing on one foot, or standing up and sitting down without using your hands.</item>
+        <item>Stretching exercises done twice a week helps keep flexibility, which is very important. Consider 10 minutes of stretching twice a week to improve your flexibility</item>
+        <item>Bleary-eyed exercise helps you burn fat faster. Training first thing in the morning will shed a kilo quicker than at any other time.</item>
+        <item>Work out with your leg muscles rather than your upper body. Your body uses more energy-and calories.</item>
+        <item>Avoid energy drinks during your workout. Their high-GI carbs can make you pick up body fat. Drink water instead</item>
+    </string-array>
+    <string-array name="general_nutrition_tips">
+        <item>Eat breakfast every day. People who eat breakfast are less likely to overeat later in the day. Breakfast also gives you energy and helps you think and learn.</item>
+        <item>Use fats and oils sparingly. Olive, canola, and peanut oils, avocados, nuts and nut butters,olives, and fish provide heart-healthy fat as well as vitamins and minerals.</item>
+        <item>Eat six meals a day instead of heavy three meals.</item>
+        <item>Drink 10 glasses of water everyday. Its especially important to stay well hydrated when following a comprehensive training, nutrition, and supplementation program.</item>
+        <item>Eat at least 5 servings of fruits and vegetables per day.</item>
+        <item>Understand Food Claims and Labels. A product labeled with a fat-free claim does not mean that it is low in calories. Similarly a product labeled as low-sugar or low-carb does not mean it is low in fat or calories. Always read the nutrition label on the packaging.</item>
+        <item>Have 7-gram Cereal. That means cereal with at least 7 g of fiber per serving, because eating cereal is your easiest chance to get lots of fiber in a small package.</item>
+        <item>Stick with Whole Wheat. Whole wheat is actually better for you. It offers more fiber, which helps reduce the risk of heart disease, stroke, cancer, diverticulosis, diabetes to name a few</item>
+        <item>Watch the sugar.Reduction of sugar is important to good health; therefore always check out the sugar content of anything you put in your mouth,</item>
+        <item>Drink a glass of water before you start a meal.</item>
+        <item>Avoid crash diets. They are bad for health and you will gain what you have lost once you take a break.</item>
+        <item>Dont forget Dairy. Your bones still need calcium to stay strong. Dairy foods and some dairy alternatives, such as enriched soymilk, provide protein as well as calcium.</item>
+        <item>Eat protein at every meal.</item>
+        <item>Consuming two 4- to 6-ounce servings of oily fish a week will sharpen your mind. Among the best: salmon, tuna, herring, mackerel, and trout.</item>
+        <item>"Turn off the TV. People who watch TV during a meal consume, on average, 288 more calories than those who don't eat with the tube on."</item>
+        <item>Sleep 8 hours a night.</item>
+        <item>Drink two glasses of milk daily.</item>
+        <item>Eating a handful of walnuts each day may boost your HDL (good) cholesterol fastest, while lowering your LDL (bad) cholesterol.</item>
+    </string-array>
+    <string-array name="nutrition_tips_for_children">
+        <item>Plan, shop and cook healthy meals together, and avoid turning on the television during meal times.</item>
+        <item>Encourage the whole family to eat breakfast.</item>
+        <item>Get your children involved in preparation and packing of healthy school lunches.</item>
+        <item>Make sure you keep healthy snacks in the pantry.</item>
+        <item>Choose water and milk as drinks most of the time. Avoid sweetened drinks such as cordial, soft drinks and fruit juice.</item>
+        <item>Prepare and store your food safely.</item>
+        <item>Encourage your child to choose healthy foods.</item>
+        <item>Use positive terms to refer to healthy food, for example, “I love eating crunchy green beans”.</item>
+        <item>Set a good example as parents.</item>
+        <item>Avoid bribing your child with food.</item>
+        <item>Breakfast is the most important time for healthy eating. Children function better when they begin the day with a nutritious meal.</item>
+        <item>Allow toddlers to touch and feel their food. This is part of the learning experience and helps develop a positive attitude to a nutritious diet which in turn promotes healthy eating habits.</item>
+        <item>Children respond to different colours and shapes, so supply them with a mixture of foods in all textures, colours, shapes and sizes.</item>
+        <item>A healthy childhood diet should include a variety of fruits and vegetables and the following ideas can help make them attractive to children.</item>
+        <item>Make a face with salad vegetables on a plate (e.g. cucumber slices as eyes, grated carrot hair, cherry tomato nose and celery mouth). This is fun and can contribute to child’s healthy diet.</item>
+        <item>For breakfast, always ensure that fresh fruit is available for your child. Healthy eating starts with the first meal of the day. You can add banana, sultanas or apple to their cereal or simply cut up different fruits and serve them in a side bowl.</item>
+        <item>Use avocado as a substitute to butter in your children’s sandwiches or dried biscuits and always try to include a vegetable in their sandwiches</item>
+        <item>Snack time at school should be exciting for your children. Healthy eating can become a treat if you provide a range of textures and colours in their food. Children respond to new and exciting sensations. Provide them with an assortment of colours such as slices of cheese, apple, carrot, sultanas, watermelon, grapes and strawberries.</item>
+        <item>Have a visible bowl of fruit available for your children. Healthy eating habits will increase if fruits and vegetables are the closest option available when your children are hungry.</item>
+        <item>Fruit and vegetables make healthy snacks for your child’s lunchbox. Snacking on a bag of celery or carrot sticks or a bag of small tomatoes instead of a bag of chips offers children healthy eating alternatives.</item>
+        <item>Offer fresh fruit in preference to fruit juice or processed fruit bars.</item>
+        <item>Children love to play in water. Encourage activities such as splashing in a wading pool, spider walking around the pool edge, noodle rides, jumping waves, running through the sprinkler, and water tag. Make sure you supervise young children at all times when playing in or around water.</item>
+        <item>Make sure children are sitting down while they eat and not moving around.</item>
+        <item>Avoid foods that break off into large solid pieces or are very hard.</item>
+        <item>Offer your children a choice of three or four vegetables with dinner. If they are able to choose the vegetables they are served, they may be less likely to refuse them.</item>
+        <item>Children’s healthy eating habits will stem from the subtlest changes in their diet. When they ask for a snack before dinner, offer beans, snow peas or carrot and celery sticks rather than pre-packaged foods.</item>
+        <item>Cut meats into small pieces, particularly tougher meats. Take the skin off frankfurts and sausages for infants.</item>
+        <item>Adapt the types and consistency of harder foods as your child grows and develops. Always watch your child the first time you allow them to eat a hard food that requires a lot of chewing (e.g. carrot sticks).</item>
+        <item>yoghurt – Great healthy snack for children as they come in small sizes for little stomachs.</item>
+        <item>The best healthy snacks for children are wholegrain, dairy, or fruit and/or vegetable-based.</item>
+    </string-array>
+    <string-array name="nutrition_tips_for_women">
+        <item>Focus on whole, plant-based foods. Fill most of your plate with fruits and leafy green vegetables</item>
+        <item>Bone up on calcium. Women are at a greater risk than men of developing osteoporosis, so it’s important to get plenty of calcium to support your bone health.</item>
+        <item>Dont eat too much protein. Protein is an essential part of any healthy diet, but eating too much animal-based protein—such as the levels recommended in many low-carb, high-protein diets—is particularly dangerous for women.</item>
+        <item>Make sure you get enough iron. Many women don’t get enough iron in their diet. On top of that, women lose a lot of this important mineral during menstruation. Boost your intake by eating iron-rich foods such as lean red meat, dark poultry, lentils, spinach, almonds, and iron-fortified cereals.</item>
+        <item>Eat breakfast. Get your metabolism going in the morning by eating a healthy breakfast.</item>
+        <item>Eat regularly. Going too long between meals can make you feel irritable and tired, so aim to eat something at least every three to four hours.</item>
+        <item>Cut the junk. The ups and downs that come with eating sugary snacks and simple carbohydrates cause extreme swings in energy level and mood.</item>
+        <item>Focus on complex carbohydrates. Foods such as baked potatoes, whole-wheat pasta, brown rice, oatmeal, whole grain breads, and bananas boost your “feel-good” serotonin levels without a crash.</item>
+        <item>Healthy fats boost your brainpower and mood. Fats are essential to healthy brain function. They put you in a good mood and keep you mentally sharp.</item>
+        <item>Healthy fats promote healthy pregnancies. When you’re pregnant, both you and your growing baby need healthy fat to feel your best. Fat is especially important to your baby’s developing brain and nervous system.</item>
+        <item>Healthy fats contribute to lifelong beauty. Fats are essential for vibrant, glowing skin, hair, and nails. A lack of healthy fats in your diet can lead to dull, flaky skin, brittle nails, and dry or easily damaged hair.</item>
+        <item>Healthy fats help control cravings. Because fat is so dense in calories, a little goes a long way in making you feel full. Small amounts of good fats like nuts or seeds make great satisfying snacks.</item>
+        <item>Fats lower the glycemic index of foods, easing the spike in blood sugar that results from eating carbohydrates.</item>
+        <item>You need fat in order to absorb certain vitamins. Many important vitamins—including vitamins A, D, E, and K—are fat-soluble, meaning you need fat in your system in order to absorb them.</item>
+        <item>Calcium: The recommended daily allowance varies from 400 to 1,200 mg/day. Good sources of calcium include dairy products, leafy green vegetables, oatmeal and other grains, tofu, cabbage, summer squash, green beans, garlic, and sea vegetables.</item>
+        <item>Magnesium: The recommended daily allowance for magnesium is 500 to 800 mg/day. Calcium only works when taken in conjunction with magnesium. Good sources of magnesium include leafy green vegetables, summer squash, broccoli, halibut, cucumber, green beans, celery, and a variety of seeds, including pumpkin, sunflower, sesame, and flax seeds.</item>
+        <item>Vitamin D: Aim for between 400 and 1,000 IU (international units) daily. You can get Vitamin D from about half an hour of direct exposure to sunlight, and from foods and supplements. Salmon is an excellent source of vitamin D. Other good sources include shrimp, vitamin-D fortified milk, cod, and eggs.</item>
+        <item>Bloating, cramping, and fatigue experienced the week or so before your period are often due to fluctuating hormones. Diet can play an important role in alleviating these and other symptoms of PMS.</item>
+        <item>Avoid trans fats, refined sugar, and salt. Sugar worsens mood swings and salt worsens water retention and bloating.</item>
+        <item>Cut out caffeine and alcohol. Both are known to worsen PMS symptoms, so avoid them during this time in your cycle.</item>
+        <item>Limit red meat and egg yolks as they can cause inflammation. You may want to try sticking to vegetable proteins like soy and nuts, to see if it helps with your symptoms.</item>
+        <item>Add essential fatty acids to your diet. Omega-3 fatty acids have been shown to help with cramps. See if eating more fish or taking fish oil or flaxseed oil supplements eases your PMS symptoms.</item>
+        <item>Consider vitamin supplements. For some women, taking a daily multivitamin or supplementing with magnesium, vitamin B6, and vitamin E may help relieve cramps.</item>
+        <item>Nutrition for a healthy pregnancy :</item>
+        <item>Fat and protein are very important to your baby’s developing brain and nervous system. Stick to lean sources of protein and healthy fats for weight control.</item>
+        <item>Abstain from alcohol. No amount is safe for the baby.</item>
+        <item>Cut down on caffeine, which has been linked to a higher risk of miscarriage and can interfere with iron absorption. Limit yourself to no more than one caffeinated drink per day.</item>
+        <item>Eat smaller, more frequent meals rather than a few large ones. This will help prevent and reduce morning sickness and heartburn.</item>
+        <item>Be cautious about foods that may be harmful to pregnant women. These include soft cheeses, sushi, deli meats, raw sprouts, and fish such as tuna that may contain high levels of mercury.</item>
+        <item>Nutrition for breastfeeding women :</item>
+        <item>Keep your caloric consumption a little higher to help your body maintain a steady milk supply.</item>
+        <item>Emphasize lean sources of protein and calcium, which are in higher demand during lactation.</item>
+        <item>Take prenatal vitamin supplements, which are still helpful during breastfeeding, unless your physician tells you otherwise.</item>
+        <item>Avoid alcohol, caffeine, and nicotine. Just as with the pregnancy guidelines above, refrain from drinking and smoking, and reduce your caffeine intake.</item>
+        <item>Nutrition tips to boost fertility :</item>
+        <item>Avoid alcohol, caffeine, and nicotine, as they are known to decrease fertility.</item>
+        <item>Eat organic foods, in order to limit pollutants and pesticides that may interfere with fertility.</item>
+        <item>Take a prenatal supplement. The most important supplements for fertility are folic acid, zinc, selenium, omega-3 fatty acids, vitamin E, and vitamin C.</item>
+        <item>Don’t overlook your partner’s diet. About 40 percent of fertility problems are on the male’s side, so encourage your partner to add supplements such as zinc, vitamin C, calcium, and vitamin D.</item>
+        <item>Nutrition tips to ease menopause :</item>
+        <item>Boost calcium intake. Calcium supports bone health and helps prevent osteoporosis. Also make sure you’re getting plenty of vitamin D and magnesium, both of which support calcium absorption.</item>
+        <item>Limit wine, sugar, white flour products, and coffee. Hot flashes improve in almost all cases when those foods are reduced or eliminated.</item>
+        <item>Eat more good fats. Omega-3 and omega-6 essential fatty acids can help boost hormone production and give your skin a healthy glow. Evening primrose oil and black currant oil are good sources of gamma-linolenic acid (GLA), an essential fatty acid that can help balance your hormones and alleviate hot flashes.</item>
+        <item>Try flaxseed for hot flashes. Flaxseed is rich in lignans, which help stabilize hormone levels. Flaxseed can be particularly effective in managing hot flashes. Add one to two tablespoons of ground flaxseed to your daily diet. Try sprinkling it on soups, salads, or main dishes.</item>
+        <item>Consider eating more soy. Soy products are high in phytoestrogens, plant-based estrogens that are similar to estrogen produced by the body. Some studies suggest that soy may help manage menopausal symptoms. Try natural soy sources such as soy milk, tofu, tempeh, and soy nuts.</item>
+    </string-array>
+    <string-array name="simple_nutrition_tips">
+        <item>Dont substitute fruit juices for whole fruits.</item>
+        <item>Eat whole, fresh, unprocessed foods.</item>
+        <item>Eat something every four hours.</item>
+        <item>When buying packaged foods, read the nutrition labels carefully.</item>
+        <item>Don’t take more than one all-purpose multivitamin daily.</item>
+        <item>Before following a nutrition plan, check the credentials of the creator.</item>
+        <item>Keep track of your food intake to know which food group you need to eat more or less from.</item>
+        <item>Take the skin off before eating chicken.</item>
+        <item>Eat fish at least once a week.</item>
+        <item>Cut back on margarine.</item>
+        <item>Never cut any food group out of your diet including carbohydrates.</item>
+        <item>When eating outside, watch out for large portion sizes</item>
+        <item>Desserts should be kept to minimum.</item>
+        <item>Use extra virgin olive oil for salads or whenever suitable.</item>
+        <item>Never smoke after eating.</item>
+        <item>Don’t eat fruits immediately after meal.</item>
+        <item>Replace tea with green tea.</item>
+        <item>Don’t sleep immediately after eating.</item>
+        <item>Apples protect your heart.</item>
+        <item>Don’t eat too much or until you’re stuffed.</item>
+        <item>Bananas strengthen bones.</item>
+        <item>Broccoli combats cancer.</item>
+        <item>Carrots save eyesight.</item>
+        <item>Fish boosts memory.</item>
+        <item>Garlic kills bacteria.</item>
+        <item>Exercise is important to burn your food efficiently.</item>
+        <item>Honey increases energy.</item>
+        <item>Lemons smoothen skin.</item>
+        <item>Mushrooms control blood pressure.</item>
+        <item>Oranges support immune systems.</item>
+        <item>Buy low fat versions of dairy products.</item>
+        <item>Rice conquers kidney stones.</item>
+        <item>Strawberries calm stress</item>
+        <item>Tomatoes protect prostate.</item>
+        <item>Walnuts lift mood.</item>
+        <item>Eat oily fish like salmon or sardine at least twice a week (rich in Omega-3)</item>
+        <item>Yogurt protects against ulcers and helps us digest food better.</item>
+        <item>Eat breakfast.</item>
+        <item>Enjoy soups often.</item>
+        <item>Keep a variety of raw vegetables ready in the fridge for quick snacks.</item>
+        <item>Include one dark green and one orange vegetable on your plate every day.</item>
+        <item>Make at least half of your carbohydrate foods whole grain each day (e.g. brown rice).</item>
+        <item>Replace salt with lemon, herbs and spices to flavor foods.</item>
+        <item>Eat a variety of fibre-rich foods everyday including whole grains, fruits, vegetables, and legumes.</item>
+        <item>Minimize your caffeine intake</item>
+        <item>Purchase leaner meat cuts more often.</item>
+        <item>Eggs, beans, peas and lentils provide a good source of protein and fibre (also are good meat alternatives for vegetarians).</item>
+        <item>Make a fruit salad at least once a week.</item>
+        <item>When eating out, choose healthier choices.</item>
+        <item>Substitute whole wheat flour for white flour.</item>
+        <item>Replace fried food with steamed, baked or broiled food.</item>
+        <item>Slow down when you eat.</item>
+        <item>Buy organic products whenever possible.</item>
+        <item>Take a vitamin D supplement daily (the dose should be according to your age).</item>
+        <item>Plan healthy menus as a family.</item>
+        <item>Home-cooked meals always win over eating out.</item>
+        <item>Keep the skin and peels on fruits and vegetable if possible.</item>
+        <item>Mustard can be consumed guilt free</item>
+        <item>Use peanut butter and avocado as healthy fat sources</item>
+        <item>Eat cabbage to boost cancer-fighting enzymes.</item>
+        <item>Eat lettuce if you have a sleep problem.</item>
+        <item>Dark chocolate is packed with healthy nutrients.</item>
+        <item>Ginger is called “the universal medicine”</item>
+        <item>Onion is believed to clean the blood among many other health benefits. It is also one of the cheapest vegetables.</item>
+        <item>Use chocolate covered bananas as a healthy dessert.</item>
+        <item>The liver can make more enzymes out of fresh lemon juice than any other food element.</item>
+        <item>Whole oats are famously fiber, minerals, and vitamins rich.</item>
+        <item>Asian food is considered among the healthiest in the world.</item>
+        <item>To make any meal ultra nutritious, just add sea vegetables (can be found in Asian markets)</item>
+        <item>Enjoy preparing meals as a family. It’s a lot of fun.</item>
+        <item>Fasting is one of the oldest therapies in medicine</item>
+        <item>Spinach is one of the most nutrient-dense foods available that improve brain function.</item>
+        <item>Eggs aid in concentration and improves memory.</item>
+        <item>An orange a day keeps the doctor away!</item>
+        <item>Wait 20 to 30 minutes to have a second helping.</item>
+        <item>Select foods that have minimal saturated fats.</item>
+        <item>Pack healthy snacks.</item>
+        <item>Avoid foods that contain more than 10 ingredients.</item>
+        <item>Avoid foods that contain man-made ingredients.</item>
+        <item>Spice your meals up.</item>
+        <item>Avoid open buffets</item>
+        <item>Don’t shop when you’re hungry</item>
+        <item>Protein bars make a good snack</item>
+        <item>Start each lunch/dinner with salad.</item>
+        <item>Drinking a glass of ice water can burn 25 calories!</item>
+        <item>Don’t leave yourself dehydrated. Water flushes out fats and toxins.</item>
+        <item>Don’t put serving bowls on the table.</item>
+        <item>Veggie broth is a great healthy choice.</item>
+        <item>Make your own instead of buying in jars.</item>
+    </string-array>
+    <string-array name="general_health_tips">
+        <item>Maintain daily routine such as Get Up early in Morning, Exercise, Breakfast, Lunch, Dinner and Sleep. Routine is important factor in healthy life.</item>
+        <item>Eat baked or steamed food instead of fried food. Do not take more oily foods.</item>
+        <item>Meditation and Yoga is helpful for healthy life. Do Meditation and Yoga.</item>
+        <item>Use clean Water and soft cloth for cleaning the skin.</item>
+        <item>Drink 8-10 Glasses of Water a Day</item>
+        <item>Add Movement to Your Life. Park further so you walk between the car and the stores, take steps instead of elevators, and take longer routes to your desk.Think Positively.</item>
+        <item>Take Time to Relax. Allow yourself to destress at least once a day.</item>
+        <item>Sleep 6-10 hours a night (or until you are well rested).</item>
+        <item>Wash your hands often. Minimally wash hands before eating and after using the restroom.</item>
+        <item>Eat a large variety of fresh produce or supplement your diet with vitamins and minerals.</item>
+        <item>Believe is Something. Studies have found that people who have faith live longer.</item>
+        <item>Eat vegetables every day. Vegetables provide vitamins, minerals, and fiber. Many are known to prevent various diseases including cancer.</item>
+        <item>"Drink water before, during and after exercise. Thirst lags behind your body's need for water. So drink water early and often."</item>
+        <item>Laugh. Let humor enter your life. One of the easiest ways of being healthier is to find a way to relax more and have more fun.</item>
+        <item>Find a way to bring joy into your life. Treat yourself to long baths or help a neighbor. Find a way to smile and help others smile.</item>
+        <item>Learn to do stretching exercises when you wake up.</item>
+        <item>"Brush up on hygiene. Many people don't know how to brush their teeth properly. Improper brushing can cause as much damage to the teeth and gums as not brushing at all."</item>
+        <item>Neurobics for your mind. Get your brain fizzing with energy</item>
+        <item>Get smelly. Garlic, onions, spring onions and leeks all contain stuff that’s good for you</item>
+    </string-array>
+    <string-array name="health__tips_for_children">
+        <item>A healthy breakfast is very important for school going children as breakfast improves their concentration and performance in school.</item>
+        <item>The calcium requirement for children is higher than that for adults. Ensure that your child has at least 2-3 servings of milk and milk products every day</item>
+        <item>Children should never be reprimanded for their curiosity. Things should be explained to them in a simple manner instead.</item>
+        <item>A balanced diet, rich in proteins, along with sports like swimming, basketball, and volleyball, can help children grow taller.</item>
+        <item>Any heavy weight activity is not be suitable for young children as it may toughen their muscles and stunt growth.</item>
+        <item>Young children have small stomachs that tend to fill up quickly. One food guide serving of a food group can be divided up into smaller amounts and served throughout the day.</item>
+        <item>"Don't restrict nutritious foods because of their fat content. Offer a variety of nutritious foods, including some choices that contain fat (like milk, peanut butter, and avocado)."</item>
+        <item>Satisfy thirst with water. Encourage your children to drink water to quench their thirst and replenish body fluids.</item>
+        <item>Offer vegetables and fruit more often than juice. Whole fruits and veggies have more vitamins, minerals, and fibre.</item>
+        <item>Offer 500 mL (2 cups) of milk every day. This will help kids meet their vitamin D needs to help their bones grow strong.</item>
+        <item>Limit foods and drinks high in calories, fat, sugar, and salt (sodium), like cookies, chips, and soft drinks.</item>
+        <item>Be a good role model. Your children will be more likely to enjoy a variety of foods and try new foods if you do.</item>
+        <item>Let kids choose amounts for themselves. Although you are responsible to pick which foods are served throughout the day, let your children decide how much they eat.</item>
+        <item>Offer new foods often. Kids will be kids!If they reject an unfamiliar food the first time, offer it again later. The more often children are exposed to new foods, the more likely they are to accept them.</item>
+        <item>Cleaning kids’ ears: Everyone’s ears produce wax but excess wax gets dried up and comes out on its own. Do not use ear buds to clean your child’s ears as you may damage the eardrum; instead, use a washcloth dipped in warm water to wipe the outside of the ears and also behind them.</item>
+        <item>Brushing their teeth: Kids need to start brushing even before they start sprouting teeth.</item>
+        <item>Bathing your child: Some children hate having a bath. Bring their favourite toy in the bathtub, change to a mild baby shampoo, change the brand of soap – do whatever it takes to get them to like bath time.</item>
+        <item>Washing hands: Washing hands is something your child will end up doing many times a day so it is important to educate your child on when washing hands is a must.</item>
+        <item>Using a sanitizer: Sometimes when soap and water is unavailable, teach your child to whip out the handy bottle of sanitizer.</item>
+        <item>Wearing clean underwear: In hot weather or when the child is physically active, underwear may be required to be changed twice a day.</item>
+        <item>When your child has a runny nose, pin a handkerchief onto his shirt or stuff some tissues into his pockets. Nasal discharge can infect other children so it’s important to educate your child to wipe his nose whenever necessary and wash his hands often.</item>
+        <item>If your child sucks his thumb or rubs his eyes habitually, gently remove his thumb or fingers from the spot and distract him with his favourite toy or book.</item>
+    </string-array>
+    <string-array name="health__tips_for_women">
+        <item>You must drink lots of water. At least 8 -12 glasses of water consumption should be done by an adult women.</item>
+        <item>Develop a healthy eating habit and include more fresh fruits, green leafy vegetables, and food rich in fiber, shoots, seeds and cereals in your diet.</item>
+        <item>Increase your protein intake and also have more of carbohydrate in your diet.</item>
+        <item>Always start your day by eating a big breakfast. If you are working take lunch from home instead of eating at the cafeteria.</item>
+        <item>Establish an exercise routine. Staying active will help you develop a strong body that looks and feels good as you age. It can lower your risk for disease, reduce stress and protect your bones and joints. So its good and healthy too</item>
+        <item>It is wise to choose snacks from different food groups. Some choices would be: graham crackers, an apple or celery sticks with peanut butter and raisins.</item>
+        <item>Develop a hobby works like a stress buster. It will not only divert your mind from the daily grind but will also save you from having a devils thoughts in mind.</item>
+        <item>Keep your weight under control. Over weight not only hampers our daily life but also lowers our self esteem.</item>
+        <item>Have safe sex using a latex condom every time you have sex. If you have not taken this step, you may need testing for Sexually Transmitted Diseases.</item>
+        <item>Regular health checkup can save you from a lot of health problems later in life. You can go for a yearly or monthly checkup or more depending on your age.</item>
+        <item>Go for regular Pranayama, breathing exercises and Yoga classes to stay healthy and develop your immune system. It therefore increases your resistance power.</item>
+        <item>Never ignore your sleep. The perfect sleep is an indication of perfect health condition. Develop the habit of early to bed and early to rise. A minimum 8 hours sleep is must for any one.</item>
+        <item>Quit squeezing yourself into ill-fitting innerwear. Straps that are too thin or too tight can put pressure on all the wrong muscles, causing a range of hazardous health issues.</item>
+        <item>Fish oil is beneficial for the whole body-it nourishes tissues and organs, helps balance hormones and promotes brain, cardiovascular, breast, and immune health.</item>
+        <item>A garlic a day: Garlic is the mother of all cures. Researchers in Liverpool have found that 5ml of garlic extract lower levels of a disease-causing chemical by up to 48 per cent.</item>
+        <item>Take care of your skin: Always wear sun-screen lotion during summers. It is advisable to use winter care creams to overcome the harsh and cold winds.</item>
+        <item>Never sleep over a backache: It is never advisable to sleep over a backache. Research shows that people who take to their beds with backache take the longest time to recover.</item>
+        <item>low down on the junk: Research shows that eating too many high-fat-food contributes to high blood-cholestrol levels, which can cause hardening of the arteries, coronory heart disease and stroke.</item>
+        <item>Supplement with selenium: Research has shown that people who took a daily supplement of selenium had a 37 per cent reduction in cancers.</item>
+        <item>Vitamins are vital: A multivit a day keeps the tablet away, but be sure it contains at least 200 meg of folic acid.</item>
+    </string-array>
+    <string-array name="simple_health__tips">
+        <item>Walk for 30 minutes daily.</item>
+        <item>Eat a piece of fruit daily.</item>
+        <item>Eat whole foods instead of processed foods whenever possible</item>
+        <item>Reject foods and drinks made of artificial colors or sweetener.</item>
+        <item>Start each lunch/dinner with salad.</item>
+        <item>Give your partner a hug every day before work.</item>
+        <item>Take a deep belly breath for three to five minutes twice a day.</item>
+        <item>Smell the scent of lavender to relax and sleep well.</item>
+        <item>Eat a handful of walnuts before bed.</item>
+        <item>Drink plenty of water.</item>
+        <item>Get 10-15 minutes of sunlight and fresh air daily.</item>
+        <item>Have a greater variety of food. Variety means no excess of anything and more nutrients. Eat three different foods at every meal.</item>
+        <item>Eat slowly.</item>
+        <item>Watch comedy and add humor to your life.</item>
+        <item>Never skip breakfast.</item>
+        <item>Try to have seven hours of sleep at night.</item>
+        <item>Have a fixed bed time, preferably at 10:00 pm.</item>
+        <item>Increase your fiber intake.</item>
+        <item>Eat foods with bright rich colors.</item>
+        <item>Surround yourself with loving and supportive people.</item>
+        <item>Know that healthy food tastes great later.</item>
+        <item>Drink green tea twice a day.</item>
+        <item>Exercise till you sweat once a week.</item>
+        <item>Save a one year’s worth of living expenses to eliminate the money stress.</item>
+        <item>Do pull-ups and push-ups for 30 minutes twice a week.</item>
+        <item>Eat a handful of nuts 30 minutes before a meal.</item>
+        <item>Learn to cook and gain control of what goes into your meals</item>
+        <item>Take a Vitamin D rich supplement.</item>
+        <item>Avoid cold drinks with meals.</item>
+        <item>Take ginger.</item>
+        <item>Cut down sugar</item>
+        <item>eat 3 hours before going to bed.</item>
+        <item>Sit in silence for 10 minutes each day.</item>
+        <item>Do work that you are passionate about.</item>
+        <item>Keep in touch with your family.</item>
+        <item>Don’t drink coffee twice a day.</item>
+        <item>If you’re stressed, don’t try to manage it. Instead, take time off and relax.</item>
+        <item>Quit smoking by smoking one less cigarette every week</item>
+        <item>Walk in nature barefoot.</item>
+        <item>Eat calcium-rich foods like milk, cheese and green leafy vegetables.</item>
+        <item>Don’t sit for a prolonged time. Stand up and stretch.</item>
+        <item>Wash your eyes and face regularly.</item>
+        <item>Take the stairs. No elevators. No escalators.</item>
+        <item>Wear high quality comfortable shoes.</item>
+        <item>Eat dark chocolate.</item>
+        <item>Eat wild salmon at least once a week (Omega-3 rich).</item>
+        <item>Take care of your teeth. Floss and brush your teeth twice a day at least.</item>
+        <item>Take honey to build up your immunity system.</item>
+        <item>Build your self confidence.</item>
+        <item>Do some strength training twice a week.</item>
+        <item>Don’t solve your emotional problems by eating more.</item>
+        <item>Avoid negative people.</item>
+        <item>keep in mind- Herbs, herbs, herbs.</item>
+    </string-array>
+</resources>
