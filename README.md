@@ -16,6 +16,8 @@ The app also has an user-friendly introduction for first-timers that briefs on t
 
 Youtube Demo: [https://youtu.be/EDdsUSuxibc](https://youtu.be/EDdsUSuxibc)
 
+Google Play Link: [https://play.google.com/store/apps/details?id=com.zduo.sos](https://play.google.com/store/apps/details?id=com.zduo.sos)
+
 APK link: [app-release.apk](https://github.com/adithya321/SOS-The-Healthcare-Companion/blob/master/app-release.apk)
 
 ### Screenshots
